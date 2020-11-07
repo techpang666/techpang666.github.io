@@ -4,97 +4,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="text/javascript">
+        window.location.href = "https://github.com/techpang666/TECHPANG_NOTE_sgz";
+    </script>
     <title>Document</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        
-        a {
-            text-decoration: none;
-        }
-
-        /* 数据参考我的或者自己调试 */
-        .box {
-            display: block;
-            position: relative;
-            width: 240px;
-            height: 76px;
-            border: 1px solid #ee5849;
-            margin: 20px auto;
-            cursor: pointer;
-        }
-
-        .box .left {
-            float: left;
-            font-size: 50px;
-            font-weight: 900;
-            color: #ee5849;
-            /* 让左侧03垂直居中 */
-            line-height: 76px;
-            margin: 0 10px;
-            /* 文字颜色变化需要添加过渡 */
-            transition: all 1s;
-        }
-
-        /* 利用浮动不会压住标准流的文字特点处理右侧两行文字 */
-        .box h2 {
-            font-size: 18px;
-            color: #ee5849;
-            /* 文字颜色变化需要添加过渡 */
-            transition: all 1s;
-        }
-
-        .box .cname {
-            margin: 14px 0 4px;
-        }
-
-        /* .box p {
-            font-size: 17px;
-            color: #ee5849;
-            font-weight: 700;
-            文字颜色变化需要添加过渡
-            transition: all 1s;
-        } */
-
-        .box:before {
-            /* 利用伪元素提前创建好宽度为0的橙色背景，一会鼠标上移增加宽度 */
-
-            position: absolute;
-            left: 0;
-            top: 0;
-            content: "";
-            width: 0;
-            height: 100%;
-            background-color: #ee5849;
-            /* 宽度变化需要添加过渡属性 */
-            transition: all .6s linear;
-            /* 降低层级 避免橙色遮罩层压住文字，作为背景的效果显示 */
-            z-index: -1;
-        }
-
-        /* 鼠标上移到box的时候让box的伪元素增加宽度 */
-        .box:hover:before {
-            width: 100%;
-        }
-
-        /* .left h2 p本身有设置颜色 所以设置给父元素无法继承颜色，只能逐个设置 */
-        .box:hover .left,
-        .box:hover h2,
-        .box:hover p {
-            color: #fff;
-        }
-    </style>
 </head>
 
 <body>
-    <a class="box" href="https://techpang.top/">
-        <div class="left">03</div>
-        <h2 class="cname">TECHPANG.TOP</h2>
-        <h2>生死看淡 不服就干</h2>
-    </a>
+
 </body>
 
 </html>
