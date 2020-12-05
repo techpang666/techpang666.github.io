@@ -1,1 +1,44 @@
-# techpang666.github.io
+
+# **佛系玩家沈公子的开源聚合服务(内测版)**
+>最近更新 v20.12.06  
+
+## **团战项目⭐**
+* <a href="https://www.bilibili.com/" target="_blank">兄弟萌冲阿</a>
+
+------
+
+## **个人简历**
+* <a href="https://www.bilibili.com/video/BV1oZ4y1N7Cr/" target="_blank">待上传(先来个回忆录排面一下)</a>
+
+------
+
+## **个人项目**
+* [待启动](#)
+
+------
+
+## **沈公子的技能书**
+* [待上传(别问就是在写)](#)
+
+------
+
+## **沈公子的GitHub仓库**
+* <a href="https://github.com/techpang666/TECHPANG_NOTE_sgz" target="_blank">沈公子的最强辅助系统</a>
+
+------
+
+## **沈公子的作战系统**
+* [待上传(正在迭代中)](#)
+
+------
+
+## **B站视频佛系计划**
+* **辅助系列**
+  * <a href="https://www.bilibili.com/video/BV1Pa4y1s75h/" target="_blank">如何查看我的云端笔记</a>
+  * <a href="https://www.bilibili.com/video/BV175411V7Dx/" target="_blank">自动化创建学习文件</a>
+* **Markdown天下无敌系列**
+  * <a href="https://www.bilibili.com/video/BV1154y167KV/" target="_blank">Markdown天下无敌之思维导图markmap</a>
+  * <a href="https://www.bilibili.com/video/BV1Fy4y1k7vd/" target="_blank">Marp_程序员的PPT</a>
+* **好玩系列**
+  * <a href="https://www.bilibili.com/video/BV1Tp4y1k7SW/" target="_blank">Google加速器插件及标签页插件的安装</a>
+  * <a href="https://www.bilibili.com/video/BV1Qf4y1i7o9/" target="_blank">VScode插件Power_Mode编辑器时的特效</a>
