@@ -1,9 +1,9 @@
 
 # **佛系玩家沈公子的开源聚合服务(内测版)**
->最近更新 v20.12.06  
+>最近更新 v20.12.07  
 
 ## **团战项目⭐**
-* <a href="https://techpang.gitee.io/gujian_team_project/" target="_blank">网游古剑项目(首发团战项目)</a>
+* <a href="https://techpang.gitee.io/gujian_team_project/" target="_blank">**网游古剑项目(首发团战项目)**</a>
 
 ------
 
