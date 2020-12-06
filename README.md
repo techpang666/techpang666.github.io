@@ -3,7 +3,7 @@
 >最近更新 v20.12.06  
 
 ## **团战项目⭐**
-* <a href="https://www.bilibili.com/" target="_blank">兄弟萌冲阿</a>
+* <a href="https://techpang.gitee.io/gujian_team_project/" target="_blank">网游古剑项目(首发团战项目)</a>
 
 ------
 
