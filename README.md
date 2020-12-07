@@ -22,7 +22,7 @@
 
 ------
 
-## **沈公子的GitHub仓库**
+## **沈公子的百宝箱**
 * <a href="https://github.com/techpang666/TECHPANG_NOTE_sgz" target="_blank">沈公子的最强辅助系统</a>
 
 ------
