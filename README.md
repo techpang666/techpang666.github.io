@@ -1,6 +1,6 @@
 
 # **佛系玩家沈公子的开源聚合服务(内测版)**
->最近更新 v20.12.07  
+>最近更新 v20.12.08  
 
 ## **团战项目⭐**
 * <a href="https://techpang.gitee.io/gujian_team_project/" target="_blank">**网游古剑项目(首发团战项目)**</a>
@@ -23,7 +23,7 @@
 ------
 
 ## **沈公子的百宝箱**
-* <a href="https://github.com/techpang666/TECHPANG_NOTE_sgz" target="_blank">沈公子的最强辅助系统</a>
+* <a href="https://github.com/techpang666/TECHPANG_NOTE_sgz" target="_blank">沈公子的最强辅助系统(笔记/项目记录/插件/教程)</a>
 
 ------
 
@@ -32,7 +32,14 @@
 
 ------
 
+## **沈公子的图床**
+* <a href="https://gitee.com/techpang/img_emoji_libs" target="_blank">沈公子的图床(项目资源及表情包)</a>
+
+------
+
 ## **B站视频佛系计划**
+* **模拟讲师系列**
+  * <a href="https://www.bilibili.com/video/BV1c64y1f7BC/" target="_blank">Google加速器及图片助手插件安装教程加餐版(首发开源讲解)</a>
 * **辅助系列**
   * <a href="https://www.bilibili.com/video/BV1Pa4y1s75h/" target="_blank">如何查看我的云端笔记</a>
   * <a href="https://www.bilibili.com/video/BV175411V7Dx/" target="_blank">自动化创建学习文件</a>
