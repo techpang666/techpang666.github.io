@@ -1,6 +1,6 @@
 
 # **佛系玩家沈公子的开源聚合服务(内测版)**
->最近更新 v20.12.08  
+>最近更新 v20.12.09  
 
 ## **团战项目⭐**
 * <a href="https://techpang.gitee.io/gujian_team_project/" target="_blank">**网游古剑项目(首发团战项目)**</a>
@@ -38,14 +38,4 @@
 ------
 
 ## **B站视频佛系计划**
-* **模拟讲师系列**
-  * <a href="https://www.bilibili.com/video/BV1c64y1f7BC/" target="_blank">Google加速器及图片助手插件安装教程加餐版(首发开源讲解)</a>
-* **辅助系列**
-  * <a href="https://www.bilibili.com/video/BV1Pa4y1s75h/" target="_blank">如何查看我的云端笔记</a>
-  * <a href="https://www.bilibili.com/video/BV175411V7Dx/" target="_blank">自动化创建学习文件</a>
-* **Markdown天下无敌系列**
-  * <a href="https://www.bilibili.com/video/BV1154y167KV/" target="_blank">Markdown天下无敌之思维导图markmap</a>
-  * <a href="https://www.bilibili.com/video/BV1Fy4y1k7vd/" target="_blank">Marp_程序员的PPT</a>
-* **好玩系列**
-  * <a href="https://www.bilibili.com/video/BV1Tp4y1k7SW/" target="_blank">Google加速器插件及标签页插件的安装</a>
-  * <a href="https://www.bilibili.com/video/BV1Qf4y1i7o9/" target="_blank">VScode插件Power_Mode编辑器时的特效</a>
+* <a href="https://github.com/techpang666/asgz_bilibili_push" target="_blank">沈公子的B站佛系推送计划</a>
