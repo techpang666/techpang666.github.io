@@ -6,8 +6,6 @@
 console.log('啦啦啦');
 ```
 
-### NODE初体验
-
 JavaScript需要借助node.js进行后端开发  
 
 node.js是基于ChromeV8引擎的JavaScript运行环境 能对JavaScript进行解析  
@@ -42,7 +40,6 @@ node server.js
 esc键 清空输入内容  
 tab键 自动补全  
 cls/clear 清空终端  
-
 
 文件系统(fs)提供用来操作文件的模块  
 
@@ -411,8 +408,6 @@ server.listen(5500, () => {
 })
 ```
 
-### 模块化
-
 什么是模块化  
 模块化是指解决一个复杂问题的时候  
 自上而下的将系统划分成若干模块  
@@ -528,8 +523,6 @@ exports.sayHello = function () {
 }
 ```
 
-
-
 ```js
 // 两个对象的打印测试
 
@@ -573,7 +566,6 @@ exports = {
 module.exports = exports;
 module.exports.username = '张三';
 ```
-
 
 nodejs遵循CommonJS模块化规范 CommonJS规定模块的特性及各个模块之间的相互依赖  
 * 每个模块内部 module变量代表当前模块
@@ -663,7 +655,6 @@ function dateFormat(dtStr) {
   return `${y}-${m}-${d} ${hh}:${mm}:${ss}`
 }
 
-
 // 封装补零函数
 function padZero(n) {
   // 返回三元表达式 如果n大于9 输出n 反之加零
@@ -733,6 +724,8 @@ npm init
 ```bash
 # 卸载指定包
 npm uninstall moment
+# 卸载全局包
+npm uninstall nrm -g
 ```
 
 devDependencies节点的作用(一般都不用管 如果给别人用的话)  
@@ -777,6 +770,8 @@ i5ting_toc -f ./test.md -o
 
 开发包的流程  
 * 规范的包结构
+* 初始化包结构
+* 包的说明文档
 
 
 规范的包结构需要三点要求  
@@ -941,8 +936,7 @@ C:\node_modules\tools
 * 如果没有json文件或者main解析失败 会尝试加载index.js文件
 * 都没有就会终端报错 `Error: Cannot find module xxx`
 
-### express框架
-
+express框架  
 类似内置的http模块 用于创建web服务器的  
 本质 第三方包 提供快速创建web服务器  
 
@@ -1034,14 +1028,6 @@ console.log('666');
 res.send('666');
 ```
 
-现在，你就可以访问 public 目录中的所有文件了： 
-访问图片资源： 
-访问 css 资源： 
-访问 js 资源：
-
-http://127.0.0.1:5500/
-
-
 调用express.static()方法 对外提供静态资源  
 ```js
 app.use(express.static('public'))
@@ -1076,6 +1062,7 @@ app.use('/public',express.static('static'))
 nodemon工具可以监听项目的变动 自动重启项目  
 ```bash
 # 全局安装nodemon
+# 不要拿编辑器的终端安装工具
 npm i nodemon -g
 
 # 常规启动服务器
