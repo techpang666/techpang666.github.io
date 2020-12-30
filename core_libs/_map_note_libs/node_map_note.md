@@ -6,6 +6,17 @@
 console.log('啦啦啦');
 ```
 
+------
+node的学习路线  
+* JavaScript基础
+* node.js内置API(fs/path/http)
+* 第三方框架(express/mysql等等)
+
+学node的意义  
+* 了解客户端和服务端的交互过程
+* 便于定位是客户端还是服务端问题 避免不必要的时间成本
+* 为以后的职业生涯打下一定的基础
+
 JavaScript需要借助node.js进行后端开发  
 
 node.js是基于ChromeV8引擎的JavaScript运行环境 能对JavaScript进行解析  
@@ -18,10 +29,8 @@ node和浏览器的JavaScript运行环境区别
 浏览器是JavaScript的前端运行环境  
 node是JavaScript的后端运行环境  
 
-node的学习路线  
-* JavaScript基础
-* node.js内置API(fs/path/http)
-* 第三方框架(express/mysql等等)
+服务端和客户端的JS区别  
+node中使用dom和bom的api会报错  
 
 官方版本区别  
 LTS 长期稳定版  
@@ -41,13 +50,15 @@ esc键 清空输入内容
 tab键 自动补全  
 cls/clear 清空终端  
 
+------
 文件系统(fs)提供用来操作文件的模块  
-
 ```js
 // 读取文件内容的方法
 fs.readFile();
 // 写入文件内容的方法
 fs.writeFile();
+// 追加文件内容的方法
+fs.appendFile();
 
 // JavaScript需要导入fs模块
 const fs = require("fs");
@@ -126,6 +137,18 @@ fs.writeFile('./test_write.md', 'test668', 'utf8', function(err) {
 ```
 
 ```js
+// 追加操作
+
+fs.appendFile('./test_node.md', '追加内容', function (err) {
+  if (err) {
+    console.log(err);
+  } else {
+    console.log('追加成功');
+  }
+})
+```
+
+```js
 /**
  * @description 整理成绩
  * 
@@ -197,8 +220,8 @@ fs.readFile(__dirname + '/node_note.md', 'utf8', function(err, data) {
 })
 ```
 
+------
 路径模块(path)用于处理路径的模块  
-
 ```js
 // 将多个路径片段进行拼接成完整的路径字符串
 path.join()
@@ -250,9 +273,9 @@ console.log(path.basename(file_name, '.md'));
 console.log(path.extname(file_name));
 ```
 
+------
 http模块(用于创建web服务器)  
 通过http.createServer()方法 本地创建web服务器 对外提供web资源服务  
-
 ```js
 // 导入http模块
 const http = require('http');
@@ -297,6 +320,12 @@ res.end()方法 向客户端发送指定内容并结束这次请求
 
 防止中文乱码 需要设置响应头(res.setHeader())  
 
+返回数据的格式  
+* text/html(浏览器会以html语法解析)
+* text/css(浏览器会以css语法解析)
+* application/javascript(浏览器会以js语法解析)
+<!-- * application/json(从服务器返回的数据) -->
+
 ```js
 // web服务器初体验
 
@@ -331,6 +360,7 @@ server.on('request', (req, res) => {
 })
 
 // 启动服务器
+// * 箭头函数 不用req/res
 server.listen(5500, () => {
   console.log('启动服务器成功');
 })
@@ -408,6 +438,7 @@ server.listen(5500, () => {
 })
 ```
 
+------
 什么是模块化  
 模块化是指解决一个复杂问题的时候  
 自上而下的将系统划分成若干模块  
@@ -572,6 +603,7 @@ nodejs遵循CommonJS模块化规范 CommonJS规定模块的特性及各个模块
 * module变量是一个对象 其中的exports属性(module.exports)就是对外接口
 * require()方法加载模块 就是加载该模块的module.exports属性
 
+------
 包包包  
 nodejs中第三方模块也叫包  
 不同于内置及自定义模块 包来自第三方团队开发的 nodejs的包都是开源的  
@@ -724,7 +756,7 @@ npm init
 ```bash
 # 卸载指定包
 npm uninstall moment
-# 卸载全局包
+# 卸载全局包(一定要加-g 不然卸载失败)
 npm uninstall nrm -g
 ```
 
@@ -772,7 +804,6 @@ i5ting_toc -f ./test.md -o
 * 规范的包结构
 * 初始化包结构
 * 包的说明文档
-
 
 规范的包结构需要三点要求  
 * 包以独立目录存在
@@ -936,6 +967,7 @@ C:\node_modules\tools
 * 如果没有json文件或者main解析失败 会尝试加载index.js文件
 * 都没有就会终端报错 `Error: Cannot find module xxx`
 
+------
 express框架  
 类似内置的http模块 用于创建web服务器的  
 本质 第三方包 提供快速创建web服务器  
@@ -1085,10 +1117,383 @@ app.get('/', function (req, res) {
 })
 
 // 启动服务器
+// * 箭头函数及不用req/res
 app.listen(5500, function (req, res) {
   console.log('running...');
 })
 ```
+
+------
+路由的概念  
+* 路由就是映射关系
+* 根据不同的用户url请求 返回不同的内容
+* 本质 url请求地址与服务器资源之间的对应关系
+
+```html
+<body>
+  <img src="./images/路由.png" alt="">
+</body>
+```
+
+```js
+// 新知识多写不要偷懒及写语法 多注释再写
+```
+
+express的路由是指客户端请求与服务器处理函数之间的映射关系  
+express的路由 由三部分组成  
+* 请求类型
+* 请求的rul地址
+* 处理函数
+
+```js
+// 路由语法 请求类型 url 处理函数
+app.METHOD(PATH, HANDLER)
+```
+
+```js
+// 匹配GET/POST请求 且请求url都是 /
+app.get('/', (req, res) => {
+  res.send(req)
+})
+
+app.post('/', (req, res) => {
+  res.send(req)
+})
+```
+
+```js
+// 导包
+const express = require('express')
+
+// 创建服务器实例 
+const app = express()
+
+// 路由语法 请求类型 url 处理函数
+app.METHOD(PATH, HANDLER)
+
+// 匹配GET/POST请求 且请求url都是 /
+app.get('/', (req, res) => {
+  res.send(req)
+})
+
+app.post('/', (req, res) => {
+  res.send(req)
+})
+
+// 启动服务器
+// * 一般这里箭头函数 且不用req/res
+// app.listen(5500, function () {
+//   console.log('running...');
+// })
+app.listen(5500, () => {
+  console.log('running...');
+})
+```
+
+路由的匹配过程  
+* 当请求到服务器的时候 需要经过路由的匹配 匹配成功才会调用对应的处理函数
+* 匹配需要按照路由顺序 请求类型和url同时匹配成功 才会将请求转交给对应的function函数处理
+
+路由匹配的注意点  
+* 需要按照定义的先后顺序
+* 请求类型和url同时匹配成功 才会调用function函数
+
+```js
+// 客户端请请求
+// 路由 从上往下进行匹配
+// 分发 处理函数
+
+app.get('/', (req, res) => {
+  res.send(req)
+  console.log('函数A');
+})
+
+app.post('/', (req, res) => {
+  res.send(req)
+  console.log('函数B');
+})
+
+app.get('/user', (req, res) => {
+  res.send(req)
+  console.log('函数C');
+})
+
+app.post('/user', (req, res) => {
+  res.send(req)
+  console.log('函数D');
+})
+```
+
+express路由最简单的方式 路由直接挂载在app上面  
+
+模块化路由  
+为了方便对路由进行模块化管理 express不建议将路由挂载app上  
+抽离为单独的模块 步骤如下  
+* 创建路由模块的js文件
+* 调用express.Router()函数创建路由对象
+* 在路由对象上挂载具体的路由
+* module.exports导出路由对象
+* app.use()函数注册路由模块
+
+```js
+// 创建路由模块.js
+
+// 导包
+const express = require('express')
+
+// 创建路由对象
+const router = express.Router()
+
+// 挂载获取用户列表的路由
+router.get('/user/list', (req, res) => {
+  res.send('用户列表')
+})
+
+// 挂载添加用户列表的路由
+router.post('/user/add', (req,res) => {
+  res.send('添加用户')
+})
+
+// 导出路由对象
+module.exports = router;
+```
+
+```js
+// 注册路由模块.js
+
+// 导包express
+const express = require('express')
+
+// 创建服务器实例
+const app = express()
+
+// 导入路由模块
+const router = require('./router')
+
+// 使用app.use()注册路由
+app.use(router)
+
+// 给路由模块添加前缀
+app.use('/api', router)
+
+// 启动服务器
+app.listen(5500, () => {
+  console.log('running...');
+})
+```
+
+类似给静态资源加前缀一样 给路由添加前缀  
+给路由添加前缀 访问的时候也要加上前缀  
+
+------
+中间件(Middleware)是指业务流程中的中间处理环节  
+本质就是个function处理函数  
+
+express中间件的调用流程  
+当请求到达express服务器的时候 可以连续调用几个中间件 对这次请求进行预处理  
+
+中间件的格式
+形参必须包含`next` 路由处理函数只含有`req`和`res`  
+
+定义中间件的时候 可以封装多个函数  
+
+```js
+// 中间件
+app.get('/', (req, res, next) => {
+  next()
+})
+```
+
+next函数的作用就是实现多个中间件连续调用 它会把流转关系转交给下一个中间件或者路由  
+
+```js
+console.log('中间件A');
+next()
+console.log('中间件B');
+next()
+console.log('中间件C');
+next()
+console.log('处理完响应请求');
+```
+
+```js
+// 定义最简单的中间件函数
+const kw = () => {
+  console.log('最简单的中间件函数');
+  // 流转关系 转交给下一个中间件或者路由
+  next()
+}
+```
+
+全局生效的中间件  
+客户端发出请求 都会触发的中间件 叫全局生效的中间件  
+通过app.use() 实现全局生效的中间件  
+
+```js
+// 导包express
+const express = require('express')
+
+// 创建服务器实例
+const app = express()
+
+// 定义最简单的中间件函数
+const kw = (req, res, next) => {
+  console.log('最简单的中间件函数');
+  // 流转关系 转交给下一个中间件或者路由
+  next()
+}
+
+// 全局生效的中间件
+app.use(kw)
+
+app.get('/', (req, res) => {
+  console.log('调用/这个路由');
+  res.send('Home page')
+})
+
+app.get('/user', (req, res) => {
+  console.log('调用/user这个路由');
+  res.send('User page')
+})
+
+// 启动服务器
+app.listen(5500, () => {
+  console.log('running...');
+})
+```
+
+```js
+// 新知识多写多练语法等等
+// 业务逻辑不行可以练 至少先把语法写进脑子里(不能被知识语法给卡住了)
+// 先注释再写 培养习惯
+```
+
+全局中间件可以直接挂载在app.use()上面  
+```js
+// 通过app.use()直接挂载中间件
+app.use((req, res, next) => {
+  console.log('简化全局中间件的定义');
+  next()
+})
+```
+
+中间件的作用  
+可以多个中间件之间 共享一份req和res  
+基于这个特性 我们可以在上游的中间件  
+统一为req和res对象添加自定义属性和方法 供给下游的中间件或者路由使用  
+
+```js
+// 中间件A req.a = 10
+// 中间件B res.b = 30
+// 响应请求的时候 可以访问req.a和res.b的值
+```
+
+```js
+// 直接挂载在app.use()函数上 简化全局中间件写法
+app.use((req, res, next) => {
+  // 请求到服务器的所需时间
+  const time = Date.now()
+  // 为req对象挂载自定义属性 把时间共享给后面的路由
+  req.startTime = time
+  // * 不明白就log大法
+  console.log(req.startTime);
+  next()
+})
+
+app.get('/', (req, res) => {
+  res.send('home page:' + req.startTime)
+})
+
+app.get('/user', (req, res) => {
+  res.send('User page:' + req.startTime)
+})
+```
+
+可以定义多个中间件 客户端的请求到达服务器的时候 会依次执行  
+```js
+app.use((req, res, next) => {
+  console.log('第一个全局中间件');
+  next()
+})
+
+app.use((req, res, next) => {
+  console.log('第二个全局中间件');
+  next()
+})
+
+// ? 这里怎么说两个路由 不是一个嘛
+// 定义路由
+// 会依次触发上面的两个全局中间件
+app.get('/user', (req, res) => {
+  res.send('User page')
+})
+```
+
+不使用app.use()定义的中间件叫局部中间件  
+```js
+// 定义中间件函数
+const mv = (req, res, next) => {
+  console.log('这是中间件函数');
+  next()
+}
+
+// app.get()调用中间件 这个中间件只在当前的路由生效
+app.get('/', mv, (req, res) => {
+  res.send('Home page')
+})
+
+// 其他路由调用不到这个中间件
+app.get('/user', (req, res) => {
+  res.send('User page')
+})
+```
+
+路由可以调用多个中间件 定义多个局部中间件 通过下面两种方式进行使用  
+```js
+// 定义中间件函数
+const mv1 = (req, res, next) => {
+  console.log('这是第一个中间件函数');
+  next()
+}
+
+// 定义中间件函数
+const mv2 = (req, res, next) => {
+  console.log('这是第二个中间件函数');
+  next()
+}
+
+// app.get()调用中间件
+app.get('/', mv1, mv2, (req, res) => {
+  res.send('Home page')
+})
+
+// 也可以用数组绑定中间件
+app.get('/user', [mv1, mv2], (req, res) => {
+  res.send('User page')
+})
+```
+
+中间件的5个使用注意事项  
+* 要在路由前注册中间件
+* 客户端发来的请求 可以调用多个中间件进行处理
+* 执行完中间件的业务code 不要完了调用`next()`函数
+* 防止业务逻辑混乱 不要在next()函数后面继续code
+* 在上游中间件处理`req`和`res`对象 可以给下游中间件或者路由进行共享
+
+中间件的分类  
+express把常见的中间件用法 分为五大类  
+* 应用级别的中间件
+* 路由级别的中间件
+* 错误级别的中间件
+* express内置的中间件
+* 第三方的中间件
+
+
+
+
+
+
+
 
 
 
