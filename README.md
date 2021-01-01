@@ -32,7 +32,7 @@
 
 ------
 ## **沈公子的技能书**
->小分队笔记直通车访问路径 `core_libs\_map_note_libs`  
+>小分队笔记直通车访问路径 `core_libs/_map_note_libs`  
 * [待上传(别问就是在写)](./core_libs/test.md)
 
 ------
