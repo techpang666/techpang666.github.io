@@ -32,6 +32,8 @@ node是JavaScript的后端运行环境
 服务端和客户端的JS区别  
 node中使用dom和bom的api会报错  
 
+node的log不是window下的log 加window就会报错  
+
 官方版本区别  
 LTS 长期稳定版  
 Current 新特性尝鲜版  
@@ -319,12 +321,13 @@ res是响应对象 包含了服务器的相关数据和属性 例如将字符串
 res.end()方法 向客户端发送指定内容并结束这次请求  
 
 防止中文乱码 需要设置响应头(res.setHeader())  
+响应头信息在network下的XHR>Headers>Response Headers>Content-Type  
 
 返回数据的格式  
 * text/html(浏览器会以html语法解析)
 * text/css(浏览器会以css语法解析)
 * application/javascript(浏览器会以js语法解析)
-<!-- * application/json(从服务器返回的数据) -->
+* application/json(从服务器返回的数据)
 
 ```js
 // web服务器初体验
@@ -1487,6 +1490,127 @@ express把常见的中间件用法 分为五大类
 * 错误级别的中间件
 * express内置的中间件
 * 第三方的中间件
+
+通过`app.use() app.get() app.post()`绑定到app实例上的中间件叫应用级别的中间件  
+```js
+// 应用级别的中间件(全局款)
+app.use((req, res, next) => {
+  next()
+})
+
+// 应用级别的中间件(局部款)
+app.get('/', mw, (req, res) => {
+  res.send('home page')
+})
+```
+
+和应用级别的中间件没有区别 前者挂载`app`实例上 后者挂载`router`实例上  
+```js
+// 路由级别的中间件
+router.use((req, res, next) => {
+  console.log('Time', Date.now());
+  next()
+})
+
+// 注册路由
+app.use('/', router)
+```
+
+错误级别的中间件用于捕获整个项目中发生的异常错误 防止项目异常崩溃  
+* 必须有4个形参 `(err, req, res, next)`
+* 且必须注册在所有路由后面
+
+如果抛出错误 后面的code自然就不执行了  
+
+```js
+// 错误级别的中间件 必须在所有路由后面
+app.get('/', (req, res) => {
+  // 抛出自定义的错误
+  throw new Error('服务器内部发生了错误')
+  // * 服务器发生错误 后面的code自然就不执行了 process canceled
+  res.send('home page')
+})
+
+// 错误级别的中间件
+app.use((err, req, res, next) => {
+  // * node的log不是window下的log
+  // * 如果在前面加window.console.log()就会报错
+  // 服务器打印错误信息
+  console.log(err.message);
+  // 向客户端响应错误的相关内容
+  res.send(err.message)
+})
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------
+## 如意锦囊
+>收录各种注意点/疑难杂症(BUG/报错/疑问)及解决方案  
+
+------
+```js
+console.log('code平平安安没有bug即如意');
+```
+
+------
+新建项目必须`npm init -y`生成`package.json`文件 否则项目就废了  
+拿到手的项目是没有第三方包的 需要通过`package.json`文件`npm i`进行安装  
+`package-lock.json`只是记录每一个包的下载信息(下载地址)  
+`npm init -y`和`npm init`的区别是前者一键生成  
+
+```bash
+# 卸载全局包(一定要加-g 不然卸载失败)
+npm uninstall nrm -g
+```
+
+------
+```js
+// 设置响应头 告诉客户端 返回的是JSON数据 还有其他js/css等等数据格式
+res.setHeader('Content-Type', 'application/json')
+```
+
+------
+`res.end()/res.send()/res.json()`三者的区别  
+
+`res.end()`直接结束响应 只能发送字符串  
+
+`res.send()`自动给响应头赋值  
+```js
+// 当是字符串的时候 `Content-Type`响应头为`text/html`
+res.send('<p>some html</p>');
+
+// 当参数是对象或者数组的时候  express会用JSON格式表示
+res.send({user:'Jack'});
+res.send([1, 2, 3]);
+```
+
+`res.json()`将对象自动转换为字符串并响应  
+如果参数是对象或者数组 和`res.send()`效果一样  
+但也会转换非对象 null/undefined这些无效JSON  
+```js
+res.json(null);
+```
+
+`res.end()`和`res.send()`的区别  
+* 前者只接受服务器响应数据 如果是中文则会乱码
+* 后者发送给服务端时 会自动发送更多的响应报文头 其中包括`Content-Type: text/html; charset=uft-8` 所以中文不会乱码
+
+后面不会用`res.end()/res.send()`  
+通过`res.json()`将对象自动转换为字符串并响应  
+
+
 
 
 
