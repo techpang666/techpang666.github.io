@@ -10,9 +10,13 @@
 >仓库中的语言占比及年度提交量的数据展示📈  
 
 <details>
-  <summary>点一下有小彩蛋啦啦啦测试🥚</summary>
+  <summary>点一下有小彩蛋啦啦啦🥚</summary>
   <pre>
-  ![code](https://gitee.com/techpang/img_emoji_libs/raw/master/img_bed/markdown_images/code.gif)
+  习大大说 "征途漫漫 惟有奋斗"🚀
+  <br>
+  狭路相逢勇者胜 兄弟萌冲阿🤣
+  <!-- <br> -->
+  这里佛系随缘更新 欢迎下次再来
   </pre>
 </details>
 
