@@ -11,10 +11,9 @@
 
 <details>
   <summary>点一下有小彩蛋啦啦啦测试🥚</summary>
-  <!-- <pre> -->
-  https://gitee.com/techpang/img_emoji_libs/raw/master/img_bed/markdown_images/code.gif
-  <!-- ![code]() -->
-  <!-- </pre> -->
+  <pre>
+  ![code](https://gitee.com/techpang/img_emoji_libs/raw/master/img_bed/markdown_images/code.gif)
+  </pre>
 </details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techpang666&layout=compact)](https://techpang.top/)
