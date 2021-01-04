@@ -12,7 +12,8 @@
 <details>
   <summary>点一下有小彩蛋啦啦啦测试🥚</summary>
   <!-- <pre> -->
-  ![code](https://gitee.com/techpang/img_emoji_libs/raw/master/img_bed/markdown_images/code.gif)
+  https://gitee.com/techpang/img_emoji_libs/raw/master/img_bed/markdown_images/code.gif
+  <!-- ![code]() -->
   <!-- </pre> -->
 </details>
 
