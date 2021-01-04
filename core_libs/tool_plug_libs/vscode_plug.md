@@ -1,6 +1,7 @@
 
 # **VScode插件集中营**
 >code未动 编辑器先优化 冲冲冲  
+>可以插件`comment translate`或者Google翻译了解相关插件  
 * chinese(simplified)language
 * github theme
 * material icon theme
