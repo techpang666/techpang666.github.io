@@ -1,8 +1,24 @@
 
 # **佛系玩家沈公子的开源聚合服务(内测版)**
 >开源吉时 v20.12.06  
->最近更新 v21.01.01  
+>最近更新 v21.01.04  
 >**用户体验温馨提示(Ctrl+单击打开相关链接)**  
+
+------
+## **努力成为S+级玩家 起飞起飞🚀**
+>Hi there 👋  
+>仓库中的语言占比及年度提交量的数据展示📈  
+
+<details>
+  <summary>点一下有小彩蛋啦啦啦测试🥚</summary>
+  <!-- <pre> -->
+  ![code](https://gitee.com/techpang/img_emoji_libs/raw/master/img_bed/markdown_images/code.gif)
+  <!-- </pre> -->
+</details>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techpang666&layout=compact)](https://techpang.top/)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=techpang666&theme=vue-dark&show_icons=true&show_owner=true)](https://techpang.top/)
 
 ------
 ## **自我介绍及计划序列**
@@ -32,8 +48,13 @@
 
 ------
 ## **沈公子的技能书**
->小分队笔记直通车访问路径 `core_libs/_map_note_libs`  
 * [待上传(别问就是在写)](./core_libs/test.md)
+
+------
+## **沈公子的笔记系统**
+>打开相关文件(例如markdown) 文件右上角有个`Raw` 打开可以`ctrl+s`下载源文件  
+* [技能书小分队笔记直通车](https://github.com/techpang666/techpang666.github.io/tree/main/core_libs/_map_note_libs)
+* [工具插件类等教程直通车](https://github.com/techpang666/techpang666.github.io/tree/main/core_libs/tool_plug_libs)
 
 ------
 ## **沈公子的辅助系统**
