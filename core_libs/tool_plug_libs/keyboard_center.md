@@ -4,15 +4,19 @@
 
 ------
 ## **Vscode系列**
-* ctrl+shift+c(弹出终端 和ctrl+`打开终端不一样 默认cmd 可以设置终端为git)
-* ctrl+h(查找并替换 和ctrl+d选择相同内容不一样)
+>ctrl+shift+p(命令面板 包治百病)  
+
+* ctrl+shift+c(弹出终端 和`ctrl+~`打开终端不一样 默认cmd 可以设置终端为git)
+* ctrl+h(查找并替换 和`ctrl+d`选择相同内容不一样)
 * ctrl+shift+k(删除当前行)
 
 
 
 ------
 ## **Chrome系列**
+>ctrl+shift+p(命令面板 包治百病)  
 
+* 啦啦啦
 
 
 
