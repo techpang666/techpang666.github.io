@@ -45,5 +45,8 @@
     "extensions.ignoreRecommendations": true,
     "winopacity.opacity": 238,
     "eslint.alwaysShowStatus": true,
-    "terminal.external.windowsExec": "D:\\Program Files\\Git\\git-bash.exe"
+    "terminal.external.windowsExec": "D:\\Program Files\\Git\\git-bash.exe",
+    "code-runner.clearPreviousOutput": true,
+    "faker.locale": "zh_CN",
+    "material-icon-theme.showReloadMessage": false
 }
