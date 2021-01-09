@@ -3,4 +3,4 @@
 # 忽略vscode的配置文件
 .vscode
 # 忽略code训练营的各种文件
-code_camp
+_code_camp

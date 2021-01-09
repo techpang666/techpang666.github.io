@@ -48,5 +48,6 @@
     "terminal.external.windowsExec": "D:\\Program Files\\Git\\git-bash.exe",
     "code-runner.clearPreviousOutput": true,
     "faker.locale": "zh_CN",
-    "material-icon-theme.showReloadMessage": false
+    "material-icon-theme.showReloadMessage": false,
+    "search.useIgnoreFiles": false
 }
