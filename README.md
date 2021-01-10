@@ -58,8 +58,8 @@
 ------
 ## **沈公子的笔记系统**
 >打开相关文件(例如markdown) 文件右上角有个`Raw` 打开可以`ctrl+s`下载源文件  
-* [技能书小分队笔记直通车](./core_libs/_map_note_libs)
-* [工具插件类等教程直通车](./core_libs/tool_plug_libs)
+* [技能书小分队笔记直通车🌈](./core_libs/_map_note_libs)
+* [工具插件类等教程直通车🐞](./core_libs/tool_plug_libs)
 
 ------
 ## **沈公子的辅助系统**
