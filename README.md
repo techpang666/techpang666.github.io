@@ -1,7 +1,8 @@
 
 # **佛系玩家沈公子的开源聚合服务(内测版)**
 >开源吉时 v20.12.06  
->最近更新 v21.01.06  
+>最近更新 v21.01.12  
+>心无旁骛地输出模式  
 >佛系申请一键三连(follow/star/fork)😁  
 >**用户体验温馨提示(Ctrl+单击打开相关链接)⭐**  
 
@@ -30,26 +31,15 @@
 * [待更新](./core_libs/test.md)
 
 ------
-## **个人简历**
-* [待上传(先来个回忆录排面一下)](https://www.bilibili.com/video/BV1oZ4y1N7Cr/)
+## **VUE训练营**
+>努力成为VUE魔法师🔮  
+* [VUE训练营直通车🚀](https://github.com/techpang666/vue_camp)
 
 ------
-## **团战特训**
-* [⭐网游古剑项目](https://techpang.gitee.io/gujian_team_project/)
-* [⚡更多实战(未上线)](./core_libs/test.md)
-
-------
-## **单兵特训**
->**全方位特训提高核心竞争力**  
-* [⭐网游古剑项目之客户服务部分(团战中负责的部分)](https://techpang.gitee.io/gujian_service_project/)
-* [⭐攻打美团系列(未上线)](./core_libs/test.md)
-* [⚡更多特训(未上线)](./core_libs/test.md)
-
-------
-## **CV大师**
->**B站好玩的项目训练基本功及项目能力**  
-* [⭐爱心跳跳糖](https://techpang.top/love_jump/)
-* [⚡更多好玩(未上线)](./core_libs/test.md)
+## **其他好玩的项目**
+>项目集中营直通车[⭐](https://github.com/techpang666?tab=repositories)  
+* [JS扫地僧出动👻](./core_libs/_map_note_libs/js_libs/js_map_note.md)
+* [其他训练⚡](https://github.com/techpang666?tab=repositories)
 
 ------
 ## **沈公子的技能书**
@@ -60,15 +50,6 @@
 >打开相关文件(例如markdown) 文件右上角有个`Raw` 打开可以`ctrl+s`下载源文件  
 * [技能书小分队笔记直通车🌈](./core_libs/_map_note_libs)
 * [工具插件类等教程直通车🐞](./core_libs/tool_plug_libs)
-
-------
-## **沈公子的辅助系统**
->旧仓正在重构合并中  
-* [沈公子的最强辅助系统(笔记/项目记录/插件/教程)](https://github.com/techpang666/TECHPANG_NOTE_sgz)
-
-------
-## **B站视频佛系计划**
-* [沈公子的B站佛系推送计划(未上线)](./core_libs/test.md)
 
 ------
 ## **沈公子的佛系读书计划**
