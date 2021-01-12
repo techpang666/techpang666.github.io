@@ -36,6 +36,7 @@
 * node.js exec
 * npm
 * npm intellisense
+* path intellisense
 * windows opacity
 * turbo console log
 * rest client
