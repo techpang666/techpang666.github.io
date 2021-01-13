@@ -19,7 +19,7 @@
 * taskade
 * github加速
 * google翻译
-* 谷歌上网助手
+* 谷歌上网助手(googlehelper)
 * 哔哩哔哩助手
 * 俄罗斯方块
 
