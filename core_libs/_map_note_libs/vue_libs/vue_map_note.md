@@ -43,6 +43,7 @@ vue不是一门语言 只是基于JavaScript封装的一套前端框架 有自�
 
 单页应用开发就是 如何一个页面显示多个页面的内容  
 内容一开始全部在一个页面中 通过JavaScript控制  
+VUE开发的就是单页应用  
 
 不需要跳转新的页面 重新加载页面 只需要在一个模板上 加载/卸载不同的子模版 显示内容  
 
@@ -84,6 +85,32 @@ new Vue ({
   }
 })
 ```
+
+------
+插件及工具推荐  
+* vue devtools(chrome插件 不能用min.js 否则工具出不来 且需要开web服务(live server/npm run serve))
+* Vetur(vscode插件 vue工具包)
+* vueHelper(vscode插件 vue的code片段)
+
+双向数据绑定体验  
+只有表单元素才有效果 模板内容变化 数据跟着变化  
+
+```html
+<div id="app">
+  <div>{{msg}}</div>
+  <input type="text" v-model="msg">
+</div>
+```
+
+```js
+new Vue({
+  el: '#app',
+  data: {
+    msg: '测试内容'
+  }
+})
+```
+
 
 ------
 脚手架配置初始化项目  
@@ -130,6 +157,88 @@ http://127.0.0.1:8080/
 ```
 
 ------
+vue项目目录理解  
+```js
+// main.js
+
+import Vue from 'vue'
+// 导入要渲染的单文件组件(.vue)
+import App from './App.vue'
+
+// 生产提示
+Vue.config.productionTip = false
+
+new Vue({
+  // 渲染单文件组件
+  render: h => h(App),
+  // 挂载到页面元素中
+}).$mount('#app')
+```
+
+```js
+// App.vue
+
+// 导入其他的单文件组件
+import HelloWorld from './components/HelloWorld.vue'
+
+// 对外暴露自己及导入的组件
+export default {
+  name: 'App',
+  components: {
+    HelloWorld
+  }
+}
+```
+
+```vue
+// 样式用的是`less`预处理器
+// scoped 局部作用域样式 只对当前文件有效 解决样式冲突问题
+<style lang="less" scoped>
+</style>
+```
+
+------
+第一个单文件组件落地  
+
+```vue
+// 单文件组件结构部分
+<template>
+  <div id="app">
+    <!-- 只能一个根元素 vue3.0才支持多个 -->
+    <h1>单文件组件开始起飞🚀</h1>
+    <p>{{msg}}</p>
+  </div>
+</template>
+
+// 单文件组件功能部分
+<script>
+// 用于暴露当前组件实例(template/script/style)
+export default {
+  // 暴露自己
+  name: 'cv_center',
+  // 暴露其他组件
+  components: {
+    test_components
+  },
+  // 返回数据
+  data () {
+    return {
+      msg: '测试内容'
+    }
+  }
+}
+</script>
+
+// 单文件组件样式部分
+<style lang="less" scoped>
+#app {
+  color: pink;
+}
+</style>
+```
+
+
+------
 vue的基本使用  
 
 ```html
@@ -156,6 +265,17 @@ $('#msg').html(msg);
   <div>{{msg}}</div>
 </div>
 ```
+
+vue的基础语法  
+* 插值表达式
+* `v-model`
+* `v-text`
+* `v-html`
+* `v-for`
+* `v-if`
+* `v-on`
+* `v-bind`
+* `v-show`
 
 插值表达式解读  
 ```html
@@ -409,73 +529,90 @@ this.num++;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+------
+组件的体验  
+单文件组件 一个拥有结构样式功能的整体  
+组件主要用来描述某个页面或者其中的某个结构 用起来像标签  
+为了组件能够在模板中使用 组件需要注册 注册类型分为全局和局部注册  
+语法`Vue.component(组件名称, {配置})`  
+
+创建组件需要在vue实例上面  
+
+组件模板`template`只能一个根元素(顶级父容器) 不然会报错  
+`Component template should contain exactly one root element`  
+
+在vue中`template`用的是插值表达式`{{name}}` 不是`${name}`  
+
+`data`必须返回一个对象 不然会报错  
+`The "data" option should be a function that returns a per-instance value in component definitions`  
+组件中的`data`必须是个函数 且要为每个实例返回一个值`return`  
+因为组件是可以复用的 为了让组件都可以维护自己的数据 这就要求data必须是个对象且要`return`了  
+对象本身是个地址 `{} != {}`  
+
+在`template`中用了插值表达式`{{name}}` 别忘了`return`这个表达式 否则会报错  
+
+`data () {}`是ES6的写法  
+如果对象`Vue.component`内部的属性`data`是个函数 可以直接这样写 省略`: function`  
+
+```js
+Vue.component('test', {
+  data () {
+    return {
+      msg: '测试内容'
+    }
+  }
+})
+```
+
+```js
+data: function () {
+  return {
+    name: '一号'
+  }
+},
+
+// 上面ES5写法 这个是ES6写法
+data () {
+  return {
+    name: '一号'
+  }
+},
+
+// 这个会报错
+// data: {
+//   name: '一号'
+// }
+```
+
+```html
+<div id="app">
+  <div>{{msg}}</div>
+  <first></first>
+</div>
+```
+
+```js
+Vue.component('first', {
+  template: `
+  <p>我是组件</p>
+  `
+})
+
+new Vue({
+  el: '#app'
+})
+```
+
+------
+使用单文件组件(.vue)的用意  
+
+`Vue.component`定义全局组件的时候 `new Vue({ el: '#app' })`需要给每个页面指定一个容器元素  
+
+如果项目复杂或者项目由JavaScript所驱动的话 会有这些缺点  
+* 全局定义(要求每个`component`不能重名)
+* 字符串模板(缺乏语法高亮)
+* 不支持CSS(template中很难写css)
+* 没有构建步骤(浏览器不识别其他的语言 只认识html/css/js)
 
 
 
