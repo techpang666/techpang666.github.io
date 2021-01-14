@@ -36,7 +36,6 @@
 * [发表情包](https://fabiaoqing.com/)
 * [沈公子的表情包库](https://gitee.com/techpang/img_emoji_libs)
 * [CSS玩家](https://github.com/chokcoco/CSS-Inspiration)
-* [Markdown支持语言清单](https://cloud.tencent.com/document/product/1115/47869)
 * [泥石流海报](https://graph.readhub.cn/)
 * [取色板](https://colorhunt.co/palettes)
 * [鼠标取色](https://color.hailpixel.com/)
