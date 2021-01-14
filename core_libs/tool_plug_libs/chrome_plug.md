@@ -8,6 +8,8 @@
 * android sdk search
 * momentum
 * tabby cat
+* vue.js devtools
+* kluk
 * file icons for github and gitlab
 * gitzip for github
 * jsonview
@@ -19,7 +21,7 @@
 * taskade
 * github加速
 * google翻译
-* 谷歌上网助手(googlehelper)
+* 谷歌上网助手
 * 哔哩哔哩助手
 * 几枝
 
