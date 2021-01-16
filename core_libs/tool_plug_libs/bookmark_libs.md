@@ -1,7 +1,6 @@
 
 # **沈公子的云端书签库**
 >佛系收录必要书签🔖  
->脱离Chrome这个载体💬  
 >**用户体验温馨提示(Ctrl+单击打开相关链接)⭐**  
 
 ------
@@ -9,8 +8,15 @@
 * [BootCDN(前端开源项目聚合)](https://www.bootcdn.cn/)
 * [神之领域(力扣LeetCode)](https://leetcode-cn.com/)
 * [Vue框架](https://cn.vuejs.org/)
+* [Vue CLI](https://cli.vuejs.org/zh/)
 * [Vue2.0 API](https://cn.vuejs.org/v2/api/)
+* [Vue Router](https://router.vuejs.org/zh/)
+* [Vuex](https://vuex.vuejs.org/zh/guide/)
+* [vue-amap](https://elemefe.github.io/vue-amap/)
+* [vue-resource(vue的跨域模块)](https://github.com/pagekit/vue-resource/blob/HEAD/docs/http.md)
 * [Vue博客框架](https://vuepress.vuejs.org/zh/)
+* [Vue超赞合集](https://github.com/vuejs/awesome-vue)
+* [Babel中文网](https://www.babeljs.cn/)
 * [Stackoverflow社区JavaScript板块](https://stackoverflow.com/questions/tagged/javascript)
 * [Travis自动部署](https://travis-ci.org/)
 * [ECharts图表](https://echarts.apache.org/zh/index.html)
@@ -25,9 +31,13 @@
 * [Moment中文网(时间格式化工具)](http://momentjs.cn/)
 * [模拟后台数据框架](http://mockjs.com/)
 * [Animate(动画第三方库)](https://animate.style/)
+* [npm官网](https://www.npmjs.com/)
+* [node官网](https://nodejs.org/zh-cn/)
+* [node中文网](http://nodejs.cn/)
+* [Element组件](https://github.com/ElemeFE/element)
 
 ------
-## **以梦为马🚀**
+## **如意锦囊🌈**
 * [Google加速器(仅限于玩Google及学术搜索)](http://googlehelper.net/)
 * [蓝灯全局翻墙选手](https://github.com/getlantern/lantern)
 * [扒站工具](https://bazhan.me/)
@@ -53,6 +63,19 @@
 * [神龙激活工具](http://www.yishimei.cn/network/319.html)
 * [微PE装机教程](https://www.jianshu.com/p/50fd699ea916)
 * [微PE说明书](http://www.wepe.com.cn/ubook/)
+* [桌面萌妹子](https://www.appinn.com/ppet-desktop-pet/)
+* [前端生产力工具](https://segmentfault.com/a/1190000038624097)
+* [代码截图](https://carbon.now.sh/)
+* [前端书籍库](https://github.com/Mrrabbitan/learningMaterials)
+* [前端程序员简历模板](https://github.com/geekcompany/ResumeSample/blob/master/web.md)
+* [前端mock数据教程](https://zhuanlan.zhihu.com/p/77199413)
+* [GitHub个性化主页数据牌及统计卡片](https://my.oschina.net/wonz/blog/4546873)
+* [5R成功法则](https://www.jianshu.com/p/5548280cd6cf?utm_campaign=haruki)
+* [JS中的四种常用数组排序方法](https://blog.csdn.net/m0_49993061/article/details/108329017)
+* [Markdown简历模板](https://github.com/Snailclimb/JavaGuide/tree/master/docs/essential-content-for-interview)
+* [Markdown实时运行代码](https://my.oschina.net/simonguo/blog/1935432)
+* [幻灯片展示框架](https://impress.js.org/)
+* [Markdown支持语言清单](https://cloud.tencent.com/document/product/1115/47869)
 
 ------
 ## **Android小分队🤖**

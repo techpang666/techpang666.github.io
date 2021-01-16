@@ -49,5 +49,13 @@
     "code-runner.clearPreviousOutput": true,
     "faker.locale": "zh_CN",
     "material-icon-theme.showReloadMessage": false,
-    "search.useIgnoreFiles": false
+    "search.useIgnoreFiles": false,
+    "vetur.grammar.customBlocks": {
+        "docs": "md",
+        "i18n": "json",
+        "preview-props": "json"
+    },
+    "vetur.validation.template": false,
+    "window.openFoldersInNewWindow": "on",
+    "vetur.ignoreProjectWarning": true
 }
