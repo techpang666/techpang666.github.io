@@ -6,6 +6,7 @@
 ------
 ## **大前端礼包🔮**
 * [BootCDN(前端开源项目聚合)](https://www.bootcdn.cn/)
+* [淘宝镜像聚合](https://npm.taobao.org/mirrors)
 * [神之领域(力扣LeetCode)](https://leetcode-cn.com/)
 * [Vue框架](https://cn.vuejs.org/)
 * [Vue CLI](https://cli.vuejs.org/zh/)
@@ -43,6 +44,7 @@
 * [扒站工具](https://bazhan.me/)
 * [扒图工具](https://www.pullywood.com/ImageAssistant/)
 * [Git国内镜像](https://npm.taobao.org/mirrors/git-for-windows/)
+* [node国内镜像](https://npm.taobao.org/mirrors/node/v14.15.4/)
 * [发表情包](https://fabiaoqing.com/)
 * [沈公子的表情包库](https://gitee.com/techpang/img_emoji_libs)
 * [CSS玩家](https://github.com/chokcoco/CSS-Inspiration)
