@@ -75,7 +75,6 @@
 * [Markdown简历模板](https://github.com/Snailclimb/JavaGuide/tree/master/docs/essential-content-for-interview)
 * [Markdown实时运行代码](https://my.oschina.net/simonguo/blog/1935432)
 * [幻灯片展示框架](https://impress.js.org/)
-* [Markdown支持语言清单](https://cloud.tencent.com/document/product/1115/47869)
 
 ------
 ## **Android小分队🤖**
