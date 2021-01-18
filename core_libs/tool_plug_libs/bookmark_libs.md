@@ -15,6 +15,7 @@
 * [Vuex](https://vuex.vuejs.org/zh/guide/)
 * [vue-amap](https://elemefe.github.io/vue-amap/)
 * [vue-resource(vue的跨域模块)](https://github.com/pagekit/vue-resource/blob/HEAD/docs/http.md)
+* [vue-loader](https://vue-loader.vuejs.org/zh/)
 * [Vue博客框架](https://vuepress.vuejs.org/zh/)
 * [Vue超赞合集](https://github.com/vuejs/awesome-vue)
 * [Babel中文网](https://www.babeljs.cn/)
@@ -36,6 +37,7 @@
 * [node官网](https://nodejs.org/zh-cn/)
 * [node中文网](http://nodejs.cn/)
 * [Element组件](https://github.com/ElemeFE/element)
+* [Vant移动端组件库](https://youzan.github.io/vant-weapp/#/intro)
 
 ------
 ## **如意锦囊🌈**
