@@ -5,6 +5,8 @@
 
 ------
 ## **大前端礼包🔮**
+* [世界上第一个网站](http://info.cern.ch/)
+* [Solid(互联网创始人的反向操作)](https://solidproject.org/)
 * [GitHub](https://github.com/)
 * [BootCDN(前端开源项目聚合)](https://www.bootcdn.cn/)
 * [淘宝镜像聚合](https://npm.taobao.org/mirrors)
@@ -43,6 +45,9 @@
 
 ------
 ## **如意锦囊🌈**
+* [佛系输出内容(视频号管理平台)](https://channels.weixin.qq.com/)
+* [哔哩哔哩](https://www.bilibili.com/)
+* [码云(Gitee)](https://gitee.com/)
 * [Google加速器(仅限于玩Google及学术搜索)](http://googlehelper.net/)
 * [蓝灯全局翻墙选手](https://github.com/getlantern/lantern)
 * [扒站工具](https://bazhan.me/)
