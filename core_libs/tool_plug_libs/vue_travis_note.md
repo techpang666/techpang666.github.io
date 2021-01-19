@@ -90,6 +90,22 @@ Travis官网配置token令牌
 * 在`None`选项中选择`gh-page`分支 `Save`一下
 * 页面刷新后回到这个位置会看到有个可以访问的地址(部署需要时间 需要等一小会)
 
+```bash
+# 如果想提前开启分支的page功能 可以如下操作
+
+git checkout -b gh-page
+touch index.html
+# 常规的git操作
+git status
+git add index.html
+git commit -m "create_branch"
+# 只需要操作一次 后面有需要的话直接push即可
+git push --set-upstream origin gh-page
+# 切换回主分支
+git checkout master
+# 这时候就可以提前去设置分支的page功能了(遇到Travis编译需要排队的时候 就可以这样玩 特别是晚上的时候)
+```
+
 ------
 ## **🍊如意锦囊💰**
 >收录各种注意点/疑难杂症(BUG/报错/疑问)及解决方案  
