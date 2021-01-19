@@ -5,8 +5,10 @@
 
 ------
 ## **大前端礼包🔮**
+* [GitHub](https://github.com/)
 * [BootCDN(前端开源项目聚合)](https://www.bootcdn.cn/)
 * [淘宝镜像聚合](https://npm.taobao.org/mirrors)
+* [GitHub国内镜像(可以用来clone项目)](https://github.com.cnpmjs.org/)
 * [神之领域(力扣LeetCode)](https://leetcode-cn.com/)
 * [Vue框架](https://cn.vuejs.org/)
 * [Vue CLI](https://cli.vuejs.org/zh/)
