@@ -20,7 +20,7 @@
 * [Vue超赞合集](https://github.com/vuejs/awesome-vue)
 * [Babel中文网](https://www.babeljs.cn/)
 * [Stackoverflow社区JavaScript板块](https://stackoverflow.com/questions/tagged/javascript)
-* [Travis自动部署](https://travis-ci.org/)
+* [Travis自动部署](http://www.travis-ci.com/)
 * [ECharts图表](https://echarts.apache.org/zh/index.html)
 * [Axios中文文档](https://www.kancloud.cn/yunye/axios/234845)
 * [Swiper插件](https://www.swiper.com.cn/)

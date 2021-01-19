@@ -57,5 +57,7 @@
     },
     "vetur.validation.template": false,
     "window.openFoldersInNewWindow": "on",
-    "vetur.ignoreProjectWarning": true
+    "vetur.ignoreProjectWarning": true,
+    "vetur.completion.autoImport": false,
+    "editor.formatOnPaste": true
 }
