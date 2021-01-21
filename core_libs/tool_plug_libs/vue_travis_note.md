@@ -72,6 +72,14 @@ branches:
 ## **操作细节**
 >记录一些细节操作  
 
+脚手架一个项目联动远程仓库  
+* 先脚手架一个项目
+* 然后`CV`项目名称到GitHub上创建空仓库
+* 然后随便找个地方把仓库给`clone`下来
+* 然后把脚手架项目的`.git`文件夹给删了
+* 然后把`clone`下来的仓库里的`.git`文件夹`CV`到项目中
+* 这时候项目就可以常规`status/add/commit/push`操作了(不需要配置仓库)
+
 token令牌在GitHub个人设置下的  
 * `Developer settings`
 * `Personal access tokens`
