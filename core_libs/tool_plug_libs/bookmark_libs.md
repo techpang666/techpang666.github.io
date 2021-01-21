@@ -41,7 +41,7 @@
 * [node官网](https://nodejs.org/zh-cn/)
 * [node中文网](http://nodejs.cn/)
 * [Element组件](https://github.com/ElemeFE/element)
-* [Vant移动端组件库](https://youzan.github.io/vant-weapp/#/intro)
+* [Vant移动端组件库](https://youzan.github.io/vant/#/zh-CN/)
 
 ------
 ## **如意锦囊🌈**
