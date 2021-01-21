@@ -55,7 +55,6 @@
 * [Git国内镜像](https://npm.taobao.org/mirrors/git-for-windows/)
 * [node国内镜像](https://npm.taobao.org/mirrors/node/v14.15.4/)
 * [发表情包](https://fabiaoqing.com/)
-* [沈公子的表情包库](https://gitee.com/techpang/img_emoji_libs)
 * [CSS玩家](https://github.com/chokcoco/CSS-Inspiration)
 * [泥石流海报](https://graph.readhub.cn/)
 * [取色板](https://colorhunt.co/palettes)
@@ -86,6 +85,17 @@
 * [Markdown简历模板](https://github.com/Snailclimb/JavaGuide/tree/master/docs/essential-content-for-interview)
 * [Markdown实时运行代码](https://my.oschina.net/simonguo/blog/1935432)
 * [幻灯片展示框架](https://impress.js.org/)
+
+------
+## **沈公子的小林子🍌**
+>就是图个链接近道  
+* [我的star](https://github.com/techpang666?tab=stars)
+* [我的仓库](https://github.com/techpang666?tab=repositories)
+* [我的关注](https://github.com/techpang666?tab=following)
+* [我的表情包](https://gitee.com/techpang/img_emoji_libs/tree/master/emoji_libs)
+* [成功色的笔记仓(职业检查作业)](https://gitee.com/zorozhou/notes)
+* [上岸南京头条的大佬](https://github.com/lf2021)
+* [Vue部署体验地址](https://techpang.top/vue_page/)
 
 ------
 ## **Android小分队🤖**
