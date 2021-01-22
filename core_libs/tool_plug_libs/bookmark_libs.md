@@ -49,7 +49,6 @@
 * [阿里云控制台](https://homenew.console.aliyun.com/home/scene/Operation)
 * [阿里云官网](https://www.aliyun.com/)
 * [阿里云服务器淘淘乐](https://www.aliyun.com/minisite/goods)
-* [腾讯云服务器淘淘乐](https://cloud.tencent.com/act/seckill)
 * [哔哩哔哩](https://www.bilibili.com/)
 * [码云(Gitee)](https://gitee.com/)
 * [Google加速器(仅限于玩Google及学术搜索)](http://googlehelper.net/)
