@@ -13,6 +13,7 @@
 * [GitHub国内镜像(可以用来clone项目)](https://github.com.cnpmjs.org/)
 * [神之领域(力扣LeetCode)](https://leetcode-cn.com/)
 * [Vue框架](https://cn.vuejs.org/)
+* [Vue命名规范](https://cn.vuejs.org/v2/style-guide/index.html)
 * [Vue CLI](https://cli.vuejs.org/zh/)
 * [Vue2.0 API](https://cn.vuejs.org/v2/api/)
 * [Vue Router](https://router.vuejs.org/zh/)

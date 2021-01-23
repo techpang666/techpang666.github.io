@@ -21,6 +21,7 @@
 * taskade
 * github加速
 * google翻译
+* 安全外壳(SSH)
 * 谷歌上网助手
 * 哔哩哔哩助手
 * 几枝

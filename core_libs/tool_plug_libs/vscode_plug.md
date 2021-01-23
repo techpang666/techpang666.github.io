@@ -6,6 +6,7 @@
 * github theme
 * material icon theme
 * sublime text keymap and settings importer
+* remote - ssh
 * prettier
 * eslint
 * auto rename tag
