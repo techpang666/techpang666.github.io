@@ -47,6 +47,10 @@
 ------
 ## **如意锦囊🌈**
 * [佛系输出内容(视频号管理平台)](https://channels.weixin.qq.com/)
+* [利用GitHub Actions自动化部署项目](https://juejin.cn/post/6847902222966079501)
+* [通过GitHub自动发版到NPM](https://juejin.cn/post/6920049554264064008)
+* [GitHub中国用户排行榜](https://jaywcjlove.gitee.io/github-rank/users.china.html)
+* [模拟后端接口(moco)](https://juejin.cn/post/6918905415677771790)
 * [阿里云控制台](https://homenew.console.aliyun.com/home/scene/Operation)
 * [阿里云官网](https://www.aliyun.com/)
 * [阿里云服务器淘淘乐](https://www.aliyun.com/minisite/goods)

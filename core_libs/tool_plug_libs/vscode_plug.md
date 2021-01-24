@@ -38,6 +38,7 @@
 * npm
 * npm intellisense
 * path intellisense
+* path-alias
 * windows opacity
 * turbo console log
 * rest client
