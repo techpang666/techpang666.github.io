@@ -8,7 +8,7 @@ console.log('万物之中 希望至美🌈')
 
 ------
 ## **Vue魔法师🔮**
-* [一号项目(黑马头条)](https://techpang.top/heima_toutiao)
+* [一号项目(黑马头条移动Vue项目)](https://techpang.top/heima_toutiao)
 * [二号项目(未上线)](https://techpang.top/)
 * [三号项目(未上线)](https://techpang.top/)
 * [更多项目⚡](https://techpang.top/)
