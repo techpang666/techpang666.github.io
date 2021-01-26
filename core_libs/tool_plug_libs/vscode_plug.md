@@ -44,6 +44,7 @@
 * rest client
 * power mode
 * code runner
+* vue peek
 * quokka.js
 * codelf
 * leetcode
