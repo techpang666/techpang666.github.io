@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+
+title: padluo
+subtitle: 分享数据科学家的自我修养
+description: 主要编程语言为 Python，领域涵盖大数据、机器学习、深度学习、爬虫等
+keywords: "Python, 大数据, 机器学习, 深度学习, 爬虫"
+author: padluo
