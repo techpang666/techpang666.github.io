@@ -47,6 +47,8 @@
 ------
 ## **如意锦囊🌈**
 * [佛系输出内容(视频号管理平台)](https://channels.weixin.qq.com/)
+* [项目快速集成各国国旗](https://github.com/lipis/flag-icon-css)
+* [基于VuePress搭建博客](http://www.inode.club/webframe/tool/vuepressBlog.html)
 * [利用GitHub Actions自动化部署项目](https://juejin.cn/post/6847902222966079501)
 * [通过GitHub自动发版到NPM](https://juejin.cn/post/6920049554264064008)
 * [GitHub中国用户排行榜](https://jaywcjlove.gitee.io/github-rank/users.china.html)
