@@ -1,7 +1,9 @@
-title: 万物之中，希望至美🌈
-# description: 欢迎来到沈公子的云上寒舍👻
+title: 万物之中，希望至美
+description: 佛系玩家沈公子的开源聚合服务🚀
+
 theme: jekyll-theme-cayman
-author: 佛系玩家沈公子
 keywords: "佛系玩家, 沈公子, vue, JavaScript, js, element"
-favicon: 'https://gitee.com/techpang/img_emoji_libs/raw/master/img_bed/vue_images/logo.png'
+
+favicon: 'https://gitee.com/techpang/img_emoji_libs/raw/master/img_bed/vue_images/favicon.ico'
 # subtitle: 
+# author: 佛系玩家沈公子
