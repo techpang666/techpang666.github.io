@@ -47,11 +47,18 @@
 ------
 ## **如意锦囊🌈**
 * [Google加速器(仅限于玩Google及学术搜索)](http://googlehelper.net/)
+* [掘金社区](https://juejin.cn/)
+* [生成对应的git忽略文件](https://www.toptal.com/developers/gitignore)
+* [GitHub云端开发](https://zhuanlan.zhihu.com/p/138815577)
+* [国外的CDN库](https://www.jsdelivr.com/)
 * [蓝灯全局翻墙选手](https://github.com/getlantern/lantern)
 * [Google应用商店(第三方渠道)](https://cn.uptodown.com/android)
 * [发表情包](https://fabiaoqing.com/)
+* [在线优化Markdown](https://www.mdnice.com/)
 * [视频号管理平台](https://channels.weixin.qq.com/)
 * [公众号平台](https://mp.weixin.qq.com/)
+* [通过PicGo搭建图床](https://juejin.cn/post/6921961828692000775)
+* [生成在线GitHub简历](https://resume.github.io/)
 * [项目快速集成各国国旗](https://github.com/lipis/flag-icon-css)
 * [基于VuePress搭建博客](http://www.inode.club/webframe/tool/vuepressBlog.html)
 * [利用GitHub Actions自动化部署项目](https://juejin.cn/post/6847902222966079501)
@@ -104,7 +111,6 @@
 * [我的仓库](https://github.com/techpang666?tab=repositories)
 * [我的关注](https://github.com/techpang666?tab=following)
 * [我的表情包](https://gitee.com/techpang/img_emoji_libs/tree/master/emoji_libs)
-* [成功色的笔记仓(职业检查作业)](https://gitee.com/zorozhou/notes)
 * [上岸南京头条的大佬](https://github.com/lf2021)
 * [Vue部署体验地址](https://techpang.top/vue_page/)
 
