@@ -107,12 +107,15 @@
 ------
 ## **沈公子的小林子🍌**
 >就是图个链接近道 不用点来点去的麻烦  
+* [开仓大吉🍊](https://github.com/new)
 * [我的star](https://github.com/techpang666?tab=stars)
 * [我的仓库](https://github.com/techpang666?tab=repositories)
 * [我的关注](https://github.com/techpang666?tab=following)
 * [我的表情包](https://gitee.com/techpang/img_emoji_libs/tree/master/emoji_libs)
 * [上岸南京头条的大佬](https://github.com/lf2021)
 * [Vue部署体验地址](https://techpang.top/vue_page/)
+* [获取随机手机号](https://techpang.top/generate_random_phone/)
+* [获取随机双色球](https://techpang.top/double_color_ball/)
 
 ------
 ## **Android小分队🤖**
