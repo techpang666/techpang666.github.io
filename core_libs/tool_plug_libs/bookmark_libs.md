@@ -50,6 +50,7 @@
 * [掘金社区](https://juejin.cn/)
 * [生成对应的git忽略文件](https://www.toptal.com/developers/gitignore)
 * [GitHub云端开发](https://zhuanlan.zhihu.com/p/138815577)
+* [VSCode插件市场](https://marketplace.visualstudio.com/)
 * [国外的CDN库](https://www.jsdelivr.com/)
 * [蓝灯全局翻墙选手](https://github.com/getlantern/lantern)
 * [Google应用商店(第三方渠道)](https://cn.uptodown.com/android)
