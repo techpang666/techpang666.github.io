@@ -48,6 +48,7 @@
 ## **如意锦囊🌈**
 * [Google加速器(仅限于玩Google及学术搜索)](http://googlehelper.net/)
 * [掘金社区](https://juejin.cn/)
+* [极客时间](https://time.geekbang.org/)
 * [生成对应的git忽略文件](https://www.toptal.com/developers/gitignore)
 * [GitHub云端开发](https://zhuanlan.zhihu.com/p/138815577)
 * [VSCode插件市场](https://marketplace.visualstudio.com/)
