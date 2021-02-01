@@ -6,8 +6,8 @@
 ------
 ## **大前端礼包🔮**
 * [GitHub](https://github.com/)
-* [Element桌面端组件](https://element.eleme.cn/#/zh-CN/)
-* [Vant移动端组件](https://youzan.github.io/vant/#/zh-CN/)
+* [Element桌面端组件库](https://element.eleme.cn/#/zh-CN/)
+* [Vant移动端组件库](https://youzan.github.io/vant/#/zh-CN/)
 * [Vue框架](https://cn.vuejs.org/)
 * [Vue命名规范](https://cn.vuejs.org/v2/style-guide/index.html)
 * [GitHub国内镜像(可以用来clone项目)](https://github.com.cnpmjs.org/)
@@ -118,6 +118,8 @@
 * [Vue部署体验地址](https://techpang.top/vue_page/)
 * [获取随机手机号](https://techpang.top/generate_random_phone/)
 * [获取随机双色球](https://techpang.top/double_color_ball/)
+* [Element图标库](https://element.eleme.cn/#/zh-CN/component/icon)
+* [Element组件列表](https://element.eleme.cn/#/zh-CN/component/quickstart)
 
 ------
 ## **Android小分队🤖**
