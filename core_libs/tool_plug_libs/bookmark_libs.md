@@ -110,6 +110,7 @@
 ## **沈公子的小林子🍌**
 >就是图个链接近道 不用点来点去的麻烦  
 * [开仓大吉🍊](https://github.com/new)
+* [GitHub Token](https://github.com/settings/tokens)
 * [我的star](https://github.com/techpang666?tab=stars)
 * [我的仓库](https://github.com/techpang666?tab=repositories)
 * [我的关注](https://github.com/techpang666?tab=following)
