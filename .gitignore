@@ -2,5 +2,5 @@
 
 # 忽略vscode的配置文件
 .vscode
-# 忽略code训练营的各种文件
-_code_camp
+# 内测中心
+_test_center
