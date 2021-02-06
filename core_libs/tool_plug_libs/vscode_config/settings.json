@@ -5,7 +5,7 @@
     "workbench.iconTheme": "material-icon-theme",
     "vsicons.dontShowNewVersionMessage": true,
     "liveServer.settings.donotShowInfoMsg": true,
-    "workbench.colorTheme": "Default Dark+",
+    "workbench.colorTheme": "GitHub Dark",
     "explorer.confirmDragAndDrop": false,
     "git.ignoreMissingGitWarning": true,
     "update.showReleaseNotes": false,
@@ -44,7 +44,6 @@
     "dash.exactDocset": true,
     "extensions.ignoreRecommendations": true,
     "winopacity.opacity": 238,
-    "eslint.alwaysShowStatus": true,
     "terminal.external.windowsExec": "D:\\Program Files\\Git\\git-bash.exe",
     "code-runner.clearPreviousOutput": true,
     "faker.locale": "zh_CN",
@@ -64,5 +63,18 @@
     },
     "path-intellisense.mappings": {
         "@": "${workspaceRoot}/src"
-    }
+    },
+    "editor.minimap.enabled": true,
+    "eslint.run": "onType",
+    "eslint.options": {
+        "extensions": [
+            ".js",
+            ".vue",
+            ".jsx",
+            ".tsx"
+        ]
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
 }

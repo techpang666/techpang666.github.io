@@ -9,6 +9,7 @@
 * [Element桌面端组件库](https://element.eleme.cn/#/zh-CN/)
 * [Vant移动端组件库](https://youzan.github.io/vant/#/zh-CN/)
 * [Vue框架](https://cn.vuejs.org/)
+* [Vue3.0官网](https://v3.cn.vuejs.org/)
 * [Vue命名规范](https://cn.vuejs.org/v2/style-guide/index.html)
 * [GitHub国内镜像(可以用来clone项目)](https://github.com.cnpmjs.org/)
 * [淘宝镜像聚合](https://npm.taobao.org/mirrors)
@@ -24,6 +25,7 @@
 * [vue-resource(vue的跨域模块)](https://github.com/pagekit/vue-resource/blob/HEAD/docs/http.md)
 * [vue-loader](https://vue-loader.vuejs.org/zh/)
 * [Vue博客框架](https://vuepress.vuejs.org/zh/)
+* [Vue富文本编辑器组件](https://github.com/hsian/vue-word-editor)
 * [Vue超赞合集](https://github.com/vuejs/awesome-vue)
 * [Babel中文网](https://www.babeljs.cn/)
 * [Stackoverflow社区JavaScript板块](https://stackoverflow.com/questions/tagged/javascript)
@@ -44,11 +46,14 @@
 * [npm官网](https://www.npmjs.com/)
 * [node官网](https://nodejs.org/zh-cn/)
 * [node中文网](http://nodejs.cn/)
+* [mo.js](https://mojs.github.io/)
 
 ------
 ## **如意锦囊🌈**
 * [Google加速器(仅限于玩Google及学术搜索)](http://googlehelper.net/)
 * [掘金社区](https://juejin.cn/)
+* [尤老大的主页](https://evanyou.me/)
+* [尤老大的微博](https://www.weibo.com/arttechdesign)
 * [极客时间](https://time.geekbang.org/)
 * [生成对应的git忽略文件](https://www.toptal.com/developers/gitignore)
 * [GitHub云端开发](https://zhuanlan.zhihu.com/p/138815577)
@@ -100,6 +105,7 @@
 * [前端生产力工具](https://segmentfault.com/a/1190000038624097)
 * [代码截图](https://carbon.now.sh/)
 * [前端书籍库](https://github.com/Mrrabbitan/learningMaterials)
+* [开源书籍库](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-zh.md)
 * [前端程序员简历模板](https://github.com/geekcompany/ResumeSample/blob/master/web.md)
 * [前端mock数据教程](https://zhuanlan.zhihu.com/p/77199413)
 * [模拟后端接口(moco)](https://juejin.cn/post/6918905415677771790)
