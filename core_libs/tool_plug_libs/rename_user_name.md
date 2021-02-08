@@ -19,6 +19,8 @@ net user administrator /active:yes
 
 如果有环境变量 自己检查修复一下  
 
-记得关闭超级管理用户`net user administrator /active:no`  
+记得关闭超级管理用户`net user administrator /active:no` 建议重启一下  
+
+最后 专业用户的电脑 不要这么搞 会一堆出错 想搞建议重装去搞  
 
 
