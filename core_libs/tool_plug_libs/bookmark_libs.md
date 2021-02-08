@@ -104,6 +104,8 @@
 * [桌面萌妹子](https://www.appinn.com/ppet-desktop-pet/)
 * [前端生产力工具](https://segmentfault.com/a/1190000038624097)
 * [代码截图](https://carbon.now.sh/)
+* [看片神器](http://api.xiedongjie.com/)
+* [临时邮箱](https://www.linshiyouxiang.net/)
 * [前端书籍库](https://github.com/Mrrabbitan/learningMaterials)
 * [开源书籍库](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-zh.md)
 * [前端程序员简历模板](https://github.com/geekcompany/ResumeSample/blob/master/web.md)
