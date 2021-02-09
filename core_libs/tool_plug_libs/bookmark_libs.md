@@ -106,6 +106,8 @@
 * [代码截图](https://carbon.now.sh/)
 * [看片神器](http://api.xiedongjie.com/)
 * [临时邮箱](https://www.linshiyouxiang.net/)
+* [一个项目托管多个平台](https://segmentfault.com/a/1190000011294144?utm_source=sf-related)
+* [Git多账户配置](https://segmentfault.com/a/1190000006105759?utm_source=sf-related)
 * [前端书籍库](https://github.com/Mrrabbitan/learningMaterials)
 * [开源书籍库](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-zh.md)
 * [前端程序员简历模板](https://github.com/geekcompany/ResumeSample/blob/master/web.md)
