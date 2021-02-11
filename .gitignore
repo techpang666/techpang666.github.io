@@ -4,3 +4,9 @@
 .vscode
 # 内测中心
 _test_center
+
+
+
+# 未推送内容的拦截器
+vuex_map_note.md
+git_libs

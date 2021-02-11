@@ -71,8 +71,6 @@
 * [Google应用商店(第三方渠道)](https://cn.uptodown.com/android)
 * [发表情包](https://fabiaoqing.com/)
 * [在线优化Markdown](https://www.mdnice.com/)
-* [视频号管理平台](https://channels.weixin.qq.com/)
-* [公众号平台](https://mp.weixin.qq.com/)
 * [通过PicGo搭建图床](https://juejin.cn/post/6921961828692000775)
 * [生成在线GitHub简历](https://resume.github.io/)
 * [项目快速集成各国国旗](https://github.com/lipis/flag-icon-css)
@@ -134,6 +132,9 @@
 * [获取随机双色球](https://techpang.top/double_color_ball/)
 * [Element图标库](https://element.eleme.cn/#/zh-CN/component/icon)
 * [Element组件列表](https://element.eleme.cn/#/zh-CN/component/quickstart)
+* [B站创作中心](https://member.bilibili.com/platform/home)
+* [视频号管理平台](https://channels.weixin.qq.com/)
+* [公众号平台](https://mp.weixin.qq.com/)
 
 ------
 ## **Android小分队🤖**
