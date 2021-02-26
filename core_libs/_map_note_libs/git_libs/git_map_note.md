@@ -255,6 +255,27 @@ git branch -d branch_name
 git checkout -- .
 ```
 
+```bash
+# 查看全局配置
+git config --global --list
+# 查看当前仓库配置
+git config --local --list
+```
+
+```bash
+# 一行显示commit信息
+git log --oneline
+```
+
+```bash
+# 查看没有被追踪的文件
+git ls-files --others
+# 清理没有被追踪的文件
+git clean -f
+# 支持通配符 清理没有add的js文件
+git checkout *.js
+```
+
 ------
 ### **🍊如意锦囊💰**
 >收录各种注意点/疑难杂症(BUG/报错/疑问)及解决方案  
