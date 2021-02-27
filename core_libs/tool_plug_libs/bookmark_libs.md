@@ -69,6 +69,7 @@
 * [node中文网](http://nodejs.cn/)
 * [mo.js](https://mojs.github.io/)
 * [ES6标准入门](https://wangdoc.com/es6/)
+* [HTTP响应代码](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Status)
 
 ------
 ## **如意锦囊🌈**
