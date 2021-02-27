@@ -132,6 +132,7 @@
 * [Linux命令查询](https://wangchujiang.com/linux-command/)
 * [营养快线准备好](https://gank.io/)
 * [一个项目托管多个平台](https://segmentfault.com/a/1190000011294144?utm_source=sf-related)
+* [如何贡献代码](https://segmentfault.com/a/1190000000736629)
 * [Git多账户配置](https://segmentfault.com/a/1190000006105759?utm_source=sf-related)
 * [前端书籍库](https://github.com/Mrrabbitan/learningMaterials)
 * [开源书籍库](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-zh.md)
