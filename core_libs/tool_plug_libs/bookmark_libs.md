@@ -83,6 +83,7 @@
 * [生成对应的git忽略文件](https://www.toptal.com/developers/gitignore)
 * [GitHub云端开发](https://zhuanlan.zhihu.com/p/138815577)
 * [GitHub Gist](https://gist.github.com/)
+* [提交emoji](https://gitmoji.dev/)
 * [利用GitHub Actions自动化部署项目](https://juejin.cn/post/6847902222966079501)
 * [通过GitHub自动发版到NPM](https://juejin.cn/post/6920049554264064008)
 * [GitHub中国用户排行榜](https://jaywcjlove.gitee.io/github-rank/users.china.html)

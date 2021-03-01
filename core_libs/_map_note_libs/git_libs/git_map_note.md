@@ -177,6 +177,8 @@ git reset HEAD^
 ```bash
 # 恢复到上次commit的状态(高危操作 会删除工作区的code)
 git reset --hard HEAD^
+# 基于上个命令 如下操作 可以撤销远程提交记录(待测试)
+git push origin HEAD --force
 # 撤销已经push的操作(高危操作 上面的是还没push)
 git revert HEAD^
 ```
