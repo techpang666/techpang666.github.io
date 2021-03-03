@@ -8,6 +8,7 @@
 * [开仓大吉🍊](https://github.com/new)
 * [提交信息的符号指南🚀](https://gitmoji.dev/)
 * [码云(Gitee)](https://gitee.com/)
+* [腾讯云COS控制台](https://console.cloud.tencent.com/cos5)
 * [GitHub搜索](https://github.com/search)
 * [GitHub Token](https://github.com/settings/tokens)
 * [我的star](https://github.com/techpang666?tab=stars)
