@@ -10,6 +10,7 @@
 * [码云(Gitee)](https://gitee.com/)
 * [腾讯云COS控制台](https://console.cloud.tencent.com/cos5)
 * [南京头条大佬](https://github.com/lf2021)
+* [阮一峰的招人帖子](https://github.com/ruanyf/weekly/issues/1652)
 * [GitHub搜索](https://github.com/search)
 * [GitHub Token](https://github.com/settings/tokens)
 * [我的star](https://github.com/techpang666?tab=stars)
@@ -147,6 +148,7 @@
 * [Markdown简历模板](https://github.com/Snailclimb/JavaGuide/tree/master/docs/essential-content-for-interview)
 * [Markdown实时运行代码](https://my.oschina.net/simonguo/blog/1935432)
 * [幻灯片展示框架](https://impress.js.org/)
+* [一个不错的博客](https://notebook.js.org)
 
 ------
 ## **Android小分队🤖**
