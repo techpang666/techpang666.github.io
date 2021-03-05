@@ -7,10 +7,11 @@
 >一些常用的链接快捷方式  
 * [开仓大吉🍊](https://github.com/new)
 * [提交信息的符号指南🚀](https://gitmoji.dev/)
-* [码云(Gitee)](https://gitee.com/)
-* [腾讯云COS控制台](https://console.cloud.tencent.com/cos5)
+* [小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
 * [南京头条大佬](https://github.com/lf2021)
 * [阮一峰的招人帖子](https://github.com/ruanyf/weekly/issues/1652)
+* [码云(Gitee)](https://gitee.com/)
+* [腾讯云COS控制台](https://console.cloud.tencent.com/cos5)
 * [GitHub搜索](https://github.com/search)
 * [GitHub Token](https://github.com/settings/tokens)
 * [我的star](https://github.com/techpang666?tab=stars)
