@@ -2,56 +2,65 @@
 # **VScode插件集中营**
 >code未动 编辑器先优化 冲冲冲  
 >可以Google翻译了解相关插件及建议配置一下  
-* chinese(simplified)language
-* github theme
-* material icon theme
-* sublime text keymap and settings importer
-* remote - ssh
-* prettier
-* eslint
-* auto rename tag
-* auto import
-* open in browser
-* live server
-* better comments
-* bracket pair colorizer 2
-* svg viewer
-* px to rem
-* typescript hero
-* faker
-* code spell checker
-* any-rule
-* rainbow fart
-* comment translate
-* css peek
-* css tree
-* css-auto-prefix
-* draw
-* easy less
-* html css support
-* image preview
-* indent-rainbow
-* markdown all in one
-* markdown pdf
-* vscode-pdf
-* node.js exec
-* npm
-* npm intellisense
-* path intellisense
-* path-alias
-* windows opacity
-* turbo console log
-* rest client
-* power mode
-* code runner
-* vue peek
-* quokka.js
-* codelf
-* leetcode
-* marp for vs code
-* markmap
-* vuehelper
-* vetur
+* chinese(simplified)language(汉化插件)
+* github theme(GitHub主题)
+* material icon theme(图标主题)
+* sublime text keymap and settings importer(sublime快捷键)
+* prettier(格式化工具)
+* eslint(js代码风格检查工具)
+* auto rename tag(自动重命名标签)
+* auto import(自动导入)
+* open in browser(浏览器打开)
+* live server(热更新)
+* better comments(高亮注释)
+* bracket pair colorizer 2(花括号)
+* svg viewer(SVG查看器)
+* px to rem(px转换rem)
+* typescript hero(ts转换)
+* faker(造假数据)
+* code spell checker(拼写检查)
+* any-rule(正则表达式)
+* rainbow fart(彩虹屁)
+* comment translate(翻译插件)
+* css peek(css跳转)
+* css tree(快捷生成css结构)
+* css-auto-prefix(自动添加css前缀)
+* draw(流程图插件)
+* easy less(less转换css)
+* html css support(html支持css)
+* image preview(图片预览)
+* indent-rainbow(缩进彩虹)
+* markdown all in one(markdown增强体验)
+* markdown pdf(markdown导出)
+* vscode-pdf(PDF阅读器)
+* node.js exec(运行当前的js文件)
+* npm(npm包)
+* npm intellisense(导入npm)
+* path intellisense(路径提示)
+* path-alias(自定义路径别名)
+* windows opacity(窗口透明度)
+* turbo console log(处理log打印)
+* rest client(测试HTTP请求)
+* power mode(编辑器特效)
+* code runner(运行代码)
+* vue peek(vue跳转)
+* quokka.js(编辑器运行js代码)
+* codelf(命名神器)
+* leetcode(力扣)
+* marp for vs code(markdown幻灯片)
+* markmap(markdown脑图)
+* vuehelper(vue代码片段)
+* vue vscode snippets(vue代码片段)
+* vetur(vue开发插件)
+* minapp(支持小程序标签及属性补全)
+* wxapp-helper(快捷生成页面及组件)
+* wxml(高亮代码及格式化)
+* 微信小程序开发工具(暂时支持预览及上传)
+* wxless(通过less写样式)
+* wechat-snippet(小程序代码片段)
+* weapp api(小程序的语法结构api)
+* codesnap(代码截图)
+* remote - ssh(SSH客户端)
 
 ------
 ![end](https://gitee.com/techpang/img_emoji_libs/raw/master/img_bed/markdown_images/end.jpg '富婆加我吧不想努力了')

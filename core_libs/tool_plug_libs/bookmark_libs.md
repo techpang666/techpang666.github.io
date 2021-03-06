@@ -26,6 +26,7 @@
 * [B站创作中心](https://member.bilibili.com/platform/home)
 * [视频号管理平台](https://channels.weixin.qq.com/)
 * [公众号平台](https://mp.weixin.qq.com/)
+* [Bitwarden密码库](https://vault.bitwarden.com)
 
 ------
 ## **大前端礼包🔮**
