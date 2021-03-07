@@ -6,7 +6,7 @@
 ------
 ## **一些说明**
 >**Talk is cheap. Show me the code.👨‍💻**  
-* [相关文档直通车👻](https://github.com/techpang666/techpang666.github.io/tree/main/core_libs/interview_libs)
+* [一些面试题的理论知识👻](https://github.com/techpang666/techpang666.github.io/tree/main/core_libs/interview_libs)
 * [一些面试题的配套代码(html+css+js)⚡](https://github.com/techpang666/html_css_js)
 * [JavaScript代码仓🍖](https://github.com/techpang666/js_relearn)
 * [Vue代码仓🚀](https://github.com/techpang666/vue_relearn)
