@@ -15,10 +15,10 @@
 
 ------
 ## **一些面试题**
-* 如何画0.5px的线
-* 对象的深拷贝和浅拷贝
-* 数组去重的办法
-* `git rebase`和`git merge`的区别
+* [ ] 如何画0.5px的线
+* [ ] 对象的深拷贝和浅拷贝
+* [ ] 数组去重的办法
+* [ ] `git rebase`和`git merge`的区别
 
 ------
 ![end](https://gitee.com/techpang/img_emoji_libs/raw/master/img_bed/markdown_images/end.jpg '富婆加我吧不想努力了')

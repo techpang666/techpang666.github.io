@@ -35,6 +35,7 @@
 * [Vant移动端组件库](https://youzan.github.io/vant/#/zh-CN/)
 * [Vue框架](https://cn.vuejs.org/)
 * [Vue3.0官网](https://v3.cn.vuejs.org/)
+* [uniapp多端开发](https://uniapp.dcloud.io/)
 * [Nuxt框架](https://zh.nuxtjs.org/)
 * [Vue命名规范](https://cn.vuejs.org/v2/style-guide/index.html)
 * [GitHub国内镜像(可以用来clone项目)](https://github.com.cnpmjs.org/)
