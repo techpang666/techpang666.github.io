@@ -19,21 +19,25 @@
 >记得伪代码技巧😅  
 >努力点亮`20K`⭐  
 * [x] [数组去重的办法](https://github.com/techpang666/js_relearn/blob/master/code/arr/arr_repeat.js)
-* [ ] 说一下什么是对象和数组
+* [ ] 说一下什么是数组
+* [ ] 说一下什么是对象
 * [ ] JavaScript的基本数据类型
 * [ ] `null`和`undefined`的区别
 * [ ] 通过函数实现多维数组转为一维数组
 * [ ] 对象的深拷贝和浅拷贝
+* [ ] ES6新增的浅拷贝方式
 * [ ] 一行代码实现简单类型的深拷贝
 * [ ] `git rebase`和`git merge`的区别
 * [ ] 箭头函数和普通函数的区别
-* [ ] `let`和`var`的区别
+* [ ] 如何避免及禁止变量提升
+* [ ] `var/let/const`的区别
 * [ ] ES6的`let`
 * [ ] ES6的`this`
 * [ ] JavaScript的`this`指向问题
-* [ ] `await`的后面怎么使用
-* [ ] `promise`的`then`方法返回的是什么
+* [ ] 说一下ES6和ES5
 * [ ] `setTimeout`和`Promise`哪个先执行
+* [ ] `promise`的`then`方法返回的是什么
+* [ ] `await`的后面怎么使用
 * [ ] 为什么需要使用`vuex`
 * [ ] `vuex`的`action`和`mutation`区别
 * [ ] `vue`和`react`的区别
@@ -41,8 +45,6 @@
 * [ ] 监听事件的方式
 * [ ] 如何在控制台获取页面的所有事件对象
 * [ ] 在控制台哪里可以显示页面的静态资源
-* [ ] 如何避免及禁止变量提升
-* [ ] ES6新增的浅拷贝方式
 * [ ] 闭包的使用场景
 * [ ] 前端工程化的理解
 * [ ] 如何阻止事件冒泡

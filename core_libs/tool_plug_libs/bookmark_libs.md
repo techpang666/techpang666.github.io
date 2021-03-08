@@ -7,6 +7,8 @@
 >一些常用的链接快捷方式  
 * [开仓大吉🍊](https://github.com/new)
 * [提交信息的符号指南🚀](https://gitmoji.dev/)
+* [国内必应](https://cn.bing.com/)
+* [w3school官网](https://www.w3school.com.cn/js/index.asp)
 * [小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
 * [南京头条大佬](https://github.com/lf2021)
 * [阮一峰的招人帖子](https://github.com/ruanyf/weekly/issues/1652)
