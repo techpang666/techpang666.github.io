@@ -17,10 +17,19 @@
 ## **一些面试题**
 >面试复盘标记📌  
 >记得伪代码技巧😅  
+>精准刷题 不要答非所问🤨  
 >努力点亮`20K`⭐  
 * [x] [数组去重的办法](https://github.com/techpang666/js_relearn/blob/master/code/arr/arr_repeat.js)
-* [ ] 说一下什么是数组
+* [x] [`var/let/const`的区别](https://github.com/techpang666/js_relearn/blob/master/code/es5_es6/var_let_const.js)
+* [x] [说一下什么是数组](https://github.com/techpang666/js_relearn/blob/master/code/arr/arr.js)
+* [x] [如何识别数组](https://github.com/techpang666/js_relearn/blob/master/code/arr/arr.js)
+* [x] [`import`和`require`的区别](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/es5_es6/import_require_diff.md)
+* [x] [`import`和`require`的使用](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/es5_es6/import_require_use.md)
+* [x] [ES6新增语法](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/es5_es6/es6_new_thing.md)
 * [ ] 说一下什么是对象
+* [ ] 数组和对象的区别及使用场景
+* [ ] 函数作用域和块级作用域
+* [ ] for循环的作用域
 * [ ] JavaScript的基本数据类型
 * [ ] `null`和`undefined`的区别
 * [ ] 通过函数实现多维数组转为一维数组
@@ -30,7 +39,6 @@
 * [ ] `git rebase`和`git merge`的区别
 * [ ] 箭头函数和普通函数的区别
 * [ ] 如何避免及禁止变量提升
-* [ ] `var/let/const`的区别
 * [ ] ES6的`let`
 * [ ] ES6的`this`
 * [ ] JavaScript的`this`指向问题
