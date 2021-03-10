@@ -24,8 +24,8 @@
 * import编译时引入模块的属性 所以性能稍高
 
 ## **导出类型**
-* require是通过`module.exports`导出的值 不能再变化
-* import是通过`export`导出的值 可以改变
+* require是通过`module.exports`导出的值
+* import是通过`export`导出的值
 
 ## **导出值**
 * require通过`module.exports`导出的是exports对象

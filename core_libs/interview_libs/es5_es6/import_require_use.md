@@ -15,7 +15,7 @@ module变量代表当前模块 它的exports属性是对外的接口
 ```js
 // 常规导出
 module.exports = {...}
-// 在node中可以通过exports导出 需要定义方法名
+// 在node中可以通过exports导出 需要定义导出名
 exports.data = {...}
 ```
 
