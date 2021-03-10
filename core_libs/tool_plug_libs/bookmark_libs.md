@@ -88,6 +88,7 @@
 * [蓝灯全局翻墙选手](https://github.com/getlantern/lantern)
 * [掘金社区](https://juejin.cn/)
 * [尤老大的主页](https://evanyou.me/)
+* [尤老大的提交3D模型](https://skyline.github.com/yyx990803/2020)
 * [尤老大的微博](https://www.weibo.com/arttechdesign)
 * [极客时间](https://time.geekbang.org/)
 * [生成对应的git忽略文件](https://www.toptal.com/developers/gitignore)
