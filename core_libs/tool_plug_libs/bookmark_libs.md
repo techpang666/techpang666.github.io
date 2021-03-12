@@ -157,6 +157,8 @@
 * [一个不错的博客](https://notebook.js.org)
 * [腾讯云COS控制台](https://console.cloud.tencent.com/cos5)
 * [Vue部署体验地址](https://techpang.top/vue_page/)
+* [gitkraken图形化工具](https://www.gitkraken.com/)
+* [团队协作任务看板](https://tower.im/)
 
 ------
 ## **Android小分队🤖**
