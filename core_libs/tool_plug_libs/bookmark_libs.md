@@ -23,6 +23,17 @@
 * [公众号平台](https://mp.weixin.qq.com/)
 
 ------
+## **一些不错的文章😲**
+* [CommonJs和Es Module的区别](https://juejin.cn/post/6938581764432461854)
+* [理解Promise](https://juejin.cn/post/6924188714419634190)
+* [手写JavaScript](https://juejin.cn/post/6875152247714480136)
+* [基本类型和包装类型](https://juejin.cn/post/6844903955235864590)
+* [插槽及作用域插槽](https://juejin.cn/post/6925261838745600014)
+* [一行JS实现的功能](https://juejin.cn/post/6921509748785283086)
+* [Vite构建工具](https://juejin.cn/post/6928043092142456839)
+* [Vue的首屏优化](https://juejin.cn/post/6932802993175674887)
+
+------
 ## **大前端礼包🔮**
 * [Vue框架👨‍💻](https://cn.vuejs.org/)
 * [Element桌面端组件库](https://element.eleme.cn/#/zh-CN/)
