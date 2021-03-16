@@ -84,6 +84,7 @@
 * [HTTP响应代码](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Status)
 * [文档网站生成器](https://docsify.js.org/#/zh-cn/)
 * [koa服务器框架](https://koa.bootcss.com/)
+* [mock数据服务器](https://github.com/flickr/yakbak)
 * [w3school官网](https://www.w3school.com.cn/js/index.asp)
 * [小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
 
