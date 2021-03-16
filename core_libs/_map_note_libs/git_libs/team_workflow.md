@@ -35,12 +35,24 @@ git checkout -b techpang origin/dev
 # 保险性拉取代码
 git pull
 
-# 如果不小心从master那里开了分支且写了代码
-# 需要先commit自己的代码 再合并dev的代码(因为master的代码不一定及时)
-# 最后push一下 清理一下自己的工作台
-
-# 做好心理准备 处理代码冲突
 # 是否推送工作分支看团队要求(建议推送为好 方便救命)
+```
+
+```bash
+# 如果不小心从master中开了工作分支且写了代码(因为master的代码不一定及时 需要以dev分支为蓝本 开工作分支)
+
+# 先push自己的代码(避免意外情况)
+git push
+git checkout dev
+# 更新一下dev的代码
+git pull
+git checkout techpang
+# 合并dev的代码
+git merge dev
+# push一下 清理工作台继续干活
+git push
+
+# 可能存在代码冲突 需要处理
 ```
 
 ------
