@@ -176,6 +176,7 @@
 * [gitkraken图形化工具](https://www.gitkraken.com/)
 * [团队协作任务看板](https://tower.im/)
 * [插件迷](https://www.extfans.com/)
+* [BOSS直聘](https://www.zhipin.com/guangzhou/)
 
 ------
 ## **Android小分队🤖**
