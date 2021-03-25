@@ -24,6 +24,13 @@
 * [公众号平台](https://mp.weixin.qq.com/)
 
 ------
+## **一些vue及uni的生产力书签⚡**
+* [Element图标库](https://element.eleme.cn/#/zh-CN/component/icon)
+* [Element组件列表](https://element.eleme.cn/#/zh-CN/component/quickstart)
+* [uni的组件库](https://ext.dcloud.net.cn/plugin?id=55)
+* [uni的图标库](https://hellouniapp.dcloud.net.cn/pages/extUI/icons/icons)
+
+------
 ## **一些不错的文章😲**
 * [CommonJs和Es Module的区别](https://juejin.cn/post/6938581764432461854)
 * [理解Promise](https://juejin.cn/post/6924188714419634190)
@@ -40,8 +47,6 @@
 ## **大前端礼包🔮**
 * [Vue框架👨‍💻](https://cn.vuejs.org/)
 * [Element桌面端组件库](https://element.eleme.cn/#/zh-CN/)
-* [Element图标库](https://element.eleme.cn/#/zh-CN/component/icon)
-* [Element组件列表](https://element.eleme.cn/#/zh-CN/component/quickstart)
 * [Vant移动端组件库](https://youzan.github.io/vant/#/zh-CN/)
 * [Vue3.0官网](https://v3.cn.vuejs.org/)
 * [uniapp多端开发](https://uniapp.dcloud.io/)
