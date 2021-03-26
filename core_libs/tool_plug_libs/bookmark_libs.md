@@ -181,7 +181,15 @@
 * [gitkraken图形化工具](https://www.gitkraken.com/)
 * [团队协作任务看板](https://tower.im/)
 * [插件迷](https://www.extfans.com/)
+* [猪八戒网](https://guangzhou.zbj.com/)
+* [程序员客栈](https://www.proginn.com/)
+
+------
+## **找工作系列😁**
 * [BOSS直聘](https://www.zhipin.com/guangzhou/)
+* [天眼查](https://www.tianyancha.com/)
+* [看准网](https://www.kanzhun.com/)
+* [脉脉](https://maimai.cn/)
 
 ------
 ## **Android小分队🤖**
