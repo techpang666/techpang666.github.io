@@ -10,12 +10,12 @@
 * [GitHub👻](https://github.com/)
 * [提交数据模型](https://skyline.github.com/techpang666/2021)
 * [码云(Gitee)](https://gitee.com/)
+* [我的仓库](https://github.com/techpang666?tab=repositories)
+* [GitHub搜索](https://github.com/search)
 * [南京头条大佬](https://github.com/lf2021)
 * [阮一峰的招人帖子](https://github.com/ruanyf/weekly/issues/1652)
-* [GitHub搜索](https://github.com/search)
 * [国内必应](https://cn.bing.com/)
 * [我的梦呓](https://techpang.top/essay_libs/)
-* [我的仓库](https://github.com/techpang666?tab=repositories)
 * [我的关注](https://github.com/techpang666?tab=following)
 * [我的star](https://github.com/techpang666?tab=stars)
 * [我的表情包](https://gitee.com/techpang/img_emoji_libs/tree/master/emoji_libs)
@@ -29,6 +29,7 @@
 * [Element组件列表](https://element.eleme.cn/#/zh-CN/component/quickstart)
 * [uni的组件库](https://ext.dcloud.net.cn/plugin?id=55)
 * [uni的图标库](https://hellouniapp.dcloud.net.cn/pages/extUI/icons/icons)
+* [uni的请求库](https://uniapp.dcloud.io/api/request/request)
 
 ------
 ## **一些不错的文章😲**
@@ -95,6 +96,8 @@
 * [mock数据服务器](https://github.com/flickr/yakbak)
 * [w3school官网](https://www.w3school.com.cn/js/index.asp)
 * [小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
+* [React中文网](https://zh-hans.reactjs.org/)
+* [Cordova混合开发](https://cordova.axuer.com/)
 
 ------
 ## **如意锦囊🌈**
@@ -183,6 +186,8 @@
 * [插件迷](https://www.extfans.com/)
 * [猪八戒网](https://guangzhou.zbj.com/)
 * [程序员客栈](https://www.proginn.com/)
+* [基于VScode开发uniapp](https://ask.dcloud.net.cn/article/36286)
+* [解决nuxt的本地存储问题](https://github.com/robinvdvleuten/vuex-persistedstate)
 
 ------
 ## **找工作系列😁**
