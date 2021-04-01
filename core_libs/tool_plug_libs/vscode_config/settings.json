@@ -84,4 +84,22 @@
     "files.exclude": {
         "**/.git": false
     },
+    "terminal.integrated.enableBell": true,
+    "files.associations": {
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript"
+    },
+    "emmet.includeLanguages": {
+        "wxml": "html"
+    },
+    "minapp-vscode.disableAutoConfig": true,
+    "prettier.semi": false,
+    "[wxml]": {
+        "editor.defaultFormatter": "qiu8310.minapp-vscode"
+    },
+    "markdown.extension.toc.updateOnSave": false,
+    "code-runner.preserveFocus": false,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.saveAllFilesBeforeRun": true,
 }

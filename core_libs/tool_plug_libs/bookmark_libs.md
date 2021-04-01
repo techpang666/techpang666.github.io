@@ -15,6 +15,7 @@
 * [南京头条大佬](https://github.com/lf2021)
 * [阮一峰的招人帖子](https://github.com/ruanyf/weekly/issues/1652)
 * [国内必应](https://cn.bing.com/)
+* [百度开发者搜索引擎](https://kaifa.baidu.com/)
 * [我的梦呓](https://techpang.top/essay_libs/)
 * [我的关注](https://github.com/techpang666?tab=following)
 * [我的star](https://github.com/techpang666?tab=stars)
@@ -43,6 +44,7 @@
 * [闭包的本质](https://blog.csdn.net/weixin_43586120/article/details/89456183)
 * [什么是DOM和BOM](https://juejin.cn/post/6844903939008102413)
 * [Vue的首屏优化](https://juejin.cn/post/6932802993175674887)
+* [RESTful接口指南及一些状态码](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
 
 ------
 ## **大前端礼包🔮**
@@ -188,6 +190,10 @@
 * [程序员客栈](https://www.proginn.com/)
 * [基于VScode开发uniapp](https://ask.dcloud.net.cn/article/36286)
 * [解决nuxt的本地存储问题](https://github.com/robinvdvleuten/vuex-persistedstate)
+* [一些开源的API](https://github.com/public-apis/public-apis)
+* [showmebug在线面试](https://www.showmebug.com/)
+* [程序员的婚礼邀请函](https://github.com/leadream/wedding-invitation-for-programmers)
+* [GitFlow工作流](https://segmentfault.com/a/1190000021929465)
 
 ------
 ## **找工作系列😁**
