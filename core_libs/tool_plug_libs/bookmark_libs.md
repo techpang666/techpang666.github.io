@@ -34,6 +34,7 @@
 
 ------
 ## **一些不错的文章😲**
+* [JavaScript开发者应懂的33个概念](https://github.com/stephentian/33-js-concepts)
 * [CommonJs和Es Module的区别](https://juejin.cn/post/6938581764432461854)
 * [理解Promise](https://juejin.cn/post/6924188714419634190)
 * [手写JavaScript](https://juejin.cn/post/6875152247714480136)
@@ -45,6 +46,7 @@
 * [什么是DOM和BOM](https://juejin.cn/post/6844903939008102413)
 * [Vue的首屏优化](https://juejin.cn/post/6932802993175674887)
 * [RESTful接口指南及一些状态码](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
+* [宏任务和微任务及event-loop](https://juejin.cn/post/6844903657264136200)
 
 ------
 ## **大前端礼包🔮**
@@ -194,6 +196,10 @@
 * [showmebug在线面试](https://www.showmebug.com/)
 * [程序员的婚礼邀请函](https://github.com/leadream/wedding-invitation-for-programmers)
 * [GitFlow工作流](https://segmentfault.com/a/1190000021929465)
+* [编程起名神器](https://github.com/liyupi/good-name)
+* [十大在线编辑器](https://segmentfault.com/a/1190000018407482)
+* [小闪电在线编辑器](https://jsrun.net/)
+* [CodeSandbox在线编辑器](https://codesandbox.io/)
 
 ------
 ## **找工作系列😁**

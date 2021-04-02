@@ -25,6 +25,7 @@
 * [x] [`var/let/const`的区别](https://github.com/techpang666/js_relearn/blob/master/code/es5_es6/var_let_const.js)
 * [x] [说一下什么是数组](https://github.com/techpang666/js_relearn/blob/master/code/arr/arr.js)
 * [x] [如何识别数组](https://github.com/techpang666/js_relearn/blob/master/code/arr/arr.js)
+* [x] [什么是闭包](https://github.com/techpang666/js_relearn/blob/master/code/_others/closure.js)
 * [ ] 说一下什么是对象
 * [ ] 数组和对象的区别及使用场景
 * [ ] 函数作用域和块级作用域
@@ -123,6 +124,7 @@
 * [x] [`import`和`require`的区别](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/es5_es6/import_require_diff.md)
 * [x] [`import`和`require`的使用](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/es5_es6/import_require_use.md)
 * [x] [ES6新增语法](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/es5_es6/es6_new_thing.md)
+* [x] [什么是React](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/react_libs/what_is_react.md)
 * [ ] 说一下HTTP的状态码
 * [ ] 用过`uniapp`嘛
 * [ ] 了解typescript嘛
