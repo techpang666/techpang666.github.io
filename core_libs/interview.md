@@ -44,7 +44,6 @@
 * [ ] `setTimeout`和`Promise`哪个先执行
 * [ ] `promise`的`then`方法返回的是什么
 * [ ] `await`的后面怎么使用
-* [ ] `vuex`的`action`和`mutation`区别
 * [ ] `vue`和`react`的区别
 * [ ] 如何阻止真正的`click`事件
 * [ ] 监听事件的方式
@@ -81,7 +80,6 @@
 * [ ] 什么是组件
 * [ ] `watch`和`computed`的区别
 * [ ] `computed`怎么监听多维数组
-* [ ] vuex的优缺点及怎么使用
 * [ ] Vue的哪个钩子函数可以获取DOM节点
 * [ ] Vue适合开发什么类型的项目(说一下为什么)
 * [ ] 双向数据绑定的原理是什么
@@ -106,7 +104,6 @@
 * [ ] `v-once`是做什么用的
 * [ ] 路由懒加载如何实现
 * [ ] 图片懒加载原理是什么
-* [ ] `vuex`的核心模块是什么
 * [ ] vue怎么实现强制刷新组件
 * [ ] 简单介绍一下JavaScript实现继承的方法
 * [ ] 请至少说出三种减低页面加载时间的方法
@@ -125,6 +122,11 @@
 * [x] [`import`和`require`的使用](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/es5_es6/import_require_use.md)
 * [x] [ES6新增语法](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/es5_es6/es6_new_thing.md)
 * [x] [什么是React](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/react_libs/what_is_react.md)
+* [x] [`vuex`的`action`和`mutation`区别](https://github.com/techpang666/vue_relearn/blob/master/src/views/vuex_test.vue)
+* [x] [vuex的优缺点及怎么使用](https://github.com/techpang666/vue_relearn/blob/master/src/views/vuex_test.vue)
+* [x] [为什么需要使用`vuex`](https://github.com/techpang666/vue_relearn/blob/master/src/views/vuex_test.vue)
+* [x] [`vuex`的核心模块是什么](https://github.com/techpang666/vue_relearn/blob/master/src/views/vuex_test.vue)
+* [ ] 说一下`keep-alive`
 * [ ] 说一下HTTP的状态码
 * [ ] 用过`uniapp`嘛
 * [ ] 了解typescript嘛
@@ -133,7 +135,6 @@
 * [ ] 讲一下MVVM/MVC/MVP
 * [ ] JavaScript的基本数据类型
 * [ ] 前端工程化的理解
-* [ ] 为什么需要使用`vuex`
 * [ ] 如何在控制台获取页面的所有事件对象
 * [ ] 在控制台哪里可以显示页面的静态资源
 * [ ] 地址栏输入URL都经历了哪些步骤

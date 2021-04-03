@@ -37,6 +37,7 @@
 * [JavaScript开发者应懂的33个概念](https://github.com/stephentian/33-js-concepts)
 * [CommonJs和Es Module的区别](https://juejin.cn/post/6938581764432461854)
 * [理解Promise](https://juejin.cn/post/6924188714419634190)
+* [手写Promise](https://juejin.cn/post/6899273470623318023)
 * [手写JavaScript](https://juejin.cn/post/6875152247714480136)
 * [基本类型和包装类型](https://juejin.cn/post/6844903955235864590)
 * [插槽及作用域插槽](https://juejin.cn/post/6925261838745600014)
@@ -47,6 +48,9 @@
 * [Vue的首屏优化](https://juejin.cn/post/6932802993175674887)
 * [RESTful接口指南及一些状态码](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
 * [宏任务和微任务及event-loop](https://juejin.cn/post/6844903657264136200)
+* [vuex的面试题专栏](https://juejin.cn/post/6844903993374670855)
+* [理解vuex](https://mobilesite.github.io/2016/12/18/vuex-introduction/)
+* [为什么使用vuex而不是全局变量](https://blog.csdn.net/qq_43479942/article/details/105593760)
 
 ------
 ## **大前端礼包🔮**
@@ -100,8 +104,13 @@
 * [mock数据服务器](https://github.com/flickr/yakbak)
 * [w3school官网](https://www.w3school.com.cn/js/index.asp)
 * [小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
-* [React中文网](https://zh-hans.reactjs.org/)
 * [Cordova混合开发](https://cordova.axuer.com/)
+
+------
+## **React小分队🍖**
+* [React中文网](https://zh-hans.reactjs.org/)
+* [React的生命周期](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+* [使用PropTypes进行类型检查](https://zh-hans.reactjs.org/docs/typechecking-with-proptypes.html#proptypes)
 
 ------
 ## **如意锦囊🌈**
