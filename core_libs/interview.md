@@ -122,13 +122,14 @@
 * [x] [`import`和`require`的使用](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/es5_es6/import_require_use.md)
 * [x] [ES6新增语法](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/es5_es6/es6_new_thing.md)
 * [x] [什么是React](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/react_libs/what_is_react.md)
-* [x] [`vuex`的`action`和`mutation`区别](https://github.com/techpang666/vue_relearn/blob/master/src/views/vuex_test.vue)
+* [x] [什么是vuex](https://github.com/techpang666/vue_relearn/blob/master/src/views/vuex_test.vue)
+* [x] [vuex的核心模块是什么](https://github.com/techpang666/vue_relearn/blob/master/src/views/vuex_test.vue)
 * [x] [vuex的优缺点及怎么使用](https://github.com/techpang666/vue_relearn/blob/master/src/views/vuex_test.vue)
-* [x] [为什么需要使用`vuex`](https://github.com/techpang666/vue_relearn/blob/master/src/views/vuex_test.vue)
-* [x] [`vuex`的核心模块是什么](https://github.com/techpang666/vue_relearn/blob/master/src/views/vuex_test.vue)
+* [x] [vuex解决了什么问题](https://github.com/techpang666/vue_relearn/blob/master/src/views/vuex_test.vue)
+* [x] [为什么需要使用vuex](https://github.com/techpang666/vue_relearn/blob/master/src/views/vuex_test.vue)
+* [x] [vuex的`action`和`mutation`区别](https://github.com/techpang666/vue_relearn/blob/master/src/views/vuex_test.vue)
 * [ ] 说一下`keep-alive`
 * [ ] 说一下HTTP的状态码
-* [ ] 用过`uniapp`嘛
 * [ ] 了解typescript嘛
 * [ ] 知道Vite嘛
 * [ ] Vue的生命周期
