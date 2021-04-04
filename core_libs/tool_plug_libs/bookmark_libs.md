@@ -51,6 +51,11 @@
 * [vuex的面试题专栏](https://juejin.cn/post/6844903993374670855)
 * [理解vuex](https://mobilesite.github.io/2016/12/18/vuex-introduction/)
 * [为什么使用vuex而不是全局变量](https://blog.csdn.net/qq_43479942/article/details/105593760)
+* [你对虚拟DOM原理的理解](https://juejin.cn/post/6844903902429577229)
+* [13道可以举一反三的Vue面试题](https://juejin.cn/post/6844903903968903175)
+* [父子组件的生命周期](https://juejin.cn/post/6844904070797328397)
+* [vue生命周期的应用场景](https://juejin.cn/post/6844903945530245128)
+* [mounted和created的区别](https://juejin.cn/post/6844903593040936973)
 
 ------
 ## **大前端礼包🔮**
@@ -209,6 +214,7 @@
 * [十大在线编辑器](https://segmentfault.com/a/1190000018407482)
 * [小闪电在线编辑器](https://jsrun.net/)
 * [CodeSandbox在线编辑器](https://codesandbox.io/)
+* [在vue中使用高德地图](http://vue-gaode.rxshc.com/)
 
 ------
 ## **找工作系列😁**

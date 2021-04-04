@@ -128,11 +128,14 @@
 * [x] [vuex解决了什么问题](https://github.com/techpang666/vue_relearn/blob/master/src/views/vuex_test.vue)
 * [x] [为什么需要使用vuex](https://github.com/techpang666/vue_relearn/blob/master/src/views/vuex_test.vue)
 * [x] [vuex的`action`和`mutation`区别](https://github.com/techpang666/vue_relearn/blob/master/src/views/vuex_test.vue)
+* [x] [Vue的生命周期](https://github.com/techpang666/vue_relearn/blob/master/src/views/lifecycle_test.vue)
+* [x] [不被服务端渲染调用的生命周期](https://github.com/techpang666/vue_relearn/blob/master/src/views/lifecycle_test.vue)
+* [x] [Vue生命周期的作用](https://github.com/techpang666/vue_relearn/blob/master/src/views/lifecycle_test.vue)
+* [x] [第一次加载页面的时候会触发哪几个钩子](https://github.com/techpang666/vue_relearn/blob/master/src/views/lifecycle_test.vue)
 * [ ] 说一下`keep-alive`
 * [ ] 说一下HTTP的状态码
 * [ ] 了解typescript嘛
 * [ ] 知道Vite嘛
-* [ ] Vue的生命周期
 * [ ] 讲一下MVVM/MVC/MVP
 * [ ] JavaScript的基本数据类型
 * [ ] 前端工程化的理解
