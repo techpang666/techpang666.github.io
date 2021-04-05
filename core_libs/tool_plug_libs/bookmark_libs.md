@@ -6,16 +6,14 @@
 ## **沈公子的小林子🍌**
 >一些常用的书签(阶段性调整)  
 * [开仓大吉🍊](https://github.com/new)
-* [提交信息的符号指南🚀](https://gitmoji.dev/)
 * [GitHub👻](https://github.com/)
+* [提交信息的符号指南🚀](https://gitmoji.dev/)
+* [我的主页](https://techpang.top/)
 * [提交数据模型](https://skyline.github.com/techpang666/2021)
-* [码云(Gitee)](https://gitee.com/)
-* [我的仓库](https://github.com/techpang666?tab=repositories)
 * [GitHub搜索](https://github.com/search)
+* [我的仓库](https://github.com/techpang666?tab=repositories)
 * [南京头条大佬](https://github.com/lf2021)
 * [阮一峰的招人帖子](https://github.com/ruanyf/weekly/issues/1652)
-* [国内必应](https://cn.bing.com/)
-* [百度开发者搜索引擎](https://kaifa.baidu.com/)
 * [我的梦呓](https://techpang.top/essay_libs/)
 * [我的关注](https://github.com/techpang666?tab=following)
 * [我的star](https://github.com/techpang666?tab=stars)
@@ -23,6 +21,10 @@
 * [B站创作中心](https://member.bilibili.com/platform/home)
 * [获取随机手机号](https://techpang.top/generate_random_phone/)
 * [公众号平台](https://mp.weixin.qq.com/)
+* [国内必应](https://cn.bing.com/)
+* [百度开发者搜索引擎](https://kaifa.baidu.com/)
+* [码云(Gitee)](https://gitee.com/)
+* [哔哩哔哩](https://www.bilibili.com/)
 
 ------
 ## **一些vue及uni的生产力书签⚡**
@@ -150,7 +152,6 @@
 * [阿里云控制台](https://homenew.console.aliyun.com/home/scene/Operation)
 * [阿里云官网](https://www.aliyun.com/)
 * [阿里云服务器淘淘乐](https://www.aliyun.com/minisite/goods)
-* [哔哩哔哩](https://www.bilibili.com/)
 * [扒站工具](https://bazhan.me/)
 * [扒图工具](https://www.pullywood.com/ImageAssistant/)
 * [node国内镜像](https://npm.taobao.org/mirrors/node/v14.15.4/)
