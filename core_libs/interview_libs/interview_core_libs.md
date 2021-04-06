@@ -1,10 +1,11 @@
 
 # **沈公子的面试题核心库👨‍💻**
->**用户体验温馨提示(Ctrl+单击打开相关链接)⭐**  
+>[一些面试题的说明📝](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview.md)  
+>[愿你的努力有所收获(提交3D模型)🎐](https://skyline.github.com/techpang666/2021)  
+>**用户体验温馨提示(Ctrl+单击打开相关链接)💖**  
 
 ------
 ## **一些代码题**
->记得伪代码技巧😅  
 * [x] [数组去重的办法](https://github.com/techpang666/js_relearn/blob/master/code/arr/arr_repeat.js)
 * [x] [`var/let/const`的区别](https://github.com/techpang666/js_relearn/blob/master/code/es5_es6/var_let_const.js)
 * [x] [说一下什么是数组](https://github.com/techpang666/js_relearn/blob/master/code/arr/arr.js)
@@ -101,7 +102,6 @@
 
 ------
 ## **一些理论题**
->多点代码刷题 少点理论 可以混合载体(markdown+code)😪  
 * [x] [`import`和`require`的区别](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/es5_es6/import_require_diff.md)
 * [x] [`import`和`require`的使用](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/es5_es6/import_require_use.md)
 * [x] [ES6新增语法](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/es5_es6/es6_new_thing.md)
@@ -130,14 +130,12 @@
 * [ ] 跨域知道哪几种
 
 ------
-## **一些常见的笔试代码题**
->计划考虑中  
-
-------
 ## **一些非技术型面试题**
 >[这里走的是加密通道🔒](https://github.com/techpang666/cloud_office/blob/master/markdown/privacy_interview_libs/privacy_interview_libs.md)  
->[愿你的努力有所收获(提交3D模型)🎐](https://skyline.github.com/techpang666/2021)  
->[努力点亮20K⭐](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/other_libs/wechat_zhifubao_code.md)  
+
+------
+## **一些常见的笔试代码题**
+>计划考虑中  
 
 ------
 ![end](https://gitee.com/techpang/img_emoji_libs/raw/master/img_bed/markdown_images/end.jpg '富婆加我吧不想努力了')
