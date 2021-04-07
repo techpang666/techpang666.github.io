@@ -60,6 +60,8 @@
 * [vue生命周期的应用场景](https://juejin.cn/post/6844903945530245128)
 * [mounted和created的区别](https://juejin.cn/post/6844903593040936973)
 * [数组的一些方法](https://www.runoob.com/jsref/jsref-obj-array.html)
+* [less和sass的区别](https://juejin.cn/post/6844904086676963341)
+* [雅虎的前端优化军规](https://learnku.com/docs/f2e-performance-rules)
 
 ------
 ## **大前端礼包🔮**
@@ -227,6 +229,7 @@
 * [天眼查](https://www.tianyancha.com/)
 * [看准网](https://www.kanzhun.com/)
 * [脉脉](https://maimai.cn/)
+* [QQ邮箱简历](http://mail.qq.com/)
 
 ------
 ## **Android小分队🤖**
