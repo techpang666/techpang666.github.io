@@ -5,7 +5,7 @@
 
 ------
 ## **面试题核心库及一些说明🌈**
->[愿你的努力有所收获(核心库直通车)🎐](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/interview_core_libs.md)  
+>[**愿你的努力有所收获(核心库直通车)🎐**](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/interview_core_libs.md)  
 1. 不要答非所问
 2. 巧用伪代码技巧
 3. markdown+code混合载体

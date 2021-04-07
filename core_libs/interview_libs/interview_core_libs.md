@@ -96,8 +96,6 @@
 * [ ] 简述一下异步和Promise
 * [ ] Javascript如何实现一个类并实例化
 * [ ] 通过原生的写法操作DOM(创建/添加/复制/移除/查找节点)
-* [ ] 犀牛书的犀牛是什么品种
-* [ ] 常用的五个网站
 * [ ] less和scss的区别
 
 ------
@@ -116,6 +114,10 @@
 * [x] [不被服务端渲染调用的生命周期](https://github.com/techpang666/vue_relearn/blob/master/src/views/lifecycle_test.vue)
 * [x] [Vue生命周期的作用](https://github.com/techpang666/vue_relearn/blob/master/src/views/lifecycle_test.vue)
 * [x] [第一次加载页面的时候会触发哪几个钩子](https://github.com/techpang666/vue_relearn/blob/master/src/views/lifecycle_test.vue)
+* [x] [犀牛书的犀牛是什么品种](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/other_libs/js_guide_book.md)
+* [x] [常用的五个网站](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/other_libs/link_libs.md)
+* [x] [说一下你知道的请求技术栈](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/other_libs/request_tech.md)
+* [x] [说一下你知道的数组方法及作用](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/arr/arr_methods.md)
 * [ ] 说一下`keep-alive`
 * [ ] 说一下HTTP的状态码
 * [ ] 了解typescript嘛
