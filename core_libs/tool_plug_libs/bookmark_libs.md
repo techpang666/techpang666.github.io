@@ -8,6 +8,7 @@
 * [开仓大吉🍊](https://github.com/new)
 * [GitHub👻](https://github.com/)
 * [我的主页🏡](https://techpang.top/)
+* [我的面试题核心库👨‍💻](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/interview_core_libs.md)
 * [提交信息的符号指南🚀](https://gitmoji.dev/)
 * [提交数据模型](https://skyline.github.com/techpang666/2021)
 * [我的GitHub主页](https://github.com/techpang666)
@@ -64,6 +65,11 @@
 * [雅虎的前端优化军规](https://learnku.com/docs/f2e-performance-rules)
 
 ------
+## **商业互吹联盟🤪**
+* [成的简书](https://www.jianshu.com/u/9f8cfd77d2fc)
+* [池的简书](https://www.jianshu.com/u/a76e09237a25)
+
+------
 ## **大前端礼包🔮**
 * [Vue框架👨‍💻](https://cn.vuejs.org/)
 * [MDN中文网](https://developer.mozilla.org/zh-CN/)
@@ -117,12 +123,6 @@
 * [w3school官网](https://www.w3school.com.cn/js/index.asp)
 * [小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
 * [Cordova混合开发](https://cordova.axuer.com/)
-
-------
-## **React小分队🍖**
-* [React中文网](https://zh-hans.reactjs.org/)
-* [React的生命周期](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
-* [使用PropTypes进行类型检查](https://zh-hans.reactjs.org/docs/typechecking-with-proptypes.html#proptypes)
 
 ------
 ## **如意锦囊🌈**
@@ -230,6 +230,12 @@
 * [看准网](https://www.kanzhun.com/)
 * [脉脉](https://maimai.cn/)
 * [QQ邮箱简历](http://mail.qq.com/)
+
+------
+## **React小分队🍖**
+* [React中文网](https://zh-hans.reactjs.org/)
+* [React的生命周期](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+* [使用PropTypes进行类型检查](https://zh-hans.reactjs.org/docs/typechecking-with-proptypes.html#proptypes)
 
 ------
 ## **Android小分队🤖**

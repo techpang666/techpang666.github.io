@@ -11,6 +11,8 @@
 * [x] [说一下什么是数组](https://github.com/techpang666/js_relearn/blob/master/code/arr/arr.js)
 * [x] [如何识别数组](https://github.com/techpang666/js_relearn/blob/master/code/arr/arr.js)
 * [x] [什么是闭包](https://github.com/techpang666/js_relearn/blob/master/code/_others/closure.js)
+* [x] [如何在控制台获取页面的所有事件对象](https://github.com/techpang666/js_relearn/blob/master/code/event/log_event.js)
+* [X] [CSS的两种盒模型](https://github.com/techpang666/html_css_js/blob/master/code/css/box_sizing.css)
 * [ ] 说一下什么是对象
 * [ ] 数组和对象的区别及使用场景
 * [ ] 函数作用域和块级作用域
@@ -46,7 +48,6 @@
 * [ ] CSS实现隔行变色
 * [ ] CSS选择器的优先级
 * [ ] CSS如何清除浮动
-* [ ] CSS的两种盒模型
 * [ ] `box-sizing`的用法
 * [ ] 页面请求很多的时候怎么处理
 * [ ] 说一下`https`是怎么传输的
@@ -118,6 +119,7 @@
 * [x] [常用的五个网站](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/other_libs/link_libs.md)
 * [x] [说一下你知道的请求技术栈](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/other_libs/request_tech.md)
 * [x] [说一下你知道的数组方法及作用](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/arr/arr_methods.md)
+* [x] [在控制台哪里可以显示页面的静态资源](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/other_libs/show_static.md)
 * [ ] 说一下`keep-alive`
 * [ ] 说一下HTTP的状态码
 * [ ] 了解typescript嘛
@@ -125,8 +127,8 @@
 * [ ] 讲一下MVVM/MVC/MVP
 * [ ] JavaScript的基本数据类型
 * [ ] 前端工程化的理解
-* [ ] 如何在控制台获取页面的所有事件对象
-* [ ] 在控制台哪里可以显示页面的静态资源
+* [ ] rem和vw的区别
+* [ ] 清除浮动的几种方式
 * [ ] 地址栏输入URL都经历了哪些步骤
 * [ ] 浏览器的几种存储方式
 * [ ] 跨域知道哪几种
