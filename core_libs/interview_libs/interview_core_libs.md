@@ -6,12 +6,12 @@
 
 ------
 ## **一些代码题**
-* [x] [数组去重的办法](https://github.com/techpang666/js_relearn/blob/master/code/arr/arr_repeat.js)
-* [x] [`var/let/const`的区别](https://github.com/techpang666/js_relearn/blob/master/code/es5_es6/var_let_const.js)
-* [x] [说一下什么是数组](https://github.com/techpang666/js_relearn/blob/master/code/arr/arr.js)
-* [x] [如何识别数组](https://github.com/techpang666/js_relearn/blob/master/code/arr/arr.js)
-* [x] [什么是闭包](https://github.com/techpang666/js_relearn/blob/master/code/_others/closure.js)
-* [x] [如何在控制台获取页面的所有事件对象](https://github.com/techpang666/js_relearn/blob/master/code/event/log_event.js)
+* [X] [数组去重的办法](https://github.com/techpang666/js_relearn/blob/master/code/arr/arr_repeat.js)
+* [X] [`var/let/const`的区别](https://github.com/techpang666/js_relearn/blob/master/code/es5_es6/var_let_const.js)
+* [X] [说一下什么是数组](https://github.com/techpang666/js_relearn/blob/master/code/arr/arr.js)
+* [X] [如何识别数组](https://github.com/techpang666/js_relearn/blob/master/code/arr/arr.js)
+* [X] [什么是闭包](https://github.com/techpang666/js_relearn/blob/master/code/_others/closure.js)
+* [X] [如何在控制台获取页面的所有事件对象](https://github.com/techpang666/js_relearn/blob/master/code/event/log_event.js)
 * [X] [CSS的两种盒模型](https://github.com/techpang666/html_css_js/blob/master/code/css/box_sizing.css)
 * [ ] 说一下什么是对象
 * [ ] 数组和对象的区别及使用场景
@@ -101,25 +101,25 @@
 
 ------
 ## **一些理论题**
-* [x] [`import`和`require`的区别](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/es5_es6/import_require_diff.md)
-* [x] [`import`和`require`的使用](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/es5_es6/import_require_use.md)
-* [x] [ES6新增语法](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/es5_es6/es6_new_thing.md)
-* [x] [什么是React](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/react_libs/what_is_react.md)
-* [x] [什么是vuex](https://github.com/techpang666/vue_relearn/blob/master/src/views/vuex_test.vue)
-* [x] [vuex的核心模块是什么](https://github.com/techpang666/vue_relearn/blob/master/src/views/vuex_test.vue)
-* [x] [vuex的优缺点及怎么使用](https://github.com/techpang666/vue_relearn/blob/master/src/views/vuex_test.vue)
-* [x] [vuex解决了什么问题](https://github.com/techpang666/vue_relearn/blob/master/src/views/vuex_test.vue)
-* [x] [为什么需要使用vuex](https://github.com/techpang666/vue_relearn/blob/master/src/views/vuex_test.vue)
-* [x] [vuex的`action`和`mutation`区别](https://github.com/techpang666/vue_relearn/blob/master/src/views/vuex_test.vue)
-* [x] [Vue的生命周期](https://github.com/techpang666/vue_relearn/blob/master/src/views/lifecycle_test.vue)
-* [x] [不被服务端渲染调用的生命周期](https://github.com/techpang666/vue_relearn/blob/master/src/views/lifecycle_test.vue)
-* [x] [Vue生命周期的作用](https://github.com/techpang666/vue_relearn/blob/master/src/views/lifecycle_test.vue)
-* [x] [第一次加载页面的时候会触发哪几个钩子](https://github.com/techpang666/vue_relearn/blob/master/src/views/lifecycle_test.vue)
-* [x] [犀牛书的犀牛是什么品种](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/other_libs/js_guide_book.md)
-* [x] [常用的五个网站](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/other_libs/link_libs.md)
-* [x] [说一下你知道的请求技术栈](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/other_libs/request_tech.md)
-* [x] [说一下你知道的数组方法及作用](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/arr/arr_methods.md)
-* [x] [在控制台哪里可以显示页面的静态资源](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/other_libs/show_static.md)
+* [X] [`import`和`require`的区别](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/es5_es6/import_require_diff.md)
+* [X] [`import`和`require`的使用](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/es5_es6/import_require_use.md)
+* [X] [ES6新增语法](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/es5_es6/es6_new_thing.md)
+* [X] [什么是React](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/react_libs/what_is_react.md)
+* [X] [什么是vuex](https://github.com/techpang666/vue_relearn/blob/master/src/views/vuex_test.vue)
+* [X] [vuex的核心模块是什么](https://github.com/techpang666/vue_relearn/blob/master/src/views/vuex_test.vue)
+* [X] [vuex的优缺点及怎么使用](https://github.com/techpang666/vue_relearn/blob/master/src/views/vuex_test.vue)
+* [X] [vuex解决了什么问题](https://github.com/techpang666/vue_relearn/blob/master/src/views/vuex_test.vue)
+* [X] [为什么需要使用vuex](https://github.com/techpang666/vue_relearn/blob/master/src/views/vuex_test.vue)
+* [X] [vuex的`action`和`mutation`区别](https://github.com/techpang666/vue_relearn/blob/master/src/views/vuex_test.vue)
+* [X] [Vue的生命周期](https://github.com/techpang666/vue_relearn/blob/master/src/views/lifecycle_test.vue)
+* [X] [不被服务端渲染调用的生命周期](https://github.com/techpang666/vue_relearn/blob/master/src/views/lifecycle_test.vue)
+* [X] [Vue生命周期的作用](https://github.com/techpang666/vue_relearn/blob/master/src/views/lifecycle_test.vue)
+* [X] [第一次加载页面的时候会触发哪几个钩子](https://github.com/techpang666/vue_relearn/blob/master/src/views/lifecycle_test.vue)
+* [X] [犀牛书的犀牛是什么品种](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/other_libs/js_guide_book.md)
+* [X] [常用的五个网站](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/other_libs/link_libs.md)
+* [X] [说一下你知道的请求技术栈](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/other_libs/request_tech.md)
+* [X] [说一下你知道的数组方法及作用](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/arr/arr_methods.md)
+* [X] [在控制台哪里可以显示页面的静态资源](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/other_libs/show_static.md)
 * [ ] 说一下`keep-alive`
 * [ ] 说一下HTTP的状态码
 * [ ] 了解typescript嘛
