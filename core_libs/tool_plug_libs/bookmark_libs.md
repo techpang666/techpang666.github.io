@@ -65,6 +65,13 @@
 * [雅虎的前端优化军规](https://learnku.com/docs/f2e-performance-rules)
 * [理解原型链](https://segmentfault.com/a/1190000005363885)
 * [vue的数据更新但页面没有更新的几种情况](https://segmentfault.com/a/1190000022772025)
+* [JavaScript改变数组和不改变数组的方法整理](https://blog.csdn.net/yexudengzhidao/article/details/100976127)
+* [vue相对于jq的优势](https://blog.csdn.net/lucky_girl_girl/article/details/104312890)
+* [通过tree-shaking剔除无用代码](https://blog.csdn.net/u014787301/article/details/79698839)
+* [思否的小程序面试题](https://segmentfault.com/a/1190000037618484)
+* [掘金的小程序面试题](https://juejin.cn/post/6844903966342381581)
+* [简单理解vue的双向数据绑定](https://zhuanlan.zhihu.com/p/107969862)
+* [什么情况下会用到this.$nextTick()](https://blog.csdn.net/AN0692/article/details/107682748)
 
 ------
 ## **商业互吹联盟🤪**
