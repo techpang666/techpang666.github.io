@@ -12,6 +12,7 @@
 * [X] [如何识别数组](https://github.com/techpang666/js_relearn/blob/master/code/arr/arr.js)
 * [X] [什么是闭包](https://github.com/techpang666/js_relearn/blob/master/code/_others/closure.js)
 * [X] [如何在控制台获取页面的所有事件对象](https://github.com/techpang666/js_relearn/blob/master/code/event/log_event.js)
+* [X] [如何画`0.5px`的线](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/css_libs/css_line.md)
 * [X] [CSS的两种盒模型](https://github.com/techpang666/html_css_js/blob/master/code/css/box_sizing.css)
 * [ ] 说一下什么是对象
 * [ ] 数组和对象的区别及使用场景
@@ -44,7 +45,6 @@
 * [ ] 如果要做SEO需要通过哪种路由模式
 * [ ] 浏览器的同源策略及解决方案
 * [ ] 浏览器如何通过`jsonp`跨域
-* [ ] 如何画`0.5px`的线
 * [ ] CSS实现隔行变色
 * [ ] CSS选择器的优先级
 * [ ] CSS如何清除浮动

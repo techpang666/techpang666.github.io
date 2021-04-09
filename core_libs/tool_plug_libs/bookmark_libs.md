@@ -63,6 +63,8 @@
 * [数组的一些方法](https://www.runoob.com/jsref/jsref-obj-array.html)
 * [less和sass的区别](https://juejin.cn/post/6844904086676963341)
 * [雅虎的前端优化军规](https://learnku.com/docs/f2e-performance-rules)
+* [理解原型链](https://segmentfault.com/a/1190000005363885)
+* [vue的数据更新但页面没有更新的几种情况](https://segmentfault.com/a/1190000022772025)
 
 ------
 ## **商业互吹联盟🤪**
