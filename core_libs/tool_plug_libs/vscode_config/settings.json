@@ -16,7 +16,6 @@
     "markdown.extension.print.theme": "dark",
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "turboConsoleLog.addSemicolonInTheEnd": true,
-    "code-runner.runInTerminal": true,
     "editor.accessibilitySupport": "off",
     "editor.minimap.maxColumn": 18,
     "editor.minimap.side": "left",
@@ -102,4 +101,5 @@
     "code-runner.preserveFocus": false,
     "code-runner.saveFileBeforeRun": true,
     "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.runInTerminal": true,
 }
