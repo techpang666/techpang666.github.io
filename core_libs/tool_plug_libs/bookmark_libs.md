@@ -72,11 +72,15 @@
 * [掘金的小程序面试题](https://juejin.cn/post/6844903966342381581)
 * [简单理解vue的双向数据绑定](https://zhuanlan.zhihu.com/p/107969862)
 * [什么情况下会用到this.$nextTick()](https://blog.csdn.net/AN0692/article/details/107682748)
+* [30道vue面试题](https://juejin.cn/post/6844903918753808398)
+* [vue解决IE浏览器不兼容es6的promise问题](https://blog.csdn.net/dell_wu_gao_jian/article/details/106148132)
+* [常规的解决浏览器兼容性的一些方案](https://blog.csdn.net/Mrxcguo/article/details/108947735)
 
 ------
 ## **商业互吹联盟🤪**
 * [成的简书](https://www.jianshu.com/u/9f8cfd77d2fc)
 * [池的简书](https://www.jianshu.com/u/a76e09237a25)
+* [罗少的GitHub](https://github.com/LoveValen)
 
 ------
 ## **大前端礼包🔮**
@@ -116,7 +120,8 @@
 * [现代JavaScript教程](https://zh.javascript.info/)
 * [字体图标](https://icomoon.io/)
 * [Bootstrap中文网](https://www.bootcss.com/)
-* [Webpack中文网](https://webpack.docschina.org/)
+* [webpack中文网](https://webpack.docschina.org/)
+* [webpack安装](https://webpack.docschina.org/guides/installation/)
 * [Moment中文网(时间格式化工具)](http://momentjs.cn/)
 * [模拟后台数据框架](http://mockjs.com/)
 * [Animate(动画第三方库)](https://animate.style/)
@@ -132,6 +137,17 @@
 * [w3school官网](https://www.w3school.com.cn/js/index.asp)
 * [小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
 * [Cordova混合开发](https://cordova.axuer.com/)
+
+------
+## **Mac小分队💻**
+>忘了Windows吧 我养你🥰  
+* [一些快捷键及疑难杂症🥺](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/tool_plug_libs/mac_libs.md)
+* [Bob截图翻译软件](https://github.com/ripperhe/Bob)
+* [Homebrew官网](https://brew.sh/index_zh-cn)
+* [一键安装brew](https://www.cnblogs.com/liyihua/p/12753163.html)
+* [安装oh-my-zsh失败的最佳解决方案](https://juejin.cn/post/6844904161096499213)
+* [配置终端通过编辑器打开项目](https://blog.csdn.net/logan_LG/article/details/106800904)
+* [安装脚手架出错的解决方案](https://www.jianshu.com/p/196291112904)
 
 ------
 ## **如意锦囊🌈**
@@ -231,6 +247,9 @@
 * [小闪电在线编辑器](https://jsrun.net/)
 * [CodeSandbox在线编辑器](https://codesandbox.io/)
 * [在vue中使用高德地图](http://vue-gaode.rxshc.com/)
+* [Hbuilderx下载地址](https://www.dcloud.io/hbuilderx.html)
+* [微信开发者工具下载地址](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html)
+* [Snipaste截图软件](https://zh.snipaste.com/)
 
 ------
 ## **找工作系列😁**
