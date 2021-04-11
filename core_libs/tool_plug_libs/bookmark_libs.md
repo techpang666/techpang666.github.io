@@ -77,6 +77,10 @@
 * [常规的解决浏览器兼容性的一些方案](https://blog.csdn.net/Mrxcguo/article/details/108947735)
 
 ------
+## **一些不错的项目😎**
+* [cool-admin后台管理系统(纯JavaScript开发)](https://admin.cool-js.com/)
+
+------
 ## **商业互吹联盟🤪**
 * [成的简书](https://www.jianshu.com/u/9f8cfd77d2fc)
 * [池的简书](https://www.jianshu.com/u/a76e09237a25)
@@ -250,6 +254,7 @@
 * [Hbuilderx下载地址](https://www.dcloud.io/hbuilderx.html)
 * [微信开发者工具下载地址](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html)
 * [Snipaste截图软件](https://zh.snipaste.com/)
+* [VeraCrypt加密文件夹](https://github.com/veracrypt/VeraCrypt)
 
 ------
 ## **找工作系列😁**
