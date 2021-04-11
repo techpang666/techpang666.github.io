@@ -146,6 +146,7 @@
 ## **Mac小分队💻**
 >忘了Windows吧 我养你🥰  
 * [一些快捷键及疑难杂症🥺](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/tool_plug_libs/mac_libs.md)
+* [一些Mac的超集应用😲](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
 * [Bob截图翻译软件](https://github.com/ripperhe/Bob)
 * [Homebrew官网](https://brew.sh/index_zh-cn)
 * [一键安装brew](https://www.cnblogs.com/liyihua/p/12753163.html)
@@ -255,6 +256,7 @@
 * [微信开发者工具下载地址](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html)
 * [Snipaste截图软件](https://zh.snipaste.com/)
 * [VeraCrypt加密文件夹](https://github.com/veracrypt/VeraCrypt)
+* [YApi可视化接口管理平台](https://yapi.baidu.com/)
 
 ------
 ## **找工作系列😁**
