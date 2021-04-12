@@ -257,6 +257,11 @@
 * [Snipaste截图软件](https://zh.snipaste.com/)
 * [VeraCrypt加密文件夹](https://github.com/veracrypt/VeraCrypt)
 * [YApi可视化接口管理平台](https://yapi.baidu.com/)
+* [https和ssh的区别](https://www.cnblogs.com/wannananana/p/12059806.html)
+
+------
+## **一些常见的代码题👨‍💻**
+* [待启动](https://techpang.top/)
 
 ------
 ## **找工作系列😁**
