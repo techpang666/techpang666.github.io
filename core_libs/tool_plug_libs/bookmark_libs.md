@@ -82,6 +82,7 @@
 
 ------
 ## **商业互吹联盟🤪**
+* [鹅厂鱼皮大佬的内容聚合](https://github.com/liyupi/better-coder)
 * [成的简书](https://www.jianshu.com/u/9f8cfd77d2fc)
 * [池的简书](https://www.jianshu.com/u/a76e09237a25)
 * [罗少的GitHub](https://github.com/LoveValen)
