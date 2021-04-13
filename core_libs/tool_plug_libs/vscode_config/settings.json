@@ -36,7 +36,7 @@
     "hediet.vscode-drawio.codeLinkActivated": false,
     "powermode.presets": "flames",
     "markdown-pdf.displayHeaderFooter": false,
-    "markdown-pdf.outputDirectory": "E:\\mark_pdf_center",
+    "markdown-pdf.outputDirectory": "/Users/techpang/data_center/other_data/markdown_pdf",
     "window.zoomLevel": 0,
     "editor.tabSize": 2,
     "browser-preview.startUrl": "http://127.0.0.1:5500/",

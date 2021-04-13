@@ -177,7 +177,6 @@
 * [GitHub中国用户排行榜](https://jaywcjlove.gitee.io/github-rank/users.china.html)
 * [GitHub个性化主页数据牌及统计卡片](https://my.oschina.net/wonz/blog/4546873)
 * [有趣的README](https://my.oschina.net/u/4343506/blog/4479956)
-* [Git国内镜像](https://npm.taobao.org/mirrors/git-for-windows/)
 * [VSCode插件市场](https://marketplace.visualstudio.com/)
 * [国外的CDN库](https://www.jsdelivr.com/)
 * [Google应用商店(第三方渠道)](https://cn.uptodown.com/android)
@@ -252,12 +251,20 @@
 * [小闪电在线编辑器](https://jsrun.net/)
 * [CodeSandbox在线编辑器](https://codesandbox.io/)
 * [在vue中使用高德地图](http://vue-gaode.rxshc.com/)
-* [Hbuilderx下载地址](https://www.dcloud.io/hbuilderx.html)
-* [微信开发者工具下载地址](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html)
-* [Snipaste截图软件](https://zh.snipaste.com/)
 * [VeraCrypt加密文件夹](https://github.com/veracrypt/VeraCrypt)
 * [YApi可视化接口管理平台](https://yapi.baidu.com/)
 * [https和ssh的区别](https://www.cnblogs.com/wannananana/p/12059806.html)
+
+------
+## **一些工具的下载地址🔫**
+* [Code编辑器下载地址](https://code.visualstudio.com/download)
+* [Git下载地址(需要翻墙)](https://git-scm.com/downloads)
+* [Git国内镜像(windows版本)](https://npm.taobao.org/mirrors/git-for-windows/)
+* [Chrome浏览器下载地址](https://www.google.cn/chrome)
+* [Hbuilderx下载地址](https://www.dcloud.io/hbuilderx.html)
+* [微信开发者工具下载地址](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html)
+* [Typora阅读器](https://typora.io/)
+* [Snipaste截图软件](https://zh.snipaste.com/)
 
 ------
 ## **一些常见的代码题👨‍💻**
