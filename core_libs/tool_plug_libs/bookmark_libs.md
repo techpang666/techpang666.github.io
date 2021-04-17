@@ -35,6 +35,7 @@
 * [uni的组件库](https://ext.dcloud.net.cn/plugin?id=55)
 * [uni的图标库](https://hellouniapp.dcloud.net.cn/pages/extUI/icons/icons)
 * [uni的请求库](https://uniapp.dcloud.io/api/request/request)
+* [uView组件库](https://ext.dcloud.net.cn/plugin?id=1593)
 
 ------
 ## **一些不错的文章😲**
@@ -152,8 +153,10 @@
 * [Homebrew官网](https://brew.sh/index_zh-cn)
 * [一键安装brew](https://www.cnblogs.com/liyihua/p/12753163.html)
 * [安装oh-my-zsh失败的最佳解决方案](https://juejin.cn/post/6844904161096499213)
+* [配置oh-my-zsh](https://www.jianshu.com/p/246b844f4449)
 * [配置终端通过编辑器打开项目](https://blog.csdn.net/logan_LG/article/details/106800904)
 * [安装脚手架出错的解决方案](https://www.jianshu.com/p/196291112904)
+* [Mac安装虚拟机](https://sspai.com/post/62790)
 
 ------
 ## **如意锦囊🌈**
