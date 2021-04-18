@@ -8,6 +8,8 @@
 * [开仓大吉🍊](https://github.com/new)
 * [GitHub👻](https://github.com/)
 * [我的主页🏡](https://techpang.top/)
+* [一些待办事项🗒️](https://github.com/techpang666/cloud_office/issues/2)
+* [谷歌翻译🤡](https://translate.google.cn/)
 * [我的面试题核心库👨‍💻](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/interview_core_libs.md)
 * [提交信息的符号指南🚀](https://gitmoji.dev/)
 * [提交数据模型](https://skyline.github.com/techpang666/2021)
@@ -36,6 +38,8 @@
 * [uni的图标库](https://hellouniapp.dcloud.net.cn/pages/extUI/icons/icons)
 * [uni的请求库](https://uniapp.dcloud.io/api/request/request)
 * [uView组件库](https://ext.dcloud.net.cn/plugin?id=1593)
+* [uView组件下载地址](https://gitee.com/xuqu/uView)
+* [less插件](https://ext.dcloud.net.cn/plugin?id=2031)
 
 ------
 ## **一些不错的文章😲**
@@ -154,6 +158,7 @@
 * [一键安装brew](https://www.cnblogs.com/liyihua/p/12753163.html)
 * [安装oh-my-zsh失败的最佳解决方案](https://juejin.cn/post/6844904161096499213)
 * [配置oh-my-zsh](https://www.jianshu.com/p/246b844f4449)
+* [oh-my-zsh主题排行榜](https://www.slant.co/topics/7553/~theme-for-oh-my-zsh)
 * [配置终端通过编辑器打开项目](https://blog.csdn.net/logan_LG/article/details/106800904)
 * [安装脚手架出错的解决方案](https://www.jianshu.com/p/196291112904)
 * [Mac安装虚拟机](https://sspai.com/post/62790)
@@ -258,6 +263,9 @@
 * [VeraCrypt加密文件夹](https://github.com/veracrypt/VeraCrypt)
 * [YApi可视化接口管理平台](https://yapi.baidu.com/)
 * [https和ssh的区别](https://www.cnblogs.com/wannananana/p/12059806.html)
+* [石墨文档](https://shimo.im/)
+* [有道笔记](https://note.youdao.com/)
+* [GitHub(Android)下载渠道](https://github.com/techpang666/github_android_app)
 
 ------
 ## **一些工具的下载地址🔫**
