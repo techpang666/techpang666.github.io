@@ -19,6 +19,7 @@
 ## **一些Mac快捷键**
 * command+control+空格键(emoji表情)
 * command+option+c(复制绝对路径)
+* command+option+v(移动复制的内容)
 * command+shift+.(显示隐藏文件)
 * command+`(切换应用的多窗口)
 * command+l(跳到chrome地址栏)
