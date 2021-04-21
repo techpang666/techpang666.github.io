@@ -8,10 +8,10 @@
 * [开仓大吉🍊](https://github.com/new)
 * [GitHub👻](https://github.com/)
 * [我的主页🏡](https://techpang.top/)
-* [一些待办事项🗒️](https://github.com/techpang666/cloud_office/issues/2)
 * [谷歌翻译🤡](https://translate.google.cn/)
 * [我的面试题核心库👨‍💻](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/interview_core_libs.md)
 * [提交信息的符号指南🚀](https://gitmoji.dev/)
+* [Bitwarden密码库](https://vault.bitwarden.com)
 * [提交数据模型](https://skyline.github.com/techpang666/2021)
 * [我的GitHub主页](https://github.com/techpang666)
 * [我的仓库](https://github.com/techpang666?tab=repositories)
@@ -29,11 +29,13 @@
 * [百度开发者搜索引擎](https://kaifa.baidu.com/)
 * [码云(Gitee)](https://gitee.com/)
 * [哔哩哔哩](https://www.bilibili.com/)
+* [uni插件大赛](https://ask.dcloud.net.cn/article/38878)
 
 ------
 ## **一些vue及uni的生产力书签⚡**
 * [Element图标库](https://element.eleme.cn/#/zh-CN/component/icon)
 * [Element组件列表](https://element.eleme.cn/#/zh-CN/component/quickstart)
+* [uni的插件市场](https://ext.dcloud.net.cn/)
 * [uni的组件库](https://ext.dcloud.net.cn/plugin?id=55)
 * [uni的图标库](https://hellouniapp.dcloud.net.cn/pages/extUI/icons/icons)
 * [uni的请求库](https://uniapp.dcloud.io/api/request/request)
@@ -84,6 +86,7 @@
 ------
 ## **一些不错的项目😎**
 * [cool-admin后台管理系统(纯JavaScript开发)](https://admin.cool-js.com/)
+* [uni模板项目(自己写的)](https://github.com/techpang666/uni_template)
 
 ------
 ## **商业互吹联盟🤪**
@@ -152,6 +155,7 @@
 ## **Mac小分队💻**
 >忘了Windows吧 我养你🥰  
 * [一些快捷键及疑难杂症🥺](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/tool_plug_libs/mac_libs.md)
+* [我的Mac型号💻](https://support.apple.com/kb/SP794?locale=zh_CN)
 * [一些Mac的超集应用😲](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
 * [Bob截图翻译软件](https://github.com/ripperhe/Bob)
 * [Homebrew官网](https://brew.sh/index_zh-cn)
@@ -166,8 +170,8 @@
 ------
 ## **如意锦囊🌈**
 * [GitHub吉祥物👻](https://octodex.github.com/)
+* [云端便携空调❄️](https://www.yunyoujun.cn/air-conditioner-room/)
 * [GitHub Token](https://github.com/settings/tokens)
-* [Bitwarden密码库](https://vault.bitwarden.com)
 * [视频号管理平台](https://channels.weixin.qq.com/)
 * [获取随机双色球](https://techpang.top/double_color_ball/)
 * [Google加速器(仅限于玩Google及学术搜索)](http://googlehelper.net/)
@@ -266,6 +270,7 @@
 * [石墨文档](https://shimo.im/)
 * [有道笔记](https://note.youdao.com/)
 * [GitHub(Android)下载渠道](https://github.com/techpang666/github_android_app)
+* [华为路由器管理软件](https://a.app.qq.com/o/simple.jsp?pkgname=com.huawei.smarthome&g_f=undefined)
 
 ------
 ## **一些工具的下载地址🔫**

@@ -315,5 +315,10 @@ git push 443
 git config --global credential.helper store
 ```
 
+```bash
+# 配置Mac的换行符
+git config --global core.autocrlf true
+```
+
 ------
 ![end](https://gitee.com/techpang/img_emoji_libs/raw/master/img_bed/markdown_images/end.jpg '富婆加我吧不想努力了')
