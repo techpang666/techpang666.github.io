@@ -118,6 +118,7 @@
 * [node中文网](http://nodejs.cn/)
 * [mo.js](https://mojs.github.io/)
 * [ES6标准入门](https://wangdoc.com/es6/)
+* [typescript入门教程](https://ts.xcatliu.com/)
 * [HTTP响应代码](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Status)
 * [文档网站生成器](https://docsify.js.org/#/zh-cn/)
 * [koa服务器框架](https://koa.bootcss.com/)
