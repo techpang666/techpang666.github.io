@@ -34,6 +34,7 @@
 * command+control+上下键(移动当前行)
 * command+回车键(换行)
 * control+shift+k(删除行)
+* control+shift+上下键(光标多选)
 * option+shift+左右键(跳选内容)
 * option+左右键(跳过内容)
 
