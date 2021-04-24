@@ -7,11 +7,14 @@
 >一些常用的书签(阶段性调整)  
 * [开仓大吉🍊](https://github.com/new)
 * [GitHub👻](https://github.com/)
+* [提交信息的符号指南🚀](https://gitmoji.dev/)
 * [我的主页🏡](https://techpang.top/)
+* [私人的办公空间😈](https://github.com/techpang666/cloud_office)
+* [Bitwarden密码库🛡️](https://vault.bitwarden.com)
 * [谷歌翻译🤡](https://translate.google.cn/)
 * [我的面试题核心库👨‍💻](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/interview_core_libs.md)
-* [提交信息的符号指南🚀](https://gitmoji.dev/)
-* [Bitwarden密码库](https://vault.bitwarden.com)
+* [一些面试题的快速记忆](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/other_libs/interview_essay.md)
+* [一些面试题的收录](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/interview_article_libs.md)
 * [提交数据模型](https://skyline.github.com/techpang666/2021)
 * [我的GitHub主页](https://github.com/techpang666)
 * [我的仓库](https://github.com/techpang666?tab=repositories)
@@ -45,7 +48,6 @@
 
 ------
 ## **一些不错的文章😲**
-* [一些面试题的收录🚀](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/interview_article_libs.md)
 * [JavaScript开发者应懂的33个概念](https://github.com/stephentian/33-js-concepts)
 * [CommonJs和Es Module的区别](https://juejin.cn/post/6938581764432461854)
 * [理解Promise](https://juejin.cn/post/6924188714419634190)

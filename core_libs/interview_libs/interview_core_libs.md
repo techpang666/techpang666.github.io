@@ -17,15 +17,15 @@
 * [X] [说说原型链](https://github.com/techpang666/js_relearn/blob/master/code/obj/prototype.js)
 * [X] [说说继承](https://github.com/techpang666/js_relearn/blob/master/code/obj/inherit.js)
 * [X] [箭头函数的this](https://github.com/techpang666/js_relearn/blob/master/code/_others/this.js)
+* [X] [对象的深拷贝和浅拷贝](https://github.com/techpang666/js_relearn/blob/master/code/obj/deep_copy.js)
+* [X] [一行代码实现简单类型的深拷贝](https://github.com/techpang666/js_relearn/blob/master/code/obj/deep_copy.js)
 * [ ] 说一下什么是对象
 * [ ] 数组和对象的区别及使用场景
 * [ ] 函数作用域和块级作用域
 * [ ] for循环的作用域
 * [ ] `null`和`undefined`的区别
 * [ ] 通过函数实现多维数组转为一维数组
-* [ ] 对象的深拷贝和浅拷贝
 * [ ] ES6新增的浅拷贝方式
-* [ ] 一行代码实现简单类型的深拷贝
 * [ ] `git rebase`和`git merge`的区别
 * [ ] 箭头函数和普通函数的区别
 * [ ] 如何避免及禁止变量提升

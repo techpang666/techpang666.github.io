@@ -29,6 +29,7 @@
 ------
 ## **一些编辑器快捷键**
 * command+shift+p(命令面板)
+* command+shift+n(新建窗口)
 * command+shift+d(复制当前行)
 * command+shift+回车键(向上换行)
 * command+control+上下键(移动当前行)
