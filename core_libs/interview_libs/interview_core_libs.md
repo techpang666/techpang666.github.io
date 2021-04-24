@@ -14,6 +14,9 @@
 * [X] [如何在控制台获取页面的所有事件对象](https://github.com/techpang666/js_relearn/blob/master/code/event/log_event.js)
 * [X] [如何画`0.5px`的线](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/css_libs/css_line.md)
 * [X] [CSS的两种盒模型](https://github.com/techpang666/html_css_js/blob/master/code/css/box_sizing.css)
+* [X] [说说原型链](https://github.com/techpang666/js_relearn/blob/master/code/obj/prototype.js)
+* [X] [说说继承](https://github.com/techpang666/js_relearn/blob/master/code/obj/inherit.js)
+* [X] [箭头函数的this](https://github.com/techpang666/js_relearn/blob/master/code/_others/this.js)
 * [ ] 说一下什么是对象
 * [ ] 数组和对象的区别及使用场景
 * [ ] 函数作用域和块级作用域
@@ -120,6 +123,7 @@
 * [X] [说一下你知道的请求技术栈](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/other_libs/request_tech.md)
 * [X] [说一下你知道的数组方法及作用](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/arr/arr_methods.md)
 * [X] [在控制台哪里可以显示页面的静态资源](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/other_libs/show_static.md)
+* [X] [简单绘制原型三角关系图](https://gitee.com/techpang/img_emoji_libs/raw/master/img_bed/note_img/prototype.png)
 * [ ] 说一下`keep-alive`
 * [ ] 说一下HTTP的状态码
 * [ ] 了解typescript嘛

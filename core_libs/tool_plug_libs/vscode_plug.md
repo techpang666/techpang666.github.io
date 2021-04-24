@@ -62,7 +62,8 @@
 * codesnap(代码截图)
 * remote - ssh(SSH客户端)
 * html to jsx(html转换成jsx)
-* Simple React Snippets(React代码片段)
+* simple react snippets(React代码片段)
+* javascript (es6) code snippets(javascript代码片段)
 
 ------
 ![end](https://gitee.com/techpang/img_emoji_libs/raw/master/img_bed/markdown_images/end.jpg '富婆加我吧不想努力了')
