@@ -225,6 +225,7 @@
 - [程序员客栈](https://www.proginn.com/)
 - [基于VScode开发uniapp](https://ask.dcloud.net.cn/article/36286)
 - [解决nuxt的本地存储问题](https://github.com/robinvdvleuten/vuex-persistedstate)
+- [vue运行报错的解决方案(vue-cli-service serve --open)](https://www.codeleading.com/article/72355216551/)
 - [一些开源的API](https://github.com/public-apis/public-apis)
 - [showmebug在线面试](https://www.showmebug.com/)
 - [程序员的婚礼邀请函](https://github.com/leadream/wedding-invitation-for-programmers)
