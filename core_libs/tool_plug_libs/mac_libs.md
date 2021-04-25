@@ -21,6 +21,8 @@
 * command+option+c(复制绝对路径)
 * command+option+v(移动复制的内容)
 * command+shift+.(显示隐藏文件)
+* command+shift+delete(清空回收站)
+* command+delete(删除文件)
 * command+`(切换应用的多窗口)
 * command+l(跳到chrome地址栏)
 * control+c(结束进程)
@@ -53,6 +55,10 @@ open .
 ```bash
 # 双开微信命令
 nohup /Applications/WeChat.app/Contents/MacOS/WeChat > /dev/null 2>&1 &
+```
+
+```bash
+# 在访达的顶部显示可以全局设置列表排序方式
 ```
 
 ------
