@@ -66,6 +66,24 @@ debugger打断点或者console.log进行调试
 
 在一个大的模块中model也会很大的 虽然使用方便 但是如果长期不释放内存 会造成更多的内存消耗 占用的是浏览器内存
 
+>组件之间的通信方式
+
+[props和$emit方式](https://github.com/techpang666/vue_relearn/blob/master/src/views/component_connection.vue)
+
+eventbus事件总线
+
+通过eventbus进行信息的订阅与发布(创建一个都能访问的事件总线)
+
+```js
+Vue.prototype.$eventBus = new Vue() /* this.$eventBus */
+
+// a组件监听bus事件
+this.$eventBus.$on('事件名', function(参数1, 参数2, ...) { ... })
+
+// b组件触发bus事件
+this.$eventBus.$emit('事件名', 参数1, 参数2, ...)
+```
+
 
 
 
