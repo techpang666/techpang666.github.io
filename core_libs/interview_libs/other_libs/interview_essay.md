@@ -84,9 +84,19 @@ this.$eventBus.$on('事件名', function(参数1, 参数2, ...) { ... })
 this.$eventBus.$emit('事件名', 参数1, 参数2, ...)
 ```
 
+vuex(全局状态管理库)
 
+可以通过它来全局数据流的管理
 
+state 存放数据
 
+mutation 存放操作数据的方法
+
+actions 存放异步操作 它不能直接修改state 需要提交到mutation
+
+getters 存放基于state计算出来的一些值(计算属性)
+
+modules 模块化处理
 
 
 
