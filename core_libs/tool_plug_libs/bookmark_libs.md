@@ -246,6 +246,8 @@
 - [Git下载地址(需要翻墙)](https://git-scm.com/downloads)
 - [Git国内镜像(windows版本)](https://npm.taobao.org/mirrors/git-for-windows/)
 - [GitHub国内镜像(可以用来clone项目)](https://github.com.cnpmjs.org/)
+- [GitLab](https://gitlab.com/users/sign_in)
+- [TortoiseGit小乌龟](https://tortoisegit.org/)
 - [Gitkraken图形化工具](https://www.gitkraken.com/)
 - [淘宝镜像超集](https://npm.taobao.org/mirrors)
 - [码云极速下载(镜像仓库超集)](https://gitee.com/mirrors)
