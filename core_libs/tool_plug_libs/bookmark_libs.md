@@ -218,8 +218,6 @@
 - [一个不错的博客](https://notebook.js.org)
 - [腾讯云COS控制台](https://console.cloud.tencent.com/cos5)
 - [Vue部署体验地址](https://techpang.top/vue_page/)
-- [团队协作任务看板](https://tower.im/)
-- [插件迷](https://www.extfans.com/)
 - [如何离线安装插件](https://www.extfans.com/installation/)
 - [猪八戒网](https://guangzhou.zbj.com/)
 - [程序员客栈](https://www.proginn.com/)
@@ -243,8 +241,7 @@
 - [华为路由器管理软件](https://a.app.qq.com/o/simple.jsp?pkgname=com.huawei.smarthome&g_f=undefined)
 
 ------
-## **一些工具的下载地址🔫**
->开工大吉配置套餐🍊  
+## **开工大吉配置套餐🍊**
 - [Code编辑器下载地址](https://code.visualstudio.com/download)
 - [Git下载地址(需要翻墙)](https://git-scm.com/downloads)
 - [Git国内镜像(windows版本)](https://npm.taobao.org/mirrors/git-for-windows/)
@@ -264,6 +261,18 @@
 - [node国内镜像](https://npm.taobao.org/mirrors/node/v14.15.4/)
 - [Google加速器(仅限于玩Google及学术搜索)](http://googlehelper.net/)
 - [蓝灯全局翻墙选手](https://github.com/getlantern/lantern)
+- [PotPlayer播放器](https://daumpotplayer.com/download/)
+- [Teamviewer远程控制](https://www.teamviewer.cn/cn/download/windows/)
+- [网易云音乐](https://music.163.com/#/download)
+- [有道词典](https://cidian.youdao.com/multi.html)
+- [WPS全家桶](https://www.wps.cn/)
+- [微信](https://pc.weixin.qq.com/)
+- [火柴酱](https://huochaipro.com/)
+- [蓝湖](https://lanhuapp.com/)
+- [禅道](https://www.zentao.net/)
+- [Tower团队协作任务看板](https://tower.im/)
+- [插件迷(Chrome插件)](https://www.extfans.com/)
+- [BandiZip压缩软件](https://www.bandisoft.com/bandizip/)
 
 ------
 ## **找工作系列😁**
@@ -271,6 +280,7 @@
 - [天眼查](https://www.tianyancha.com/)
 - [看准网](https://www.kanzhun.com/)
 - [脉脉](https://maimai.cn/)
+- [Gmail邮箱](https://mail.google.com)
 - [QQ邮箱简历](http://mail.qq.com/)
 
 ------
