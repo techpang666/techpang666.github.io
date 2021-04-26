@@ -30,6 +30,7 @@
 - [30道vue面试题](https://juejin.cn/post/6844903918753808398)
 - [vue解决IE浏览器不兼容es6的promise问题](https://blog.csdn.net/dell_wu_gao_jian/article/details/106148132)
 - [常规的解决浏览器兼容性的一些方案](https://blog.csdn.net/Mrxcguo/article/details/108947735)
+- [一些vue的bug](https://blog.csdn.net/weixin_43478503/article/details/112754830?utm_source=app&app_version=4.6.1)
 
 ------
 ## **一些常见的代码题**
