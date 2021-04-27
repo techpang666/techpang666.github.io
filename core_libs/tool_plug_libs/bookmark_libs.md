@@ -12,15 +12,10 @@
 - [私人的办公空间😈](https://github.com/techpang666/cloud_office)
 - [Bitwarden密码库🛡️](https://vault.bitwarden.com)
 - [谷歌翻译🤡](https://translate.google.cn/)
-- [我的面试题核心库👨‍💻](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/interview_core_libs.md)
-- [一些面试题的快速记忆](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/other_libs/interview_essay.md)
-- [一些面试题的收录](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/interview_article_libs.md)
-- [提交数据模型](https://skyline.github.com/techpang666/2021)
+- [提交数据模型🎐](https://skyline.github.com/techpang666/2021)
 - [我的GitHub主页](https://github.com/techpang666)
 - [我的仓库](https://github.com/techpang666?tab=repositories)
 - [GitHub搜索](https://github.com/search)
-- [南京头条大佬](https://github.com/lf2021)
-- [阮一峰的招人帖子](https://github.com/ruanyf/weekly/issues/1652)
 - [我的梦呓](https://techpang.top/essay_libs/)
 - [我的关注](https://github.com/techpang666?tab=following)
 - [我的star](https://github.com/techpang666?tab=stars)
@@ -68,6 +63,7 @@
 ------
 ## **商业互吹联盟🤪**
 - [鹅厂鱼皮大佬的内容聚合](https://github.com/liyupi/better-coder)
+- [南京头条大佬](https://github.com/lf2021)
 - [成的简书](https://www.jianshu.com/u/9f8cfd77d2fc)
 - [池的简书](https://www.jianshu.com/u/a76e09237a25)
 - [罗少的GitHub](https://github.com/LoveValen)
@@ -278,6 +274,8 @@
 
 ------
 ## **找工作系列😁**
+- [一些面试准备超集⚡](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/interview_core/interview_setout.md)
+- [阮一峰的招人帖子](https://github.com/ruanyf/weekly/issues/1652)
 - [BOSS直聘](https://www.zhipin.com/guangzhou/)
 - [天眼查](https://www.tianyancha.com/)
 - [看准网](https://www.kanzhun.com/)
