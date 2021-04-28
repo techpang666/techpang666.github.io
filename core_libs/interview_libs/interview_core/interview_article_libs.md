@@ -31,6 +31,17 @@
 - [vue解决IE浏览器不兼容es6的promise问题](https://blog.csdn.net/dell_wu_gao_jian/article/details/106148132)
 - [常规的解决浏览器兼容性的一些方案](https://blog.csdn.net/Mrxcguo/article/details/108947735)
 - [一些vue的bug](https://blog.csdn.net/weixin_43478503/article/details/112754830?utm_source=app&app_version=4.6.1)
+- [什么是事件委托](https://www.jianshu.com/p/ac40dbd6a8b8)
+- [1rem/1em/1vh/1px各自代表的含义](https://blog.csdn.net/msjhw_com/article/details/109065881)
+- [css防止边距重叠的方法](https://segmentfault.com/a/1190000010978947)
+- [前端性能优化](https://mp.weixin.qq.com/s/hdDjJ71NZidjVFZINBGVdA)
+- [HTML的语义化是什么](https://segmentfault.com/a/1190000005626375)
+- [深入理解this](https://www.jianshu.com/p/1d2dd11829d3)
+- [深入理解this对象](https://blog.csdn.net/woshinannan741/article/details/51146889)
+- [函数的上下文this](https://segmentfault.com/a/1190000012803578)
+- [数组去重的方法](https://segmentfault.com/a/1190000016418021)
+- [七种数组去重](https://juejin.cn/post/6844903602197102605)
+- [jsonp原理及JSONP实现方式](https://segmentfault.com/a/1190000021811399)
 
 ------
 ## **一些常见的代码题**
