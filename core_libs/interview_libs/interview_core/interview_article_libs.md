@@ -42,6 +42,10 @@
 - [数组去重的方法](https://segmentfault.com/a/1190000016418021)
 - [七种数组去重](https://juejin.cn/post/6844903602197102605)
 - [jsonp原理及JSONP实现方式](https://segmentfault.com/a/1190000021811399)
+- [vue3和vue2的区别](https://juejin.cn/post/6892295955844956167)
+- [vue3初体验](https://blog.csdn.net/weixin_50880237/article/details/112532694)
+- [react和vue的区别](https://segmentfault.com/a/1190000018742160)
+- [个人理解的react和vue的区别](https://juejin.cn/post/6844903668446134286)
 
 ------
 ## **一些常见的代码题**
