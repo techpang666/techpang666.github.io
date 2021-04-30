@@ -5,6 +5,8 @@
 ------
 ## **一些面试题文章**
 - [闭包的本质](https://blog.csdn.net/weixin_43586120/article/details/89456183)
+- [JS的数据类型面试题](https://juejin.cn/post/6844904111041691656)
+- [跨域的几种方式](https://juejin.cn/post/6844903767226351623)
 - [什么是DOM和BOM](https://juejin.cn/post/6844903939008102413)
 - [Vue的首屏优化](https://juejin.cn/post/6932802993175674887)
 - [宏任务和微任务及event-loop](https://juejin.cn/post/6844903657264136200)
@@ -46,6 +48,7 @@
 - [vue3初体验](https://blog.csdn.net/weixin_50880237/article/details/112532694)
 - [react和vue的区别](https://segmentfault.com/a/1190000018742160)
 - [个人理解的react和vue的区别](https://juejin.cn/post/6844903668446134286)
+- [项目重构的收获](https://blog.csdn.net/weixin_34329187/article/details/91412143?utm_source=app&app_version=4.6.1)
 
 ------
 ## **一些常见的代码题**
