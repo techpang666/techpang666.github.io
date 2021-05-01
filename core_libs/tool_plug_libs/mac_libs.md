@@ -21,6 +21,7 @@
 * command+option+c(复制绝对路径)
 * command+option+v(移动复制的内容)
 * command+shift+.(显示隐藏文件)
+* command+shift+w(关闭当前应用)
 * command+shift+delete(清空回收站)
 * command+delete(删除文件)
 * command+`(切换应用的多窗口)

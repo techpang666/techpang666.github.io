@@ -145,6 +145,7 @@
 ------
 ## **如意锦囊🌈**
 - [GitHub吉祥物👻](https://octodex.github.com/)
+- [极客时间课程列表](https://time.geekbang.org/dashboard/course)
 - [油管快乐水](https://youtube.com/)
 - [云端便携空调❄️](https://www.yunyoujun.cn/air-conditioner-room/)
 - [GitHub Token令牌](https://github.com/settings/tokens)
@@ -265,6 +266,8 @@
 - [node国内镜像](https://npm.taobao.org/mirrors/node/v14.15.4/)
 - [Google加速器(仅限于玩Google及学术搜索)](http://googlehelper.net/)
 - [蓝灯全局翻墙选手](https://github.com/getlantern/lantern)
+- [ExpressVPN](https://www.expressvpn.com/)
+- [Hide.me](https://hide.me/en/)
 - [PotPlayer播放器](https://daumpotplayer.com/download/)
 - [Teamviewer远程控制](https://www.teamviewer.cn/cn/download/windows/)
 - [网易云音乐](https://music.163.com/#/download)
