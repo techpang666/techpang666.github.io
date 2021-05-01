@@ -145,6 +145,7 @@
 ------
 ## **如意锦囊🌈**
 - [GitHub吉祥物👻](https://octodex.github.com/)
+- [油管快乐水](https://youtube.com/)
 - [云端便携空调❄️](https://www.yunyoujun.cn/air-conditioner-room/)
 - [GitHub Token令牌](https://github.com/settings/tokens)
 - [视频号管理平台](https://channels.weixin.qq.com/)

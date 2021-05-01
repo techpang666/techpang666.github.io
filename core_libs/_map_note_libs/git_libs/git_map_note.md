@@ -106,7 +106,7 @@ console.log('乖听话 登录就对了🍌')
 # 通过git工具进入这个目录
 cd ~/.ssh
 # 生成对应的密钥文件
-ssh-keygen -t rsa -C "平台账号的邮箱"
+ssh-keygen -t rsa -C '平台账号的邮箱'
 # 在用户名文件夹下面的.ssh中找到id_rsa.pub
 # 复制内容到GitHub setting中
 # 然后进行测试
@@ -150,7 +150,7 @@ git add .
 # 再次检查仓库状态
 git status
 # 提交本地仓
-git commit -m "commit_msg"
+git commit -m 'commit_msg'
 # 推送远程仓
 git push
 ```
@@ -167,7 +167,7 @@ git restore --staged .
 
 ```bash
 # 提交本地仓
-git commit -m "commit_msg"
+git commit -m 'commit_msg'
 # 撤销本地提交(撤销add及commit 不删除工作区代码)
 git reset HEAD^
 
@@ -192,12 +192,12 @@ git reset --soft HEAD^
 
 ```bash
 # commit直通车(直接add及commit)
-git commit -m "commit_info" -a
+git commit -m 'commit_info' -a
 ```
 
 ```bash
 # 修改最后一次提交的描述信息
-git commit --amend -m "新的log信息"
+git commit --amend -m '新的log信息'
 ```
 
 ```bash
@@ -234,6 +234,9 @@ git branch
 # 查看本地远程分支
 git branch -a
 
+# 为当前分支重命名
+git branch -m new_name
+
 # 创建分支
 git branch branch_name
 
@@ -251,6 +254,38 @@ git merge branch_name
 
 # 删除分支(需要在别的分支中操作)
 git branch -d branch_name
+```
+
+```bash
+# 打标签系列(和commit是关联的)
+
+# 查看标签
+git tag
+
+# 打标签
+git tag v1.0
+
+# 给某个commit打标签(追加commit id)
+git tag v1.0 f52c633
+
+# 展示标签的信息
+git show v1.0
+
+# 附注标签(-a是指定标签 -m是附注信息)
+git tag -a v1.0 -m 'my version 1.0'
+
+# 通配符*筛选相关标签
+git tag -l 'v1.0*'
+
+# 推送标签
+git push origin v1.0
+
+# 推送所有标签
+git push origin --tags
+git push --tags
+
+# 删除远程标签
+git push origin --delete v1.0
 ```
 
 ```bash
