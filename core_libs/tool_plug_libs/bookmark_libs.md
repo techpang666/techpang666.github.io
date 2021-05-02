@@ -246,6 +246,7 @@
 
 ------
 ## **开工大吉配置套餐🍊**
+- [开发环境配置清单⚡️](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/tool_plug_libs/config_dev_workflow.md)
 - [Code编辑器下载地址](https://code.visualstudio.com/download)
 - [Git下载地址(需要翻墙)](https://git-scm.com/downloads)
 - [Git国内镜像(windows版本)](https://npm.taobao.org/mirrors/git-for-windows/)
