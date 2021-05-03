@@ -17,6 +17,11 @@
 - [雅虎的前端优化军规](https://learnku.com/docs/f2e-performance-rules)
 - [组件化开发](https://www.huaweicloud.com/articles/ac22776c5807ff57274d64a1a6e555d2.html)
 - [字节跳动的面试指南](https://blog.csdn.net/weixin_56134381/article/details/115771316)
+- [vue-cli如何配置多个环境](https://www.zhihu.com/question/68247367)
+- [解决nuxt的本地存储问题](https://github.com/robinvdvleuten/vuex-persistedstate)
+- [vue运行报错的解决方案(vue-cli-service serve --open)](https://www.codeleading.com/article/72355216551/)
+- [https和ssh的区别](https://www.cnblogs.com/wannananana/p/12059806.html)
+- [在vue中使用高德地图](http://vue-gaode.rxshc.com/)
 
 ------
 ## **一些面试题文章**
