@@ -174,6 +174,7 @@
 - [鼠标取色](https://color.hailpixel.com/)
 - [pexels(图片素材库)](https://www.pexels.com/zh-cn/)
 - [pixabay(图片素材库)](https://pixabay.com/zh/)
+- [图片素材库超集](https://zhuanlan.zhihu.com/p/37259562)
 - [正则表达式](https://c.runoob.com/front-end/854)
 - [JSON在线解析](https://www.json.cn/)
 - [今日诗句API](https://www.jinrishici.com/)
