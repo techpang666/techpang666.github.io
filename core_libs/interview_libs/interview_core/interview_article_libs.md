@@ -16,6 +16,7 @@
 - [RESTful接口指南及一些状态码](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
 - [雅虎的前端优化军规](https://learnku.com/docs/f2e-performance-rules)
 - [组件化开发](https://www.huaweicloud.com/articles/ac22776c5807ff57274d64a1a6e555d2.html)
+- [字节跳动的面试指南](https://blog.csdn.net/weixin_56134381/article/details/115771316)
 
 ------
 ## **一些面试题文章**
@@ -63,6 +64,7 @@
 - [react和vue的区别](https://segmentfault.com/a/1190000018742160)
 - [个人理解的react和vue的区别](https://juejin.cn/post/6844903668446134286)
 - [组件化的意义](https://segmentfault.com/a/1190000018674377)
+- [浏览器缓存带来的更新问题及解决方案](https://blog.csdn.net/feiyu_may/article/details/88376945)
 
 ------
 ## **一些常见的代码题**
