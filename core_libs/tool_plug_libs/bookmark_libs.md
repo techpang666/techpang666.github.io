@@ -45,23 +45,8 @@
 - [less插件](https://ext.dcloud.net.cn/plugin?id=2031)
 
 ------
-## **一些不错的文章😲**
-- [JavaScript开发者应懂的33个概念](https://github.com/stephentian/33-js-concepts)
-- [CommonJs和Es Module的区别](https://juejin.cn/post/6938581764432461854)
-- [理解Promise](https://juejin.cn/post/6924188714419634190)
-- [手写Promise](https://juejin.cn/post/6899273470623318023)
-- [手写JavaScript](https://juejin.cn/post/6875152247714480136)
-- [基本类型和包装类型](https://juejin.cn/post/6844903955235864590)
-- [插槽及作用域插槽](https://juejin.cn/post/6925261838745600014)
-- [一行JS实现的功能](https://juejin.cn/post/6921509748785283086)
-- [Vite构建工具](https://juejin.cn/post/6928043092142456839)
-- [RESTful接口指南及一些状态码](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
-- [雅虎的前端优化军规](https://learnku.com/docs/f2e-performance-rules)
-
-------
-## **一些不错的项目😎**
-- [cool-admin后台管理系统(纯JavaScript开发)](https://admin.cool-js.com/)
-- [uni模板项目(自己写的)](https://github.com/techpang666/uni_template)
+## **一些不错的文章/项目😲**
+- [文章/项目收录小分队⚡️](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/interview_core/interview_article_libs.md)
 
 ------
 ## **商业互吹联盟🤪**
@@ -153,6 +138,7 @@
 - [视频号管理平台](https://channels.weixin.qq.com/)
 - [获取随机双色球](https://techpang.top/double_color_ball/)
 - [一些科学上网的方法](https://github.com/Alvin9999/new-pac/wiki)
+- [一些机场的方案](https://www.duyaoss.com/archives/3/)
 - [掘金社区](https://juejin.cn/)
 - [尤老大的主页](https://evanyou.me/)
 - [尤老大的提交3D模型](https://skyline.github.com/yyx990803/2020)
