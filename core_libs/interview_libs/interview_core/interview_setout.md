@@ -3,6 +3,7 @@
 >一些面试的准备工作超集🚀  
 >一些链接可能打不开哦🤪  
 >**用户体验温馨提示(Ctrl+单击打开相关链接)💖**  
+- [一些面试的准备事宜⚡️](https://github.com/techpang666/cloud_office/issues/8)
 - [自研面试题核心库小分队](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/interview_libs/interview_core/interview_core_libs.md)
 - [面试题极速小分队](https://github.com/techpang666/cloud_office/blob/master/markdown/interview_libs/setout/interview_essay.md)
 - [后勤小分队](https://github.com/techpang666/cloud_office/blob/master/markdown/interview_libs/setout/setout_essay.md)
