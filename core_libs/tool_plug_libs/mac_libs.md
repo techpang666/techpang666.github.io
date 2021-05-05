@@ -18,14 +18,19 @@
 ------
 ## **一些Mac快捷键**
 * command+control+空格键(emoji表情)
+* command+control+f(全屏模式)
 * command+option+c(复制绝对路径)
 * command+option+v(移动复制的内容)
+* command+option+h(隐藏其他应用)
 * command+shift+.(显示隐藏文件)
 * command+shift+w(关闭当前应用)
 * command+shift+delete(清空回收站)
-* command+delete(删除文件)
+* command+空格键(打开应用)
 * command+`(切换应用的多窗口)
+* command+delete(删除文件)
 * command+l(跳到chrome地址栏)
+* command+h(隐藏当前应用)
+* command+d(复制所选文件)
 * control+c(结束进程)
 * 回车键(重命名文件夹名)
 
