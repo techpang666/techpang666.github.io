@@ -70,6 +70,9 @@
 - [个人理解的react和vue的区别](https://juejin.cn/post/6844903668446134286)
 - [组件化的意义](https://segmentfault.com/a/1190000018674377)
 - [浏览器缓存带来的更新问题及解决方案](https://blog.csdn.net/feiyu_may/article/details/88376945)
+- [Vue组件间通信的6种方式](https://segmentfault.com/a/1190000022083517)
+- [行内元素和块级元素的区别](https://segmentfault.com/a/1190000013966321)
+- [position的四个属性](https://blog.csdn.net/sinat_41747081/article/details/88541644)
 
 ------
 ## **一些常见的代码题**
