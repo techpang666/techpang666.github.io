@@ -255,7 +255,7 @@
 - [Google加速器(仅限于玩Google及学术搜索)](http://googlehelper.net/)
 - [蓝灯全局翻墙选手](https://github.com/getlantern/lantern)
 - [PotPlayer播放器](https://daumpotplayer.com/download/)
-- [Teamviewer远程控制](https://www.teamviewer.cn/cn/download/windows/)
+- [向日葵远程控制](https://sunlogin.oray.com/)
 - [网易云音乐](https://music.163.com/#/download)
 - [有道词典](https://cidian.youdao.com/multi.html)
 - [WPS全家桶](https://www.wps.cn/)
