@@ -19,7 +19,6 @@
 - [字节跳动的面试指南](https://blog.csdn.net/weixin_56134381/article/details/115771316)
 - [vue-cli如何配置多个环境](https://www.zhihu.com/question/68247367)
 - [解决nuxt的本地存储问题](https://github.com/robinvdvleuten/vuex-persistedstate)
-- [vue运行报错的解决方案(vue-cli-service serve --open)](https://www.codeleading.com/article/72355216551/)
 - [https和ssh的区别](https://www.cnblogs.com/wannananana/p/12059806.html)
 - [在vue中使用高德地图](http://vue-gaode.rxshc.com/)
 

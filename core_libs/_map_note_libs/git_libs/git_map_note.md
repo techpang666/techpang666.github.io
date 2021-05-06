@@ -355,5 +355,10 @@ git config --global credential.helper store
 git config --global core.autocrlf true
 ```
 
+```bash
+# HTTP Basic: Access denied 解决方案
+https://blog.csdn.net/zqian1994/article/details/82143111
+```
+
 ------
 ![end](https://gitee.com/techpang/img_emoji_libs/raw/master/img_bed/markdown_images/end.jpg '富婆加我吧不想努力了')

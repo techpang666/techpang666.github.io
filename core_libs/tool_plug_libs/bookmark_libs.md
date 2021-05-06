@@ -231,6 +231,11 @@
 - [华为路由器管理软件](https://a.app.qq.com/o/simple.jsp?pkgname=com.huawei.smarthome&g_f=undefined)
 
 ------
+## **一些疑难杂症💊**
+- [关于git remote: HTTP Basic: Access denied的解决办法](https://blog.csdn.net/zqian1994/article/details/82143111)
+- [vue运行报错的解决方案(vue-cli-service serve --open)](https://www.codeleading.com/article/72355216551/)
+
+------
 ## **开工大吉配置套餐🍊**
 - [开发环境配置清单⚡️](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/tool_plug_libs/config_dev_workflow.md)
 - [Code编辑器下载地址](https://code.visualstudio.com/download)
