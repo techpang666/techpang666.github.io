@@ -234,6 +234,7 @@
 ## **一些疑难杂症💊**
 - [关于git remote: HTTP Basic: Access denied的解决办法](https://blog.csdn.net/zqian1994/article/details/82143111)
 - [vue运行报错的解决方案(vue-cli-service serve --open)](https://www.codeleading.com/article/72355216551/)
+- [node版本导致的运行项目问题](https://blog.csdn.net/Juliet_xmj/article/details/111562619)
 
 ------
 ## **开工大吉配置套餐🍊**
