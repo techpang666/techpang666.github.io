@@ -31,6 +31,8 @@
 * command+l(跳到chrome地址栏)
 * command+h(隐藏当前应用)
 * command+d(复制所选文件)
+* command+o(打开所选文件)
+* command+上下键(返回上级/进入下级文件夹)
 * control+c(结束进程)
 * 回车键(重命名文件夹名)
 
