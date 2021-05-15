@@ -229,6 +229,7 @@
 - [石墨文档](https://shimo.im/)
 - [有道笔记](https://note.youdao.com/)
 - [华为路由器管理软件](https://a.app.qq.com/o/simple.jsp?pkgname=com.huawei.smarthome&g_f=undefined)
+- [基于Vue3的在线演示文稿应用](https://github.com/pipipi-pikachu/PPTist)
 
 ------
 ## **一些疑难杂症💊**
