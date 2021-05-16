@@ -161,6 +161,9 @@ git add .
 # 将全部文件移出暂存区
 git restore --staged .
 
+# 可以恢复工作区的变动
+git restore test.js
+
 # 可以是文件及文件夹
 # 一般add操作是没有提示的 顶多会有一些warning提示 可以status检查一下仓库状态
 ```
