@@ -228,6 +228,7 @@
 - [有道笔记](https://note.youdao.com/)
 - [华为路由器管理软件](https://a.app.qq.com/o/simple.jsp?pkgname=com.huawei.smarthome&g_f=undefined)
 - [基于Vue3的在线演示文稿应用](https://github.com/pipipi-pikachu/PPTist)
+- [Slidev幻灯片](https://sli.dev/)
 - [一键生成P站风格Logo](https://www.maxiaobang.com/4870.html)
 - [PornHub风格Logo生成](http://www.atoolbox.net/Tool.php?Id=783)
 
