@@ -57,7 +57,7 @@
 * wxapp-helper(快捷生成页面及组件)
 * wxml(高亮代码及格式化)
 * 微信小程序开发工具(暂时支持预览及上传)
-* wxless(通过less写样式)
+* easy wxless(通过less写样式)
 * wechat-snippet(小程序代码片段)
 * weapp api(小程序的语法结构api)
 * codesnap(代码截图)
