@@ -106,6 +106,7 @@
 ------
 ## **一些硬核资料👹**
 - [深入V8引擎](https://github.com/plctlab/v8-internals)
+- [JavaScript开发者应懂的33个概念](https://github.com/stephentian/33-js-concepts)
 - [ES6标准入门](https://wangdoc.com/es6/)
 - [TypeScript入门教程](https://ts.xcatliu.com/)
 - [前端书籍库](https://github.com/Mrrabbitan/learningMaterials)

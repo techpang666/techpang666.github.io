@@ -4,7 +4,6 @@
 
 ------
 ## **一些不错的文章**
-- [JavaScript开发者应懂的33个概念](https://github.com/stephentian/33-js-concepts)
 - [CommonJs和Es Module的区别](https://juejin.cn/post/6938581764432461854)
 - [理解Promise](https://juejin.cn/post/6924188714419634190)
 - [手写Promise](https://juejin.cn/post/6899273470623318023)
