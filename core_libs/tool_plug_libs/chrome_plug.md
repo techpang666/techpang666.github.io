@@ -13,6 +13,7 @@
 * file icons for github and gitlab
 * gitzip for github
 * jsonview
+* JSON-handle
 * imageassistant
 * ublock origin
 * octotree
