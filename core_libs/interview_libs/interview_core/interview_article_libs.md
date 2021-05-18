@@ -72,6 +72,7 @@
 - [Vue组件间通信的6种方式](https://segmentfault.com/a/1190000022083517)
 - [行内元素和块级元素的区别](https://segmentfault.com/a/1190000013966321)
 - [position的四个属性](https://blog.csdn.net/sinat_41747081/article/details/88541644)
+- [微信小程序之this.data和this.setData{()}区别](https://www.jianshu.com/p/4fe2af286f7a)
 
 ------
 ## **一些常见的代码题**
