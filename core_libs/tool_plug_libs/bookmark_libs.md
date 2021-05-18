@@ -96,14 +96,21 @@
 - [Animate(动画第三方库)](https://animate.style/)
 - [npm官网](https://www.npmjs.com/)
 - [mo.js动画](https://mojs.github.io/)
-- [ES6标准入门](https://wangdoc.com/es6/)
-- [typescript入门教程](https://ts.xcatliu.com/)
 - [HTTP响应代码](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Status)
 - [文档网站生成器](https://docsify.js.org/#/zh-cn/)
 - [koa服务器框架](https://koa.bootcss.com/)
 - [mock数据服务器](https://github.com/flickr/yakbak)
 - [Cordova混合开发](https://cordova.axuer.com/)
 - [基于Vue实现的Ant Design](https://www.antdv.com/docs/vue/introduce-cn/)
+
+------
+## **一些硬核资料👹**
+- [深入V8引擎](https://github.com/plctlab/v8-internals)
+- [ES6标准入门](https://wangdoc.com/es6/)
+- [TypeScript入门教程](https://ts.xcatliu.com/)
+- [前端书籍库](https://github.com/Mrrabbitan/learningMaterials)
+- [开源书籍库](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-zh.md)
+- [labuladong的算法小抄](https://labuladong.gitee.io/algo/)
 
 ------
 ## **一些技术网站🚀**
@@ -149,7 +156,6 @@
 - [尤老大的主页](https://evanyou.me/)
 - [尤老大的提交3D模型](https://skyline.github.com/yyx990803/2020)
 - [尤老大的微博](https://www.weibo.com/arttechdesign)
-- [labuladong的算法小抄](https://labuladong.gitee.io/algo/)
 - [生成对应的git忽略文件](https://www.toptal.com/developers/gitignore)
 - [GitHub云端开发](https://zhuanlan.zhihu.com/p/138815577)
 - [GitHub Gist代码片段](https://gist.github.com/)
@@ -197,8 +203,6 @@
 - [一个项目托管多个平台](https://segmentfault.com/a/1190000011294144?utm_source=sf-related)
 - [如何贡献代码](https://segmentfault.com/a/1190000000736629)
 - [Git多账户配置](https://segmentfault.com/a/1190000006105759?utm_source=sf-related)
-- [前端书籍库](https://github.com/Mrrabbitan/learningMaterials)
-- [开源书籍库](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-zh.md)
 - [前端mock数据教程](https://zhuanlan.zhihu.com/p/77199413)
 - [模拟后端接口(moco)](https://juejin.cn/post/6918905415677771790)
 - [5R成功法则](https://www.jianshu.com/p/5548280cd6cf?utm_campaign=haruki)

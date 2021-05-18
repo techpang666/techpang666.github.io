@@ -48,6 +48,7 @@
 * control+shift+上下键(光标多选)
 * control+option+上下键(移动视图)
 * option+shift+左右键(跳选内容)
+* option+shift+f(格式化内容)
 * option+左右键(跳过内容)
 
 ------
