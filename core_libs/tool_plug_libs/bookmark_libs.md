@@ -26,6 +26,13 @@
 - [国内必应🧐](https://cn.bing.com/)
 
 ------
+## **工作流书签超集👨‍💻**
+- [公众号平台](https://mp.weixin.qq.com/)
+- [小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
+- [Vue2.0接口文档](https://cn.vuejs.org/v2/api/)
+- [阿里巴巴字体图标库](https://www.iconfont.cn/)
+
+------
 ## **一些vue及uni的生产力书签⚡**
 - [Element图标库](https://element.eleme.cn/#/zh-CN/component/icon)
 - [Element组件列表](https://element.eleme.cn/#/zh-CN/component/quickstart)
@@ -64,7 +71,6 @@
 - [BootCDN(前端开源项目聚合)](https://www.bootcdn.cn/)
 - [世界上第一个网站](http://info.cern.ch/)
 - [Solid(互联网创始人的反向操作)](https://solidproject.org/)
-- [Vue2.0接口文档](https://cn.vuejs.org/v2/api/)
 - [Vue Router路由](https://router.vuejs.org/zh/)
 - [Vuex状态管理器](https://vuex.vuejs.org/zh/guide/)
 - [vue-amap(高德地图)](https://elemefe.github.io/vue-amap/)
@@ -82,7 +88,6 @@
 - [jQuery插件库](https://www.jq22.com/)
 - [Fullpage.js全屏滚动插件](http://fullpage.81hu.com/)
 - [icomoon字体图标](https://icomoon.io/)
-- [阿里巴巴字体图标库](https://www.iconfont.cn/)
 - [Bootstrap中文网](https://www.bootcss.com/)
 - [webpack中文网](https://webpack.docschina.org/)
 - [webpack安装](https://webpack.docschina.org/guides/installation/)
@@ -97,7 +102,6 @@
 - [文档网站生成器](https://docsify.js.org/#/zh-cn/)
 - [koa服务器框架](https://koa.bootcss.com/)
 - [mock数据服务器](https://github.com/flickr/yakbak)
-- [小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
 - [Cordova混合开发](https://cordova.axuer.com/)
 - [基于Vue实现的Ant Design](https://www.antdv.com/docs/vue/introduce-cn/)
 
@@ -134,7 +138,6 @@
 ## **如意锦囊🌈**
 - [GitHub吉祥物👻](https://octodex.github.com/)
 - [云端便携空调❄️](https://www.yunyoujun.cn/air-conditioner-room/)
-- [公众号平台](https://mp.weixin.qq.com/)
 - [百度开发者搜索引擎](https://kaifa.baidu.com/)
 - [油管快乐水](https://youtube.com/)
 - [GitHub Token令牌](https://github.com/settings/tokens)
