@@ -112,6 +112,7 @@
 - [TypeScript入门教程](https://ts.xcatliu.com/)
 - [前端书籍库](https://github.com/Mrrabbitan/learningMaterials)
 - [开源书籍库](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-zh.md)
+- [推荐工程师合适读本(2021)](https://github.com/0voice/expert_readed_books)
 - [labuladong的算法小抄](https://labuladong.gitee.io/algo/)
 
 ------
