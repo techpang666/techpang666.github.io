@@ -20,6 +20,8 @@
 - [解决nuxt的本地存储问题](https://github.com/robinvdvleuten/vuex-persistedstate)
 - [https和ssh的区别](https://www.cnblogs.com/wannananana/p/12059806.html)
 - [在vue中使用高德地图](http://vue-gaode.rxshc.com/)
+- [详解script标签](https://www.html.cn/archives/8254)
+- [JS中的四种常用数组排序方法](https://blog.csdn.net/m0_49993061/article/details/108329017)
 
 ------
 ## **一些面试题文章**

@@ -211,7 +211,6 @@
 - [前端mock数据教程](https://zhuanlan.zhihu.com/p/77199413)
 - [模拟后端接口(moco)](https://juejin.cn/post/6918905415677771790)
 - [5R成功法则](https://www.jianshu.com/p/5548280cd6cf?utm_campaign=haruki)
-- [JS中的四种常用数组排序方法](https://blog.csdn.net/m0_49993061/article/details/108329017)
 - [生成在线GitHub简历](https://resume.github.io/)
 - [在线优化Markdown](https://www.mdnice.com/)
 - [前端程序员简历模板](https://github.com/geekcompany/ResumeSample/blob/master/web.md)
