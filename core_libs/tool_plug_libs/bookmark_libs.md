@@ -249,6 +249,7 @@
 - [vue运行报错的解决方案(vue-cli-service serve --open)](https://www.codeleading.com/article/72355216551/)
 - [node版本导致的运行项目问题](https://blog.csdn.net/Juliet_xmj/article/details/111562619)
 - [当前小程序appid已开通云开发的情况如何处理](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/quickstart.html)
+- [解决原生小程序支持es8的async](https://raw.githubusercontent.com/facebook/regenerator/master/packages/runtime/runtime.js)
 
 ------
 ## **开工大吉配置套餐🍊**
