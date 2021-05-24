@@ -73,6 +73,12 @@ git config --global user.name test_dev
 git config --global user.email test@qq.com
 ```
 
+```bash
+# 检查当前的提交者信息
+git config user.name
+git config user.email
+```
+
 提交者信息分项目级别和系统级别  
 也就是加`--global`和不加的区别  
 
