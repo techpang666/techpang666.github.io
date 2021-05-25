@@ -172,6 +172,7 @@
 - [VSCode插件市场](https://marketplace.visualstudio.com/)
 - [国外的CDN库](https://www.jsdelivr.com/)
 - [发表情包](https://fabiaoqing.com/)
+- [GitHub的一些表情包](https://github.com/zhaoolee/ChineseBQB)
 - [通过PicGo搭建图床](https://juejin.cn/post/6921961828692000775)
 - [项目快速集成各国国旗](https://github.com/lipis/flag-icon-css)
 - [基于VuePress搭建博客](http://www.inode.club/webframe/tool/vuepressBlog.html)
@@ -251,6 +252,7 @@
 - [node版本导致的运行项目问题](https://blog.csdn.net/Juliet_xmj/article/details/111562619)
 - [当前小程序appid已开通云开发的情况如何处理](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/quickstart.html)
 - [解决原生小程序支持es8的async](https://raw.githubusercontent.com/facebook/regenerator/master/packages/runtime/runtime.js)
+- [getUserInfo()用户信息获取失败的解决方案](https://developers.weixin.qq.com/community/develop/doc/00088855be40000af6ebb33be54c00)
 
 ------
 ## **开工大吉配置套餐🍊**
