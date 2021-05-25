@@ -8,9 +8,12 @@ document.head.appendChild('script')
 document.head.appendChild(script)
 ```
 
+>`<link rel=preload>` must have a valid `as` value
 
-
-
+```html
+<link rel="preload" href="./test.js">
+<!-- This is a bug in Chrome, so we decided to leave it as is. -->
+```
 
 
 
