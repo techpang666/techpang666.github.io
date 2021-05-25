@@ -8,6 +8,7 @@
 - [开仓大吉🍊](https://github.com/new)
 - [自律使人强大🍖](https://github.com/techpang666/commuter/blob/master/commuter.md)
 - [每天六点输出半个小时⚡️](https://github.com/techpang666/books_output/blob/master/core/red_ruby_book/red_ruby_book.md)
+- [一起读书吧📚](https://github.com/techpang666/books_output)
 - [GitHub👻](https://github.com/)
 - [Gitee🐎](https://gitee.com/)
 - [我的仓库👨‍💻](https://github.com/techpang666?tab=repositories)
