@@ -1,5 +1,5 @@
 
-# **一些bug**
+# **一些bug👹**
 
 >Uncaught TypeError: Failed to execute 'appendChild' on 'Node': parameter 1 is not of type 'Node'
 
