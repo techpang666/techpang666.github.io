@@ -47,6 +47,7 @@
 - [uView组件下载地址](https://gitee.com/xuqu/uView)
 - [less插件](https://ext.dcloud.net.cn/plugin?id=2031)
 - [uni插件大赛](https://ask.dcloud.net.cn/article/38878)
+- [uni的条件编译方案](https://uniapp.dcloud.io/platform?id=%e6%9d%a1%e4%bb%b6%e7%bc%96%e8%af%91)
 
 ------
 ## **一些不错的文章/项目😲**
