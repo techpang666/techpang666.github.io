@@ -93,7 +93,6 @@
         "wxml": "html"
     },
     "minapp-vscode.disableAutoConfig": true,
-    "prettier.semi": false,
     "[wxml]": {
         "editor.defaultFormatter": "qiu8310.minapp-vscode"
     },
@@ -102,4 +101,5 @@
     "code-runner.saveFileBeforeRun": true,
     "code-runner.saveAllFilesBeforeRun": true,
     "code-runner.runInTerminal": true,
+    "prettier.trailingComma": "all",
 }
