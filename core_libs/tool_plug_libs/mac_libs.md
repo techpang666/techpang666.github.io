@@ -24,6 +24,7 @@
 * command+option+h(隐藏其他应用)
 * command+shift+.(显示隐藏文件)
 * command+shift+w(关闭当前应用)
+* command+shift+3(截图全屏)
 * command+shift+delete(清空回收站)
 * command+空格键(打开应用)
 * command+`(切换应用的多窗口)
