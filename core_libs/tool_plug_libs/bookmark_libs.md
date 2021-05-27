@@ -6,7 +6,7 @@
 ## **JavaScript研究员🧐**
 >一些常用的书签(阶段性调整)  
 - [开仓大吉🍊](https://github.com/new)
-- [自律使人强大🍖](https://github.com/techpang666/commuter/blob/master/commuter.md)
+- [自律使人强大(一些输出简报)🍖](https://github.com/techpang666/commuter/blob/master/commuter.md)
 - [每天六点输出半个小时⚡️](https://github.com/techpang666/books_output/blob/master/core/red_ruby_book/red_ruby_book.md)
 - [一起读书吧📚](https://github.com/techpang666/books_output)
 - [GitHub👻](https://github.com/)
