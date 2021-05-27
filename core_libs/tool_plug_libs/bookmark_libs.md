@@ -36,6 +36,18 @@
 - [阿里巴巴字体图标库](https://www.iconfont.cn/)
 
 ------
+## **GitHub小分队🐙**
+- [GitHub吉祥物👻](https://octodex.github.com/)
+- [GitHub中国用户排行榜](https://jaywcjlove.gitee.io/github-rank/users.china.html)
+- [GitHub Token令牌](https://github.com/settings/tokens)
+- [GitHub Gist代码片段](https://gist.github.com/)
+- [生成在线GitHub简历](https://resume.github.io/)
+- [GitHub云端开发](https://zhuanlan.zhihu.com/p/138815577)
+- [一些GitHub好玩的东西](https://mp.weixin.qq.com/s/Wwcn5x1qV-KD2pIAH5HQuA)
+- [利用GitHub Actions自动化部署项目](https://juejin.cn/post/6847902222966079501)
+- [通过GitHub自动发版到NPM](https://juejin.cn/post/6920049554264064008)
+
+------
 ## **一些vue及uni的生产力书签⚡**
 - [Element图标库](https://element.eleme.cn/#/zh-CN/component/icon)
 - [Element组件列表](https://element.eleme.cn/#/zh-CN/component/quickstart)
@@ -109,7 +121,7 @@
 - [基于Vue实现的Ant Design](https://www.antdv.com/docs/vue/introduce-cn/)
 
 ------
-## **一些硬核资料👹**
+## **一些硬核资料🐮**
 - [深入V8引擎](https://github.com/plctlab/v8-internals)
 - [JavaScript开发者应懂的33个概念](https://github.com/stephentian/33-js-concepts)
 - [ES6标准入门](https://wangdoc.com/es6/)
@@ -150,11 +162,9 @@
 
 ------
 ## **如意锦囊🌈**
-- [GitHub吉祥物👻](https://octodex.github.com/)
 - [云端便携空调❄️](https://www.yunyoujun.cn/air-conditioner-room/)
 - [百度开发者搜索引擎](https://kaifa.baidu.com/)
 - [油管快乐水](https://youtube.com/)
-- [GitHub Token令牌](https://github.com/settings/tokens)
 - [视频号管理平台](https://channels.weixin.qq.com/)
 - [获取随机手机号](https://techpang.top/generate_random_phone/)
 - [获取随机双色球](https://techpang.top/double_color_ball/)
@@ -164,12 +174,6 @@
 - [尤老大的提交3D模型](https://skyline.github.com/yyx990803/2020)
 - [尤老大的微博](https://www.weibo.com/arttechdesign)
 - [生成对应的git忽略文件](https://www.toptal.com/developers/gitignore)
-- [GitHub云端开发](https://zhuanlan.zhihu.com/p/138815577)
-- [一些GitHub好玩的东西](https://mp.weixin.qq.com/s/Wwcn5x1qV-KD2pIAH5HQuA)
-- [GitHub Gist代码片段](https://gist.github.com/)
-- [利用GitHub Actions自动化部署项目](https://juejin.cn/post/6847902222966079501)
-- [通过GitHub自动发版到NPM](https://juejin.cn/post/6920049554264064008)
-- [GitHub中国用户排行榜](https://jaywcjlove.gitee.io/github-rank/users.china.html)
 - [GitHub个性化主页数据牌及统计卡片](https://my.oschina.net/wonz/blog/4546873)
 - [有趣的README](https://my.oschina.net/u/4343506/blog/4479956)
 - [VSCode插件市场](https://marketplace.visualstudio.com/)
@@ -215,7 +219,6 @@
 - [前端mock数据教程](https://zhuanlan.zhihu.com/p/77199413)
 - [模拟后端接口(moco)](https://juejin.cn/post/6918905415677771790)
 - [5R成功法则](https://www.jianshu.com/p/5548280cd6cf?utm_campaign=haruki)
-- [生成在线GitHub简历](https://resume.github.io/)
 - [在线优化Markdown](https://www.mdnice.com/)
 - [前端程序员简历模板](https://github.com/geekcompany/ResumeSample/blob/master/web.md)
 - [秋风的markdown简历渲染](https://juejin.cn/post/6939698263524605965)
