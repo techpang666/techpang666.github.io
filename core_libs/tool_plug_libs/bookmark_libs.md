@@ -6,8 +6,7 @@
 ## **JavaScript研究员🧐**
 >一些常用的书签(阶段性调整)  
 - [开仓大吉🍊](https://github.com/new)
-- [自律使人强大(一些输出简报)🍖](https://github.com/techpang666/commuter/blob/master/commuter.md)
-- [每天六点输出半个小时⚡️](https://github.com/techpang666/books_output/blob/master/core/red_ruby_book/red_ruby_book.md)
+- [五点常规行动⚡️](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/tool_plug_libs/plan.md)
 - [一起读书吧📚](https://github.com/techpang666/books_output)
 - [GitHub👻](https://github.com/)
 - [Gitee🐎](https://gitee.com/)
@@ -32,6 +31,7 @@
 ## **工作流书签超集👨‍💻**
 - [公众号平台](https://mp.weixin.qq.com/)
 - [小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
+- [小程序的issue列表](https://developers.weixin.qq.com/community/develop/issueList)
 - [Vue2.0接口文档](https://cn.vuejs.org/v2/api/)
 - [阿里巴巴字体图标库](https://www.iconfont.cn/)
 
