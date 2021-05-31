@@ -26,6 +26,7 @@
 - [提交信息的符号指南🚀](https://gitmoji.dev/)
 - [我的表情包👾](https://gitee.com/techpang/img_emoji_libs/tree/master/emoji_libs)
 - [国内必应🧐](https://cn.bing.com/)
+- [百度图片📷](https://image.baidu.com/)
 
 ------
 ## **工作流书签超集👨‍💻**
