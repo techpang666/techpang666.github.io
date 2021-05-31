@@ -26,6 +26,7 @@
 - [提交信息的符号指南🚀](https://gitmoji.dev/)
 - [我的表情包👾](https://gitee.com/techpang/img_emoji_libs/tree/master/emoji_libs)
 - [国内必应🧐](https://cn.bing.com/)
+- [Pixabay🧩](https://pixabay.com/zh/)
 - [百度图片📷](https://image.baidu.com/)
 
 ------
@@ -193,7 +194,6 @@
 - [取色板](https://colorhunt.co/palettes)
 - [鼠标取色](https://color.hailpixel.com/)
 - [pexels(图片素材库)](https://www.pexels.com/zh-cn/)
-- [pixabay(图片素材库)](https://pixabay.com/zh/)
 - [图片素材库超集](https://zhuanlan.zhihu.com/p/37259562)
 - [正则表达式](https://c.runoob.com/front-end/854)
 - [JSON在线解析](https://www.json.cn/)
