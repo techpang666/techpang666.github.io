@@ -30,7 +30,7 @@
 
 ------
 ## **一些输出行动💪**
->迭代一些有价值的事儿💰
+>每天进步一点点就好🤏
 - [考勤简报机🍖](https://github.com/techpang666/commuter/blob/master/commuter.md)
 - [半个小时红宝书行动📚](https://github.com/techpang666/books_output/blob/master/core/red_ruby_book/red_ruby_book.md)
 - [坚持输出一些面试题👨‍💻](https://techpang.top/interview_libs/)
