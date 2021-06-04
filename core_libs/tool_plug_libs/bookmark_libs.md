@@ -1,12 +1,11 @@
 
 # **硬核玩家沈公子的书签库🔖**
->**用户体验温馨提示(Ctrl+单击打开相关链接)💖**  
+>**用户体验温馨提示(Ctrl+单击打开相关链接)😁**
 
 ------
 ## **JavaScript研究员🧐**
->一些常用的书签(阶段性调整)  
+>一些常用的书签(阶段性调整)
 - [开仓大吉🍊](https://github.com/new)
-- [五点常规行动⚡️](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/tool_plug_libs/plan.md)
 - [一起读书吧📚](https://github.com/techpang666/books_output)
 - [GitHub👻](https://github.com/)
 - [Gitee🐎](https://gitee.com/)
@@ -28,6 +27,15 @@
 - [国内必应🧐](https://cn.bing.com/)
 - [Pixabay🧩](https://pixabay.com/zh/)
 - [百度图片📷](https://image.baidu.com/)
+
+------
+## **一些输出行动💪**
+>迭代一些有价值的事儿💰
+- [考勤简报机🍖](https://github.com/techpang666/commuter/blob/master/commuter.md)
+- [半个小时红宝书行动📚](https://github.com/techpang666/books_output/blob/master/core/red_ruby_book/red_ruby_book.md)
+- [坚持输出一些面试题👨‍💻](https://techpang.top/interview_libs/)
+- [晚上充电一些项目🔋](https://skyline.github.com/techpang666/2021)
+- [更多行动在来的路上了🛵](https://techpang.top/)
 
 ------
 ## **工作流书签超集👨‍💻**
@@ -147,7 +155,7 @@
 
 ------
 ## **Mac小分队💻**
->忘了Windows吧 我养你🥰  
+>忘了Windows吧 我养你🥰
 - [一些快捷键及疑难杂症🥺](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/tool_plug_libs/mac_libs.md)
 - [我的Mac型号💻](https://support.apple.com/kb/SP794?locale=zh_CN)
 - [一些Mac的超集应用😲](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
