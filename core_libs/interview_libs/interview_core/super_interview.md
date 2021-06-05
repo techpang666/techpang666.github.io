@@ -13,6 +13,7 @@
   - [简述下你理解的优雅降级和渐进增强](#简述下你理解的优雅降级和渐进增强)
   - [css可以继承的属性](#css可以继承的属性)
 - [js小分队](#js小分队)
+  - [toString()和valueOf()的区别](#toString()和valueOf()的区别)
   - [Object是在堆还是栈里面](#Object是在堆还是栈里面)
   - [垃圾回收的两种方法](#垃圾回收的两种方法)
   - [说一下闭包](#说一下闭包)
@@ -76,6 +77,19 @@ alt作为图片的**替代文字**出现，title作为图片的解释文字出�
 
 ---
 ## js小分队
+
+### toString()和valueOf()的区别
+
+对象的两个方法 Object.protototype
+
+toString() 返回对象的字符串表示
+valueOf() 返回对象的字符串/数值或布尔值表示(其实就是返回自身)
+
+toString()在对象的时候 就变成"[object Object]"
+
+表示数组的时候 就变成数组内容以逗号连接的字符串 相当于Array.join(',')
+
+valueOf的优先级比toString高
 
 ### Object是在堆还是栈里面
 
