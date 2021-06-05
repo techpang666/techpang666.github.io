@@ -3,16 +3,27 @@
 
 ## 导航大纲
 - [html小分队](#html小分队)
-  - [阿巴阿巴测试一下](#阿巴阿巴测试一下)
+  - [如何让a标签鼠标悬停变色](#如何让a标签鼠标悬停变色)
+  - [元素的alt和title有什么异同](#元素的alt和title有什么异同)
 - [css小分队](#css小分队)
   - [css可以继承的属性](#css可以继承的属性)
 - [js小分队](#js小分队)
   - [说一下闭包](#说一下闭包)
-- [一些其他私有数据](#一些其他私有数据)
+- [一些其他的私有数据](https://github.com/techpang666/cloud_office/blob/master/markdown/interview_libs/setout/interview_essay.md)
 
 ## html小分队
 
-### 阿巴阿巴测试一下
+### 如何让a标签鼠标悬停变色
+
+```css
+a:hover {
+  color: pink;
+}
+```
+
+### 元素的alt和title有什么异同
+
+alt作为图片的**替代文字**出现，title作为图片的解释文字出现
 
 ## css小分队
 
