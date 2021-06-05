@@ -8,6 +8,7 @@
 - [css小分队](#css小分队)
   - [css可以继承的属性](#css可以继承的属性)
 - [js小分队](#js小分队)
+  - [Object是在堆还是栈里面](#Object是在堆还是栈里面)
   - [垃圾回收的两种方法](#垃圾回收的两种方法)
   - [说一下闭包](#说一下闭包)
 - [一些其他的私有数据](https://github.com/techpang666/cloud_office/blob/master/markdown/interview_libs/setout/interview_essay.md)
@@ -37,6 +38,14 @@ alt作为图片的**替代文字**出现，title作为图片的解释文字出�
 - font-family
 
 ## js小分队
+
+### Object是在堆还是栈里面
+
+**堆里面**
+
+栈内存主要用于存储各种基本类型的变量 比如Boolean/Number/String/Undefined/Null
+
+堆内存主要负责像对象Object这种变量类型的存储
 
 ### 垃圾回收的两种方法
 
