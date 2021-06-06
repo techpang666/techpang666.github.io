@@ -25,10 +25,8 @@
   - [说一下闭包](#说一下闭包)
 - [vue小分队](#vue小分队)
   - [说一下双向绑定的原理](#说一下双向绑定的原理)
-  - [说一下vue的响应式原理](#说一下vue的响应式原理)
 - [兼容优化小分队](#兼容优化小分队)
   - [如何处理浏览器兼容问题](#如何处理浏览器兼容问题)
-  - [如何处理浏览器样式兼容问题](#如何处理浏览器样式兼容问题)
 - [一些其他的私有数据](https://github.com/techpang666/cloud_office/blob/master/markdown/interview_libs/setout/interview_essay.md)
 
 ---
