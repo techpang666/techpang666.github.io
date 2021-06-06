@@ -174,5 +174,16 @@ valueOf的优先级比toString高
 
 闭包最大的作用就是用来变量私有
 
+---
+## vue小分队
+
+### 说一下双向绑定的原理
+
+利用Object.defineProperty劫持对象的访问器
+
+当属性值发生变化的时候 我们获取变化进行后续的操作
+
+vue3通过proxy进行类似的操作
+
 ------
 ![end](https://gitee.com/techpang/img_emoji_libs/raw/master/img_bed/markdown_images/end.jpg '富婆加我吧不想努力了')
