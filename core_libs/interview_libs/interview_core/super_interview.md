@@ -8,6 +8,7 @@
 
 ## 导航大纲
 - [html小分队](#html小分队)
+  - [在页面上隐藏元素的方法有哪些](#在页面上隐藏元素的方法有哪些)
   - [页面渲染html的过程](#页面渲染html的过程)
   - [如何让a标签鼠标悬停变色](#如何让a标签鼠标悬停变色)
   - [元素的alt和title有什么异同](#元素的alt和title有什么异同)
@@ -33,6 +34,17 @@
 
 ---
 ## html小分队
+
+### 在页面上隐藏元素的方法有哪些
+
+- display: none
+- opacity: 0
+- visibility: hidden
+- z-index: -999
+- transform: scale(0)
+- margin-left: -100%
+- position: relative; left: -100%
+- width: 0; height: 0;
 
 ### 页面渲染html的过程
 
