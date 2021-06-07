@@ -25,7 +25,7 @@
   - [说一下原型对象](#说一下原型对象)
   - [说一下原型链](#说一下原型链)
   - [说一下作用域链](#说一下作用域链)
-  - [toString()和valueOf()的区别](#toString()和valueOf()的区别)
+  - [toString和valueOf的区别](#toString和valueOf的区别)
   - [Object是在堆还是栈里面](#Object是在堆还是栈里面)
   - [垃圾回收的两种方法](#垃圾回收的两种方法)
   - [说一下闭包](#说一下闭包)
@@ -166,7 +166,7 @@ hasOwnProperty就是用来判断某个属性是不是自己的
 
 这样形成的变量作用域链式结构 被称为作用域链
 
-### toString()和valueOf()的区别
+### toString和valueOf的区别
 
 对象的两个方法 Object.protototype
 
