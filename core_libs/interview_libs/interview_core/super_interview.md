@@ -42,6 +42,7 @@
   - [垃圾回收的两种方法](#垃圾回收的两种方法)
   - [说一下闭包](#说一下闭包)
 - [vue小分队🍖](#vue小分队🍖)
+  - [v-show和v-if的区别](#v-show和v-if的区别)
   - [为什么要替换defineProperty](#为什么要替换defineProperty)
   - [vue3和vue2的区别](#vue3和vue2的区别)
   - [虚拟dom的优劣](#虚拟dom的优劣)
@@ -369,8 +370,9 @@ valueOf的优先级比toString高
 两者都是用来显示隐藏元素的
 
 不同的是
-- v-if是通过销毁和重建DOM让元素显示隐藏的
-- v-show是通过修改display属性让元素显示隐藏的
+1. v-if是通过销毁和重建DOM让元素显示隐藏的
+2. v-show是通过修改display属性让元素显示隐藏的
+3. v-if有更高的切换开销 而v-show是有更高的首次渲染开销
 
 ### 为什么要替换defineProperty
 
