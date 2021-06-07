@@ -42,6 +42,7 @@
   - [垃圾回收的两种方法](#垃圾回收的两种方法)
   - [说一下闭包](#说一下闭包)
 - [vue小分队🍖](#vue小分队🍖)
+  - [虚拟dom的实现原理](#虚拟dom的实现原理)
   - [说一下双向绑定的原理](#说一下双向绑定的原理)
 - [一些其他的私有数据😈](https://github.com/techpang666/cloud_office/blob/master/markdown/interview_libs/setout/interview_essay.md)
 
@@ -359,6 +360,12 @@ valueOf的优先级比toString高
 
 ---
 ## vue小分队🍖
+
+### 虚拟dom的实现原理
+
+1. 虚拟DOM本质上是JavaScript对象,是对真实DOM的抽象
+2. 状态变更时，记录新树和旧树的差异
+3. 最后把差异更新到真正的dom中
 
 ### 说一下双向绑定的原理
 
