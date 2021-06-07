@@ -42,6 +42,7 @@
   - [垃圾回收的两种方法](#垃圾回收的两种方法)
   - [说一下闭包](#说一下闭包)
 - [vue小分队🍖](#vue小分队🍖)
+  - [vue3和vue2的区别](#vue3和vue2的区别)
   - [虚拟dom的优劣](#虚拟dom的优劣)
   - [虚拟dom的实现原理](#虚拟dom的实现原理)
   - [说一下双向绑定的原理](#说一下双向绑定的原理)
@@ -361,6 +362,15 @@ valueOf的优先级比toString高
 
 ---
 ## vue小分队🍖
+
+### vue3和vue2的区别
+
+1. setup代替了之前的beforeCreate和created
+2. proxy代替Object.defineProperty(vue2的双向绑定的核心)
+3. diff算法的提升
+4. typeScript的支持
+5. 打包体积的优化
+6. 使用自己的构建工具vite
 
 ### 虚拟dom的优劣
 
