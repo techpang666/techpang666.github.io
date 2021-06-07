@@ -42,6 +42,7 @@
   - [垃圾回收的两种方法](#垃圾回收的两种方法)
   - [说一下闭包](#说一下闭包)
 - [vue小分队🍖](#vue小分队🍖)
+  - [为什么要替换defineProperty](#为什么要替换defineProperty)
   - [vue3和vue2的区别](#vue3和vue2的区别)
   - [虚拟dom的优劣](#虚拟dom的优劣)
   - [虚拟dom的实现原理](#虚拟dom的实现原理)
@@ -362,6 +363,14 @@ valueOf的优先级比toString高
 
 ---
 ## vue小分队🍖
+
+### 为什么要替换defineProperty
+
+defineProperty只能响应**首次渲染时候的属性**
+
+Proxy需要的是**整体** 不需要关心里面有什么属性
+
+**而且Proxy的配置项有13种** 可以做更细致的事情 这是defineProperty做不到的
 
 ### vue3和vue2的区别
 
