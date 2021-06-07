@@ -364,6 +364,14 @@ valueOf的优先级比toString高
 ---
 ## vue小分队🍖
 
+### v-show和v-if的区别
+
+两者都是用来显示隐藏元素的
+
+不同的是
+- v-if是通过销毁和重建DOM让元素显示隐藏的
+- v-show是通过修改display属性让元素显示隐藏的
+
 ### 为什么要替换defineProperty
 
 defineProperty只能响应**首次渲染时候的属性**
