@@ -25,6 +25,7 @@
   - [简述下你理解的优雅降级和渐进增强](#简述下你理解的优雅降级和渐进增强)
   - [css可以继承的属性](#css可以继承的属性)
 - [js小分队🐎](#js小分队🐎)
+  - [写一个获取数组的最大值/最小值的方法](#写一个获取数组的最大值/最小值的方法)
   - [如何删除对象的a属性](#如何删除对象的a属性)
   - [说一下常用的数组方法](#说一下常用的数组方法)
   - [typeof的返回值](#typeof的返回值)
@@ -210,6 +211,18 @@ css有两种盒子模型 分别是标准盒子模型和怪异盒子模型
 
 ---
 ## js小分队🐎
+
+### 写一个获取数组的最大值/最小值的方法
+
+```js
+let demo = [25, 62, 91, 78, 34, 62];
+let max_res = Math.max.apply(this, demo);
+let min_res = Math.min.apply(this, demo);
+console.log(max_res); /* 91 */
+console.log(min_res); /* 25 */
+// 用this和Array都是全等的
+console.log(Math.min.apply(this, demo) === Math.min.apply(Array, demo)); /* true */
+```
 
 ### 如何删除对象的a属性
 
