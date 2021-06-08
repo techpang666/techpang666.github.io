@@ -48,6 +48,7 @@
   - [虚拟dom的实现原理](#虚拟dom的实现原理)
   - [说一下双向绑定的原理](#说一下双向绑定的原理)
 - [小程序小分队👻](#小程序小分队👻)
+  - [小程序的本地存储和web的区别](#小程序的本地存储和web的区别)
   - [setData和data的区别](#setData和data的区别)
   - [open-type的作用](#open-type的作用)
   - [如何获取用户信息](#如何获取用户信息)
@@ -432,6 +433,23 @@ vue3通过proxy进行类似的操作
 
 ---
 ## 小程序小分队👻
+
+### 小程序的本地存储和web的区别
+
+- 使用的方法不同
+- 有没有类型转换
+
+小程序是通过这两个方法进行缓存获取数据的
+- wx.setStorageSync()
+- wx.getStorageSync()
+
+web是通过这两个方法
+- localStorage.setItem()
+- localStorage.getItem()
+
+web不管存入什么类型的数据都会通过toString()变成字符串存储
+
+小程序不存在什么类型转换 存放什么类型的数据 获取的时候就是什么类型的数据
 
 ### setData和data的区别
 
