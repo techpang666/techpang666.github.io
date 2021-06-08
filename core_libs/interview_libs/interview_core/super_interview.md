@@ -24,6 +24,7 @@
   - [简述下你理解的优雅降级和渐进增强](#简述下你理解的优雅降级和渐进增强)
   - [css可以继承的属性](#css可以继承的属性)
 - [js小分队🐎](#js小分队🐎)
+  - [typeof的返回值](#typeof的返回值)
   - [说一下null和undefined的区别](#说一下null和undefined的区别)
   - [说一下js的数据类型](#说一下js的数据类型)
   - [浅拷贝和深拷贝的区别及如何实现深拷贝](#浅拷贝和深拷贝的区别及如何实现深拷贝)
@@ -198,6 +199,22 @@ css有两种盒子模型 分别是标准盒子模型和怪异盒子模型
 
 ---
 ## js小分队🐎
+
+### typeof的返回值
+
+一共七种
+1. number
+2. string
+3. boolean
+4. undefined
+5. symbol
+6. object
+7. function
+
+一些细节
+- null也会返回object(因为null是空对象指针)
+- array需要通过toString.call()判断 typeof不能判断数组
+- symbol为符号
 
 ### 说一下null和undefined的区别
 
