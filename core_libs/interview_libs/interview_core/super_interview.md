@@ -48,6 +48,8 @@
   - [虚拟dom的优劣](#虚拟dom的优劣)
   - [虚拟dom的实现原理](#虚拟dom的实现原理)
   - [说一下双向绑定的原理](#说一下双向绑定的原理)
+- [http协议小分队🌐](#http协议小分队🌐)
+  - [说一下你知道的状态码](#说一下你知道的状态码)
 - [一些其他的私有数据😈](https://github.com/techpang666/cloud_office/blob/master/markdown/interview_libs/setout/interview_essay.md)
 
 ---
@@ -419,6 +421,30 @@ Proxy需要的是**整体** 不需要关心里面有什么属性
 当属性值发生变化的时候 我们获取变化进行后续的操作
 
 vue3通过proxy进行类似的操作
+
+---
+## http协议小分队🌐
+
+### 说一下你知道的状态码
+
+状态码主要分为5种类型
+- 1xx 消息
+- 2xx 成功
+- 3xx 重定向
+- 4xx 客户端错误
+- 5xx 服务器错误
+
+常见的状态码
+- 200 成功
+- 301 永久重定向
+- 302 临时重定向
+- 304 使用缓存不改变
+- 401 请求授权失败
+- 403 禁止访问
+- 400 错误请求
+- 404 找不到资源
+- 500 服务器内部错误
+- 504 网关超时
 
 ------
 ![end](https://gitee.com/techpang/img_emoji_libs/raw/master/img_bed/markdown_images/end.jpg '富婆加我吧不想努力了')
