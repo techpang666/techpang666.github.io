@@ -48,6 +48,7 @@
   - [虚拟dom的实现原理](#虚拟dom的实现原理)
   - [说一下双向绑定的原理](#说一下双向绑定的原理)
 - [小程序小分队👻](#小程序小分队👻)
+  - [bindtap和catchtap的区别](#bindtap和catchtap的区别)
   - [小程序的本地存储和web的区别](#小程序的本地存储和web的区别)
   - [setData和data的区别](#setData和data的区别)
   - [open-type的作用](#open-type的作用)
@@ -433,6 +434,10 @@ vue3通过proxy进行类似的操作
 
 ---
 ## 小程序小分队👻
+
+### bindtap和catchtap的区别
+
+bindtap不能阻止事件冒泡 catchtap可以
 
 ### 小程序的本地存储和web的区别
 
