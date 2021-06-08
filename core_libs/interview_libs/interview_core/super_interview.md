@@ -49,7 +49,7 @@
   - [虚拟dom的实现原理](#虚拟dom的实现原理)
   - [说一下双向绑定的原理](#说一下双向绑定的原理)
 - [小程序小分队👻](#小程序小分队👻)
-  - [setData()和data的区别](#setData()和data的区别)
+  - [setData和data的区别](#setData和data的区别)
   - [open-type的作用](#open-type的作用)
   - [如何获取用户信息](#如何获取用户信息)
   - [如何授权登录](#如何授权登录)
@@ -434,7 +434,7 @@ vue3通过proxy进行类似的操作
 ---
 ## 小程序小分队👻
 
-### setData()和data的区别
+### setData和data的区别
 
 this.setData()用于将数据从逻辑层发送到视图层 同时改变对应的this.data的值
 
