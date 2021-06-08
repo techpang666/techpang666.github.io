@@ -52,6 +52,8 @@
   - [浏览器输入url后发生了什么](#浏览器输入url后发生了什么)
   - [说一下跨域及如何解决跨域](#说一下跨域及如何解决跨域)
   - [说一下你知道的状态码](#说一下你知道的状态码)
+- [其他小分队🔫](#其他小分队🔫)
+  - [常用的五个网站](#常用的五个网站)
 - [一些其他的私有数据😈](https://github.com/techpang666/cloud_office/blob/master/markdown/interview_libs/setout/interview_essay.md)
 
 ---
@@ -471,6 +473,17 @@ proxy是在项目开发的时候使用 上线了一般接口和项目都是在�
 - 404 找不到资源
 - 500 服务器内部错误
 - 504 网关超时
+
+---
+## 其他小分队🔫
+
+### 常用的五个网站
+
+1. GitHub
+2. MDN中文网
+3. 掘金
+4. 相关技术官网文档
+5. 哔哩哔哩
 
 ------
 ![end](https://gitee.com/techpang/img_emoji_libs/raw/master/img_bed/markdown_images/end.jpg '富婆加我吧不想努力了')
