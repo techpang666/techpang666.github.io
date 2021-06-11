@@ -30,12 +30,12 @@
 
 ------
 ## **一些输出行动💪**
->每天进步一点点就好💰
-- [考勤简报机🍖](https://github.com/techpang666/commuter/blob/master/commuter.md)
-- [半个小时红宝书行动📚](https://github.com/techpang666/books_output/blob/master/core/red_ruby_book/red_ruby_book.md)
-- [坚持输出一些面试题👨‍💻](https://techpang.top/interview_libs/)
-- [晚上充电一些项目🔋](https://skyline.github.com/techpang666/2021)
-- [更多行动在来的路上了🛵](https://techpang.top/)
+>每天进步一点点💰
+1. [考勤简报机🍖](https://github.com/techpang666/commuter/blob/master/commuter.md)
+2. [半个小时红宝书行动📚](https://github.com/techpang666/books_output/blob/master/core/red_ruby_book/red_ruby_book.md)
+3. [坚持输出一些面试题👨‍💻](https://techpang.top/interview_libs/)
+4. [晚上充电一些项目🔋](https://skyline.github.com/techpang666/2021)
+5. [更多行动在来的路上了🛵](https://techpang.top/)
 
 ------
 ## **工作流书签超集👨‍💻**
@@ -278,6 +278,8 @@
 - [Snipaste截图软件](https://zh.snipaste.com/)
 - [有道词典](https://cidian.youdao.com/multi.html)
 - [微信](https://pc.weixin.qq.com/)
+- [企业微信](https://work.weixin.qq.com/#indexDownload)
+- [钉钉](https://www.dingtalk.com/download)
 - [火柴酱](https://huochaipro.com/)
 - [Code编辑器下载地址](https://code.visualstudio.com/download)
 - [Typora阅读器](https://typora.io/)
