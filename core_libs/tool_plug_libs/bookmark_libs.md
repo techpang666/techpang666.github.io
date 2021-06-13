@@ -23,6 +23,7 @@
 - [极客时间🕔](https://time.geekbang.org/dashboard/course)
 - [知识星球🌍](https://wx.zsxq.com/dweb2/login)
 - [提交信息的符号指南🚀](https://gitmoji.dev/)
+- [一些常用的命令🧨](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/tool_plug_libs/bash.md)
 - [我的表情包👾](https://gitee.com/techpang/img_emoji_libs/tree/master/emoji_libs)
 - [国内必应🧐](https://cn.bing.com/)
 - [Pixabay🧩](https://pixabay.com/zh/)
@@ -272,6 +273,7 @@
 ------
 ## **开工大吉配置套餐🍊**
 - [开发环境配置清单⚡️](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/tool_plug_libs/config_dev_workflow.md)
+- [一些配置命令](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/tool_plug_libs/bash.md)
 - [Chrome浏览器下载地址](https://www.google.cn/chrome)
 - [BandiZip压缩软件](https://www.bandisoft.com/bandizip/)
 - [Google加速器(仅限于玩Google及学术搜索)](http://googlehelper.net/)
