@@ -32,7 +32,7 @@
 ------
 ## **一些输出行动💪**
 >每天进步一点点💰
-1. [考勤简报机🍖](https://github.com/techpang666/commuter/blob/master/commuter.md)
+1. [考勤简报机🍖](https://github.com/techpang666/commuter)
 2. [半个小时红宝书行动📚](https://github.com/techpang666/books_output/blob/master/core/red_ruby_book/red_ruby_book.md)
 3. [坚持输出一些面试题👨‍💻](https://techpang.top/interview_libs/)
 4. [晚上充电一些项目🔋](https://skyline.github.com/techpang666/2021)
