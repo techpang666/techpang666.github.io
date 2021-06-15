@@ -290,6 +290,7 @@
 - [Hbuilderx下载地址](https://www.dcloud.io/hbuilderx.html)
 - [微信开发者工具下载地址](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html)
 - [WPS全家桶](https://www.wps.cn/)
+- [xmind思维导图](https://www.xmind.cn/download/)
 - [网易云音乐](https://music.163.com/#/download)
 - [PotPlayer播放器](https://daumpotplayer.com/download/)
 - [向日葵远程控制](https://sunlogin.oray.com/)
