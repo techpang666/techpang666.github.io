@@ -259,6 +259,7 @@
 - [Slidev幻灯片](https://sli.dev/)
 - [一键生成P站风格Logo](https://www.maxiaobang.com/4870.html)
 - [PornHub风格Logo生成](http://www.atoolbox.net/Tool.php?Id=783)
+- [安装yarn](https://juejin.cn/post/6883729383673053192)
 
 ------
 ## **一些疑难杂症💊**
