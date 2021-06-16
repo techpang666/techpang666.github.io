@@ -83,6 +83,8 @@
 ## **一些不错的项目**
 - [cool-admin后台管理系统(纯JavaScript开发)](https://admin.cool-js.com/)
 - [uni模板项目(自己写的)](https://github.com/techpang666/uni_template)
+- [vue2后台项目模板](https://github.com/PanJiaChen/vue-admin-template)
+- [vue2+ts后台项目模板](https://github.com/Armour/vue-typescript-admin-template)
 - [基于vue3+ts的后台项目模板](https://github.com/anncwb/vue-vben-admin)
 - [13k的vue3后台项目](https://github.com/lin-xin/vue-manage-system)
 - [9k的vue3后台项目](https://github.com/chuzhixin/vue-admin-beautiful)

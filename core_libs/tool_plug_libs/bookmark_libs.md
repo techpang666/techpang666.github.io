@@ -43,6 +43,7 @@
 - [公众号平台](https://mp.weixin.qq.com/)
 - [小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
 - [小程序的issue列表](https://developers.weixin.qq.com/community/develop/issueList)
+- [Vue3.0官网](https://v3.cn.vuejs.org/)
 - [Vue2.0接口文档](https://cn.vuejs.org/v2/api/)
 - [阿里巴巴字体图标库](https://www.iconfont.cn/)
 
@@ -90,7 +91,6 @@
 - [Vue框架👨‍💻](https://cn.vuejs.org/)
 - [Element桌面端组件库](https://element.eleme.cn/#/zh-CN/)
 - [Vant移动端组件库](https://youzan.github.io/vant/#/zh-CN/)
-- [Vue3.0官网](https://v3.cn.vuejs.org/)
 - [Vite构建工具](https://vitejs.dev/)
 - [Vue CLI脚手架工具](https://cli.vuejs.org/zh/)
 - [uniapp多端开发](https://uniapp.dcloud.io/)
@@ -259,6 +259,7 @@
 - [Slidev幻灯片](https://sli.dev/)
 - [一键生成P站风格Logo](https://www.maxiaobang.com/4870.html)
 - [PornHub风格Logo生成](http://www.atoolbox.net/Tool.php?Id=783)
+- [在线PS](https://www.photopea.com/)
 - [安装yarn](https://juejin.cn/post/6883729383673053192)
 
 ------
