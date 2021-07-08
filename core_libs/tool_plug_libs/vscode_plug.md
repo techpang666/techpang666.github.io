@@ -53,6 +53,7 @@
 * vue vscode snippets(vue代码片段)
 * vetur(vue开发插件)
 * 小程序开发助手(高亮及代码片段)
+* uni-app-snippets(uniapp代码片段)
 * minapp(支持小程序标签及属性补全)
 * wxapp-helper(快捷生成页面及组件)
 * wxml(高亮代码及格式化)
