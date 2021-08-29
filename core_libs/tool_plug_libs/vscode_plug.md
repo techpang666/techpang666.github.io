@@ -9,6 +9,7 @@
 * prettier(格式化工具)
 * eslint(js代码风格检查工具)
 * auto rename tag(自动重命名标签)
+* auto close tag(自动闭合标签)
 * auto import(自动导入)
 * open in browser(浏览器打开)
 * live server(热更新)
