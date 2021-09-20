@@ -608,9 +608,38 @@ new Vue({
 * 不支持CSS(template中很难写css)
 * 没有构建步骤(浏览器不识别其他的语言 只认识html/css/js)
 
+------
+记录一下props
+
+父传子需要通过props
+
+```html
+<!-- 子组件 -->
+<input :title="title" />
+<span>{{ title }}</span>
+```
+
+```js
+// 子组件中定义props自定义属性
+props: {
+  title: {
+    type: String,
+    default: 'demo',
+    required: true /* 如果是必传属性 就不需要default属性了 */
+  }
+}
+
+// 可以拿到props的值
+console.log(this.title)
 
 
+```
 
+```html
+<!-- 父组件 -->
+<Child :title="item.title" />
+
+```
 
 ------
 ## **🍊如意锦囊💰**
